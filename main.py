@@ -30,14 +30,14 @@ config.read('bot.conf')
 
 
 # arabic
-schedule.every().day.at('07:58').do(hist_CHANNEL_AR_events)
+schedule.every().day.at('05:00').do(hist_CHANNEL_AR_events)
 schedule.every().day.at('11:00').do(hist_CHANNEL_AR_imgs)
 schedule.every().day.at('15:00').do(hist_CHANNEL_AR_death)
 schedule.every().day.at('22:00').do(hist_CHANNEL_AR_birth)
 schedule.every().friday.at('00:00').do(message_CHANNEL_AR_alert)
 
 # czech
-schedule.every().day.at('05:00').do(hist_CHANNEL_CS_events)
+schedule.every().day.at('08:02').do(hist_CHANNEL_CS_events)
 schedule.every().friday.at('00:00').do(message_CHANNEL_CS_alert)
 
 # german
