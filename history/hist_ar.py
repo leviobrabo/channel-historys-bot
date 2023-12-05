@@ -189,22 +189,20 @@ def get_historical_events():
     today = datetime.now()
     day = today.day
     month = today.month
-  #  try:
-    with open(
-            '../data/events_ar.json', 'r', encoding='utf-8'
+    try:
+        with open(
+            'channel-history/data/events_ar.json', 'r', encoding='utf-8'
         ) as file:
 
             json_events = json.load(file)
-            logger.info(f'{month}-{day}')
             events = json_events[f'{month}-{day}']
-            logger.info(events)
             if events:
                 return '\n\n'.join(events)
             else:
                 return None
-   # except Exception as e:
-       # logger.error('Error reading events from JSON:', repr(e))
-       # return None
+    except Exception as e:
+        logger.error('Error reading events from JSON:', repr(e))
+        return None
 
 
 def send_historical_events_channel(CHANNEL_AR):
