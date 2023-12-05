@@ -195,15 +195,15 @@ def get_historical_events():
         ) as file:
 
             json_events = json.load(file)
+            logger.info(f'{month}-{day}')
             events = json_events[f'{month}-{day}']
+            logger.info(events)
             if events:
                 return '\n\n'.join(events)
             else:
                 return None
     except Exception as e:
-        logger.info('-' * 50)
         logger.error('Error reading events from JSON:', repr(e))
-        logger.info('-' * 50)
         return None
 
 
