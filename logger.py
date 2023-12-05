@@ -1,7 +1,4 @@
 from loguru import logger
-import configparser
+from bot import *
 
-
-config = configparser.ConfigParser()
-config.read('bot.conf')
-logger.add(config['LOG']['LOG_PATH'])
+logger.add(LOGGER)

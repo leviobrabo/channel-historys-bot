@@ -1,10 +1,5 @@
 import configparser
-
 import telebot
-
-config = configparser.ConfigParser()
-config.read('bot.conf')
-
 
 config = configparser.ConfigParser()
 config.read('bot.conf')
@@ -26,5 +21,6 @@ CHANNEL_UK = int(config['HISTORY']['channel_ukrainian'])
 CHANNEL_ID = int(config['HISTORY']['channel_indonesian'])
 CHANNEL_VI = int(config['HISTORY']['channel_vietnamese'])
 CHANNEL_ZH = int(config['HISTORY']['channel_chinese'])
+LOGGER = config['LOG']['LOG_PATH']
 
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML')

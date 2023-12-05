@@ -1,22 +1,19 @@
-import bot
-import threading
-from time import sleep
-import logger
 import configparser
-
-config = configparser.ConfigParser()
-config.read('bot.conf')
+import threading
+from datetime import datetime, timedelta
+from time import sleep
 
 import schedule
-from datetime import datetime, timedelta
+from telebot import types, util
 
+from bot import bot
 from history.hist_ar import *
+from history.hist_cs import *
 from history.hist_de import *
 from history.hist_es import *
 from history.hist_fr import *
 from history.hist_hi import *
 from history.hist_id import *
-from history.hist_cs import *
 from history.hist_it import *
 from history.hist_ja import *
 from history.hist_ko import *
@@ -26,8 +23,11 @@ from history.hist_tr import *
 from history.hist_uk import *
 from history.hist_vi import *
 from history.hist_zh import *
+from logger import *
 
-from telebot import types, util
+config = configparser.ConfigParser()
+config.read('bot.conf')
+
 
 # arabic
 schedule.every().day.at('05:00').do(hist_CHANNEL_AR_events)
