@@ -42,10 +42,9 @@ def send_historical_events_CHANNEL_IT_image(CHANNEL_IT):
             if event.get('pages') and event['pages'][0].get('thumbnail')
         ]
 
-        if events:
-            random_event = random.choice(events)
-            event_text = random_event.get('text', '')
-            event_year = random_event.get('year', '')
+        random_event = random.choice(events_with_photo)
+        event_text = random_event.get('text', '')
+        event_year = random_event.get('year', '')
 
         if not events_with_photo:
             logger.info('Não há eventos com fotos para enviar hoje.')

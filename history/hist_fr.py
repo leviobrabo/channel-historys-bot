@@ -24,10 +24,9 @@ def send_historical_events_CHANNEL_FR_image(CHANNEL_FR):
             if event.get('pages') and event['pages'][0].get('thumbnail')
         ]
 
-        if events:
-            random_event = random.choice(events)
-            event_text = random_event.get('text', '')
-            event_year = random_event.get('year', '')
+        random_event = random.choice(events_with_photo)
+        event_text = random_event.get('text', '')
+        event_year = random_event.get('year', '')
 
         if not events_with_photo:
             logger.info('Não há eventos com fotos para enviar hoje.')
@@ -259,4 +258,3 @@ def message_CHANNEL_FR_alert():
     except Exception as e:
         logger.error(
             'Erreur lors de l\'envoi de faits historiques dans le canal :', str(e))
-

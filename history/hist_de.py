@@ -24,16 +24,14 @@ def send_historical_events_CHANNEL_DE_image(CHANNEL_DE):
             if event.get('pages') and event['pages'][0].get('thumbnail')
         ]
 
-        if events:
-            random_event = random.choice(events)
-            event_text = random_event.get('text', '')
-            event_year = random_event.get('year', '')
-
         if not events_with_photo:
             logger.info('Não há eventos com fotos para enviar hoje.')
             return
 
         random_event = random.choice(events_with_photo)
+        event_text = random_event.get('text', '')
+        event_year = random_event.get('year', '')
+
         caption = f'<b>🖼 | Illustrierte Geschichte </b>\n\nAm <b>{day}. {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n💬 Wussten Sie schon? Folgen Sie @die_huetie_geschichte.'
 
         options = {'parse_mode': 'HTML'}
