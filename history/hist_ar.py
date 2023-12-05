@@ -202,7 +202,7 @@ def get_historical_events():
                 return None
     except Exception as e:
         logger.info('-' * 50)
-        logger.error('Error reading events from JSON:', str(e))
+        logger.error('Error reading events from JSON:', repr(e))
         logger.info('-' * 50)
         return None
 
