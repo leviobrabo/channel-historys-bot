@@ -30,7 +30,7 @@ config.read('bot.conf')
 
 
 # arabic
-schedule.every().day.at('07:53').do(hist_CHANNEL_AR_events)
+schedule.every().day.at('07:55').do(hist_CHANNEL_AR_events)
 schedule.every().day.at('11:00').do(hist_CHANNEL_AR_imgs)
 schedule.every().day.at('15:00').do(hist_CHANNEL_AR_death)
 schedule.every().day.at('22:00').do(hist_CHANNEL_AR_birth)

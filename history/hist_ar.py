@@ -202,6 +202,7 @@ def get_historical_events():
                 return None
     except Exception as e:
         logger.error('Error reading events from JSON:', repr(e))
+        logger.error('File path:', 'data/events_ar.json')
         return None
 
 
