@@ -191,7 +191,7 @@ def get_historical_events():
     month = today.month
     try:
         with open(
-            'channel-history/data/events_ar.json', 'r', encoding='utf-8'
+            'history\hist_ar.py', 'r', encoding='utf-8'
         ) as file:
 
             json_events = json.load(file)
