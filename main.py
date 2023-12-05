@@ -2,6 +2,10 @@ import bot
 import threading
 from time import sleep
 import logger
+import configparser
+
+config = configparser.ConfigParser()
+config.read('bot.conf')
 
 import schedule
 from datetime import datetime, timedelta
