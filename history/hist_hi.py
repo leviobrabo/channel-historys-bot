@@ -32,7 +32,7 @@ def get_historical_events():
     month = today.month
     try:
         with open(
-            '../data/events-hi.json', 'r', encoding='utf-8'
+            'data/events-hi.json', 'r', encoding='utf-8'
         ) as file:
 
             json_events = json.load(file)
