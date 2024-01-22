@@ -36,7 +36,7 @@ def send_historical_events_channel(CHANNEL_VI):
         events = get_historical_events()
 
         if events:
-            message = f'<b>HÔM NAY TRONG LỊCH SỬ</b>\n\n📅 | Sự kiện vào ngày <b>{day}/{month}</b>\n\n{events}\n\n💬 Bạn có biết không? Theo dõi @hist_vi.'
+            message = f'<b>HÔM NAY TRONG LỊCH SỬ</b>\n\n📅 | Sự kiện vào ngày <b>{day}/{month}</b>\n\n{events}\n\n<blockquote>💬 Bạn có biết không? Theo dõi @hist_vi.</blockquote>'
 
             bot.send_message(CHANNEL_VI, message)
         else:

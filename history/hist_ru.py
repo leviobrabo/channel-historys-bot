@@ -33,7 +33,7 @@ def send_historical_events_CHANNEL_RU_image(CHANNEL_RU):
             return
 
         random_event = random.choice(events_with_photo)
-        caption = f'<b>🖼 | Ilustrowana historia </b>\n\n<b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.'
+        caption = f'<b>🖼 | Ilustrowana historia </b>\n\n<b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n<blockquote>💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.</blockquote>'
 
         options = {'parse_mode': 'HTML'}
 
@@ -105,7 +105,7 @@ def get_deaths_of_the_day(CHANNEL_RU):
 
                     message = f'<b>⚰️ | Zgony tego dnia: {day} {get_month_name(month)}</b>\n\n'
                     message += '\n\n'.join(death_messages)
-                    message += '\n\n💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.'
+                    message += '\n\n<blockquote>💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.</blockquote>'
 
                 bot.send_message(CHANNEL_RU, message)
             else:
@@ -162,7 +162,7 @@ def get_births_of_the_day(CHANNEL_RU):
 
                 message = f'<b>🎂 | Narodziny tego dnia: {day} {get_month_name(month)}</b>\n\n'
                 message += '\n\n'.join(birth_messages)
-                message += '\n\n💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.'
+                message += '\n\n<blockquote>💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.</blockquote>'
                 bot.send_message(CHANNEL_RU, message)
             else:
 
@@ -214,7 +214,7 @@ def send_historical_events_channel(CHANNEL_RU):
         events = get_historical_events()
 
         if events:
-            message = f'<b>DZIŚ W HISTORII</b>\n\n📅 | Wydarzenia w dniu <b>{day}/{month}</b>\n\n{events}\n\n💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.'
+            message = f'<b>DZIŚ W HISTORII</b>\n\n📅 | Wydarzenia w dniu <b>{day}/{month}</b>\n\n{events}\n\n<blockquote>💬 Czy wiedziałeś? Śledź @segodnya_v_Istoriis.</blockquote>'
 
             bot.send_message(CHANNEL_RU, message)
         else:

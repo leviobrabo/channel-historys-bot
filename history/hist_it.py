@@ -51,7 +51,7 @@ def send_historical_events_CHANNEL_IT_image(CHANNEL_IT):
             return
 
         random_event = random.choice(events_with_photo)
-        caption = f'<b>🖼 | Storia illustrata </b>\n\nIl <b>{day} di {get_month_name(month)} di {event_year}</b>\n\n<code>{event_text}</code>\n\n💬 Lo sapevi? Segui @storia_oggi'
+        caption = f'<b>🖼 | Storia illustrata </b>\n\nIl <b>{day} di {get_month_name(month)} di {event_year}</b>\n\n<code>{event_text}</code>\n\n<blockquote>💬 Lo sapevi? Segui @storia_oggi</blockquote>'
 
         options = {'parse_mode': 'HTML'}
 
@@ -100,7 +100,7 @@ def send_historical_events_channel(CHANNEL_IT):
         events = get_historical_events()
 
         if events:
-            message = f'<b>OGGI NELLA STORIA</b>\n\n📅 | Evento in data <b>{day}/{month}</b>\n\n{events}\n\n💬 Lo sapevi? Segui @storia_oggi.'
+            message = f'<b>OGGI NELLA STORIA</b>\n\n📅 | Evento in data <b>{day}/{month}</b>\n\n{events}\n\n<blockquote>💬 Lo sapevi? Segui @storia_oggi</blockquote>.'
 
             bot.send_message(CHANNEL_IT, message)
         else:

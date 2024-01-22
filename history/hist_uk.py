@@ -34,7 +34,7 @@ def send_historical_events_CHANNEL_UK_image(CHANNEL_UK):
             return
 
         random_event = random.choice(events_with_photo)
-        caption = f'<b>🖼 | Ілюстрована історія </b>\n\nУ <b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n💬 Ви знали? Підписуйтеся на @istoriya_uks.'
+        caption = f'<b>🖼 | Ілюстрована історія </b>\n\nУ <b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n<blockquote>💬 Ви знали? Підписуйтеся на @istoriya_uks.</blockquote>'
 
         options = {'parse_mode': 'HTML'}
 
@@ -105,7 +105,7 @@ def get_deaths_of_the_day(CHANNEL_UK):
 
                 message = f'<b>⚰️ | Смерті у цей день: {day} {get_month_name(month)}</b>\n\n'
                 message += '\n\n'.join(death_messages)
-                message += '\n\n💬 Ви знали? Підписуйтеся на @istoriya_uks.'
+                message += '\n\n<blockquote>💬 Ви знали? Підписуйтеся на @istoriya_uks.</blockquote>'
 
                 bot.send_message(CHANNEL_UK, message)
             else:
@@ -162,7 +162,7 @@ def get_births_of_the_day(CHANNEL_UK):
 
                 message = f'<b>🎂 | Народилися у цей день: {day} {get_month_name(month)}</b>\n\n'
                 message += '\n\n'.join(birth_messages)
-                message += '\n\n💬 Ви знали? Підписуйтеся на @istoriya_uks.'
+                message += '\n\n<blockquote>💬 Ви знали? Підписуйтеся на @istoriya_uks.</blockquote>'
 
                 bot.send_message(CHANNEL_UK, message)
             else:
@@ -215,7 +215,7 @@ def send_historical_events_channel(CHANNEL_UK):
         events = get_historical_events()
 
         if events:
-            message = f'<b>СЬОГОДНІ В ІСТОРІЇ</b>\n\n📅 | Подія в <b>{day}/{month}</b>\n\n{events}\n\n💬 Ви знали? Підписуйтеся на @istoriya_uks.'
+            message = f'<b>СЬОГОДНІ В ІСТОРІЇ</b>\n\n📅 | Подія в <b>{day}/{month}</b>\n\n{events}\n\n<blockquote>💬 Ви знали? Підписуйтеся на @istoriya_uks.</blockquote>'
             bot.send_message(CHANNEL_UK, message)
         else:
             bot.send_message(

@@ -33,7 +33,7 @@ def send_historical_events_CHANNEL_AR_image(CHANNEL_AR):
             return
 
         random_event = random.choice(events_with_photo)
-        caption = f'<b>🖼 | تاريخ مصور </b>\n\nفي <b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n💬 هل تعلم؟ تابع @tarikh_yawm.'
+        caption = f'<b>🖼 | تاريخ مصور </b>\n\nفي <b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n<blockquote>💬 هل تعلم؟ تابع @tarikh_yawm.</blockquote>'
 
         options = {'parse_mode': 'HTML'}
 
@@ -104,7 +104,7 @@ def get_deaths_of_the_day(CHANNEL_AR):
 
                 message = f'<b>⚰️ |  الوفيات في هذا اليوم: {day} من {get_month_name(month)}</b>\n\n'
                 message += '\n\n'.join(death_messages)
-                message += '\n\n💬 هل كنت تعلم؟ تابع @tarikh_yawm.'
+                message += '\n\n<blockquote>💬 هل كنت تعلم؟ تابع @tarikh_yawm.</blockquote>'
 
                 bot.send_message(CHANNEL_AR, message)
             else:
@@ -161,7 +161,7 @@ def get_births_of_the_day(CHANNEL_AR):
 
                 message = f'<b>🎂 | الأعياد في هذا اليوم: {day} من {get_month_name(month)}</b>\n\n'
                 message += '\n\n'.join(birth_messages)
-                message += '\n\n💬 هل كنت تعلم؟ تابع @tarikh_yawm.'
+                message += '\n\n<blockquote>💬 هل كنت تعلم؟ تابع @tarikh_yawm.</blockquote>'
 
                 bot.send_message(CHANNEL_AR, message)
             else:
@@ -212,7 +212,7 @@ def send_historical_events_channel(CHANNEL_AR):
         events = get_historical_events()
 
         if events:
-            message = f'<b>اليوم في التاريخ</b>\n\n📅 | حدث في <b>{day}/{month}</b>\n\n{events}\n\n💬 هل كنت تعلم؟ تابع @tarikh_yawm.'
+            message = f'<b>اليوم في التاريخ</b>\n\n📅 | حدث في <b>{day}/{month}</b>\n\n{events}\n\n<blockquote>💬 هل كنت تعلم؟ تابع @tarikh_yawm.</blockquote>'
             bot.send_message(CHANNEL_AR, message)
         else:
             bot.send_message(

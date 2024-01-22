@@ -38,7 +38,7 @@ def send_historical_events_channel(CHANNEL_KO):
         events = get_historical_events()
 
         if events:
-            message = f'<b>오늘의 역사</b>\n\n📅 | {day}/{month} 이벤트\n\n{events}\n\n💬 알고 계셨나요? @yeogsa_kr 를 팔로우하세요.'
+            message = f'<b>오늘의 역사</b>\n\n📅 | {day}/{month} 이벤트\n\n{events}\n\n<blockquote>💬 알고 계셨나요? @yeogsa_kr 를 팔로우하세요.</blockquote>'
 
             bot.send_message(CHANNEL_KO, message)
         else:

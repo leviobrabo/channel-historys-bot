@@ -56,7 +56,7 @@ def send_historical_events_channel(CHANNEL_HI):
         events = get_historical_events()
 
         if events:
-            message = f'<b>आज इतिहास में</b>\n\n📅 | <b>{day}/{month}</b> को घटना\n\n{events}\n\n💬 क्या आप जानते हैं? @itihaas_hi को फॉलो करें।'
+            message = f'<b>आज इतिहास में</b>\n\n📅 | <b>{day}/{month}</b> को घटना\n\n{events}\n\n<blockquote>💬 क्या आप जानते हैं? @itihaas_hi को फॉलो करें।</blockquote>'
 
             bot.send_message(CHANNEL_HI, message)
         else:

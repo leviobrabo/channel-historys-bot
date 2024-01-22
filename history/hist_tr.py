@@ -38,7 +38,7 @@ def send_historical_events_channel(CHANNEL_TR):
         events = get_historical_events()
 
         if events:
-            message = f'<b>TARİHTE BUGÜN</b>\n\n📅 | {day}/{month} tarihindeki olaylar\n\n{events}\n\n💬 Biliyor muydunuz? @bugun_in_history adresinden takip edebilirsiniz.'
+            message = f'<b>TARİHTE BUGÜN</b>\n\n📅 | {day}/{month} tarihindeki olaylar\n\n{events}\n\n<blockquote>💬 Biliyor muydunuz? @bugun_in_history adresinden takip edebilirsiniz.</blockquote>'
             bot.send_message(CHANNEL_TR, message)
         else:
             bot.send_message(

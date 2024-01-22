@@ -38,7 +38,7 @@ def send_historical_events_channel(CHANNEL_ID):
         events = get_historical_events()
 
         if events:
-            message = f'<b>HARI INI DALAM SEJARAH</b>\n\n📅 | Peristiwa pada <b>{day}/{month}</b>\n\n{events}\n\n💬 Tahukah Anda? Ikuti @sejararah_in.'
+            message = f'<b>HARI INI DALAM SEJARAH</b>\n\n📅 | Peristiwa pada <b>{day}/{month}</b>\n\n{events}\n\n<blockquote>💬 Tahukah Anda? Ikuti @sejararah_in.</blockquote>'
             bot.send_message(CHANNEL_ID, message)
         else:
             bot.send_message(

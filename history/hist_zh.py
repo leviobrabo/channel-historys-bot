@@ -33,7 +33,7 @@ def send_historical_events_CHANNEL_AR_image(CHANNEL_ZH):
             return
 
         random_event = random.choice(events_with_photo)
-        caption = f'<b>🖼 | 圖片歷史 </b>\n\n在 <b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n💬 你知道嗎？關注 @history_zh.'
+        caption = f'<b>🖼 | 圖片歷史 </b>\n\n在 <b>{day} {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n<blockquote>💬 你知道嗎？關注 @history_zh.</blockquote>'
 
         options = {'parse_mode': 'HTML'}
 
@@ -105,7 +105,7 @@ def get_deaths_of_the_day(CHANNEL_ZH):
 
                     message = f'<b>⚰️ | 今天的死亡事件: {day}日 {get_month_name(month)}</b>\n\n'
                     message += '\n\n'.join(death_messages)
-                    message += '\n\n💬 你知道嗎？關注 @history_zh.'
+                    message += '\n\n<blockquote>💬 你知道嗎？關注 @history_zh.</blockquote>'
 
                 bot.send_message(CHANNEL_ZH, message)
             else:
@@ -163,7 +163,7 @@ def get_births_of_the_day(CHANNEL_ZH):
 
                 message = f'<b>🎂 | 今天出生的人: {day}日 {get_month_name(month)}</b>\n\n'
                 message += '\n\n'.join(birth_messages)
-                message += '\n\n💬 你知道嗎？關注 @history_zh.'
+                message += '\n\n<blockquote>💬 你知道嗎？關注 @history_zh.</blockquote>'
 
                 bot.send_message(CHANNEL_ZH, message)
             else:
@@ -216,7 +216,7 @@ def send_historical_events_channel(CHANNEL_ZH):
         events = get_historical_events()
 
         if events:
-            message = f'<b>歷史上的今天</b>\n\n📅 | 事件發生在 <b>{day}/{month}</b>\n\n{events}\n\n💬 你知道嗎？關注 @history_zh.'
+            message = f'<b>歷史上的今天</b>\n\n📅 | 事件發生在 <b>{day}/{month}</b>\n\n{events}\n\n<blockquote>💬 你知道嗎？關注 @history_zh.</blockquote>'
             bot.send_message(CHANNEL_ZH, message)
         else:
             bot.send_message(

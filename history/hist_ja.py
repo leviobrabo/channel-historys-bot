@@ -38,7 +38,7 @@ def send_historical_events_channel(CHANNEL_JA):
         events = get_historical_events()
 
         if events:
-            message = f'<b>歴史上の今日</b>\n\n📅 | {day}/{month}の出来事\n\n{events}\n\n💬 知っていましたか？ @Rekishi_ja をフォローしてください。'
+            message = f'<b>歴史上の今日</b>\n\n📅 | {day}/{month}の出来事\n\n{events}\n\n<blockquote>💬 知っていましたか？ @Rekishi_ja をフォローしてください。</blockquote>'
 
             bot.send_message(CHANNEL_JA, message)
         else:

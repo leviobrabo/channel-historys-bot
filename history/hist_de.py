@@ -32,7 +32,7 @@ def send_historical_events_CHANNEL_DE_image(CHANNEL_DE):
         event_text = random_event.get('text', '')
         event_year = random_event.get('year', '')
 
-        caption = f'<b>🖼 | Illustrierte Geschichte </b>\n\nAm <b>{day}. {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n💬 Wussten Sie schon? Folgen Sie @die_huetie_geschichte.'
+        caption = f'<b>🖼 | Illustrierte Geschichte </b>\n\nAm <b>{day}. {get_month_name(month)} {event_year}</b>\n\n<code>{event_text}</code>\n\n<blockquote>💬 Wussten Sie schon? Folgen Sie @die_huetie_geschichte.</blockquote>'
 
         options = {'parse_mode': 'HTML'}
 
