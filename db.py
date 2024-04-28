@@ -1,6 +1,7 @@
 from pymongo import ASCENDING, MongoClient
 import logger
-from bot import *
+from bot import MONGO_CON
+
 try:
 
     logger.info('ℹ️ INITIATING CONNECTION WITH MONGODB')

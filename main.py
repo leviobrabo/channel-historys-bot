@@ -2,7 +2,7 @@ import configparser
 import threading
 from datetime import datetime, timedelta
 from time import sleep
-import db
+from db import *
 
 import schedule
 from telebot import types, util
