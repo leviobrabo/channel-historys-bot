@@ -1,0 +1,3668 @@
+{
+  "1-1": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Ghana, situé en Afrique de l’Ouest, fut le premier grand empire de la région, connu pour son commerce de l’or et du sel."
+      },
+      {
+        "text1": "L’Afrique est le berceau de l’humanité, là où les premiers humains ont évolué."
+      }
+    ]
+  },
+  "1-2": {
+    "curiosity": [
+      {
+        "text": "L’Empire éthiopien fut l’une des rares nations africaines à résister à la colonisation européenne au XIXe siècle."
+      },
+      {
+        "text1": "L’Égypte ancienne était l’une des civilisations les plus avancées de l’histoire, construisant les célèbres pyramides."
+      }
+    ]
+  },
+  "1-3": {
+    "curiosity": [
+      {
+        "text": "La guerre des Boers était un conflit qui a eu lieu en Afrique du Sud entre des colons d'origine néerlandaise et britannique."
+      },
+      {
+        "text1": "Le royaume d’Axoum, situé dans l’Éthiopie actuelle, fut l’une des premières grandes civilisations d’Afrique."
+      }
+    ]
+  },
+  "1-4": {
+    "curiosity": [
+      {
+        "text": "Le royaume de Carthage, situé en Afrique du Nord, rivalisait avec Rome à l'époque de la République romaine."
+      },
+      {
+        "text1": "La Grande Muraille de Chine est l’un des plus grands ouvrages d’ingénierie de l’histoire, construite pour protéger le pays des invasions."
+      }
+    ]
+  },
+  "1-5": {
+    "curiosity": [
+      {
+        "text": "Le royaume de Kouch, situé dans la région du Soudan actuel, était un centre important de commerce et de pouvoir dans l’Égypte ancienne."
+      },
+      {
+        "text1": "L'Empire Inca était la plus grande civilisation de l'Amérique précolombienne, connue pour son architecture et son système routier avancés."
+      }
+    ]
+  },
+  "1-6": {
+    "curiosity": [
+      {
+        "text": "Le royaume ouest-africain du Mali était célèbre pour son dirigeant Mansa Musa, considéré comme l’un des hommes les plus riches de l’histoire."
+      },
+      {
+        "text1": "La révolution industrielle a marqué un changement important dans la société et l’économie, entraîné par l’invention des machines et des usines."
+      }
+    ]
+  },
+  "1-7": {
+    "curiosity": [
+      {
+        "text": "L’empire Songhaï, situé en Afrique de l’Ouest, était l’un des plus grands empires de l’histoire africaine."
+      },
+      {
+        "text1": "La Révolution française a été une période de changements politiques et sociaux intenses en France, avec des répercussions durables dans le monde entier."
+      }
+    ]
+  },
+  "1-8": {
+    "curiosity": [
+      {
+        "text": "Le royaume d'Axoum, en Éthiopie, était une puissance commerciale et religieuse importante, entretenant des liens maritimes avec l'Égypte, l'Inde et l'Empire romain."
+      },
+      {
+        "text1": "L'Empire mongol, dirigé par Gengis Khan, était le plus grand empire contigu de l'histoire, s'étendant de l'Asie de l'Est à l'Europe de l'Est."
+      }
+    ]
+  },
+  "1-9": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Maroc a une longue histoire, avec des influences berbères, arabes et européennes au fil des siècles."
+      },
+      {
+        "text1": "La Déclaration d’indépendance des États-Unis, signée le 4 juillet 1776, constitue une étape importante dans la lutte pour l’indépendance des colonies américaines."
+      }
+    ]
+  },
+  "1-10": {
+    "curiosity": [
+      {
+        "text": "L’Empire ottoman, fondé au XIIIe siècle, a dominé pendant plus de 600 ans une vaste région comprenant des parties de l’Europe, de l’Asie et de l’Afrique."
+      },
+      {
+        "text1": "La révolution industrielle en Grande-Bretagne a eu un impact majeur sur la transformation de la société et de l’économie, entraînant une production et une urbanisation à grande échelle."
+      }
+    ]
+  },
+  "1-11": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Congo, situé en Afrique centrale, était un puissant État précolonial connu pour son commerce de l'ivoire et des esclaves."
+      },
+      {
+        "text1": "La bataille de Waterloo, le 18 juin 1815, fut un événement charnière dans l'histoire européenne, marquant la défaite finale de Napoléon Bonaparte."
+      }
+    ]
+  },
+  "1-12": {
+    "curiosity": [
+      {
+        "text": "L'Empire du Mali, dirigé par le célèbre roi Mansa Musa, était un centre de commerce, d'apprentissage et de richesse dans l'Afrique occidentale médiévale."
+      },
+      {
+        "text1": "La Révolution russe, qui a eu lieu en 1917, a conduit à la chute de l’Empire russe et à la formation de l’Union soviétique, inaugurant une nouvelle ère politique et sociale."
+      }
+    ]
+  },
+  "1-13": {
+    "curiosity": [
+      {
+        "text": "L'Empire aztèque, situé au Mexique, était l'une des plus grandes civilisations précolombiennes, connue pour son architecture et ses progrès agricoles."
+      },
+      {
+        "text1": "La révolution industrielle aux États-Unis a transformé le pays en une puissance industrielle et économique mondiale au XIXe siècle."
+      }
+    ]
+  },
+  "1-14": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Bénin, dans l’actuel Nigeria, était un important centre commercial et culturel de l’Afrique de l’Ouest précoloniale."
+      },
+      {
+        "text1": "La Proclamation d'émancipation, publiée par le président des États-Unis Abraham Lincoln le 1er janvier 1863, a libéré les esclaves des États confédérés pendant la guerre civile américaine."
+      }
+    ]
+  },
+  "1-15": {
+    "curiosity": [
+      {
+        "text": "L'Empire byzantin, basé à Constantinople, a conservé l'héritage de l'Empire romain d'Orient et a joué un rôle crucial dans la préservation de la culture classique."
+      },
+      {
+        "text1": "La guerre froide était une période de tensions politiques et militaires entre les États-Unis et l’Union soviétique, caractérisée par une rivalité idéologique et une concurrence mondiale."
+      }
+    ]
+  },
+  "1-16": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Zimbabwe, en Afrique australe, était un important centre commercial et culturel au Moyen Âge."
+      },
+      {
+        "text1": "La révolution industrielle en Allemagne a stimulé le développement économique et technologique du pays, faisant d'elle une puissance industrielle au XIXe siècle."
+      }
+    ]
+  },
+  "1-17": {
+    "curiosity": [
+      {
+        "text": "L'empire Gupta en Inde était connu comme l'âge d'or de l'Inde en raison de son épanouissement dans les arts, les sciences et le commerce."
+      },
+      {
+        "text1": "La guerre civile américaine, qui s'est déroulée de 1861 à 1865, a été un conflit sanglant entre les États du nord et du sud des États-Unis, principalement sur la question de l'esclavage."
+      }
+    ]
+  },
+  "1-18": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Portugal a joué un rôle clé à l’ère des découvertes, en explorant les routes maritimes et en établissant des colonies à travers le monde."
+      },
+      {
+        "text1": "La Révolution mexicaine, qui a débuté en 1910, a abouti au renversement du gouvernement dictatorial de Porfirio Díaz et à la recherche de justice sociale et de réformes politiques au Mexique."
+      }
+    ]
+  },
+  "1-19": {
+    "curiosity": [
+      {
+        "text": "L'Empire Maya, situé en Méso-Amérique, était l'une des civilisations les plus avancées de l'Antiquité, connue pour son écriture hiéroglyphique et ses systèmes de calendrier complexes."
+      },
+      {
+        "text1": "La révolution industrielle au Japon, survenue à la fin du XIXe siècle, a entraîné la modernisation du pays et sa transformation en une puissance industrielle."
+      }
+    ]
+  },
+  "1-20": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Buganda, situé dans l'actuel Ouganda, a joué un rôle important dans l'histoire et la culture de l'Afrique de l'Est."
+      },
+      {
+        "text1": "La Seconde Guerre mondiale, qui s'est déroulée de 1939 à 1945, a été le conflit mondial le plus dévastateur de l'histoire, impliquant les principales puissances mondiales dans un conflit militaire à grande échelle."
+      }
+    ]
+  },
+  "1-21": {
+    "curiosity": [
+      {
+        "text": "L’Empire romain était l’un des plus grands empires de l’histoire, connu pour son ingénierie, sa législation et son influence durable sur la culture occidentale."
+      },
+      {
+        "text1": "La révolution industrielle en France, au XIXe siècle, a apporté des avancées technologiques et des changements socio-économiques importants au pays."
+      }
+    ]
+  },
+  "1-22": {
+    "curiosity": [
+      {
+        "text": "Le royaume du Kongo, en Afrique centrale, a joué un rôle important dans la traite transatlantique des esclaves aux XVIe et XVIIe siècles."
+      },
+      {
+        "text1": "La guerre d’indépendance américaine, menée de 1775 à 1783, a abouti à la formation des États-Unis en tant que nation indépendante."
+      }
+    ]
+  },
+  "1-23": {
+    "curiosity": [
+      {
+        "text": "L'Empire perse, sous le règne de Cyrus le Grand, a établi l'un des plus grands empires de l'Antiquité, connu pour sa tolérance religieuse et sa gouvernance efficace."
+      },
+      {
+        "text1": "La révolution industrielle en Russie au XIXe siècle a transformé l’économie russe et stimulé la croissance industrielle du pays."
+      }
+    ]
+  },
+  "1-24": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Bhoutan, en Asie, est connu pour sa politique de bonheur national brut, visant le bien-être matériel et spirituel de ses citoyens."
+      },
+      {
+        "text1": "La Révolution haïtienne, qui a eu lieu entre 1791 et 1804, a été la première révolte d'esclaves réussie de l'histoire, menant à l'indépendance d'Haïti et à la fin de l'esclavage dans la colonie française de Saint-Domingue."
+      }
+    ]
+  },
+  "1-25": {
+    "curiosity": [
+      {
+        "text": "L'Empire Inca, situé dans la région des Andes, était la plus grande civilisation précolombienne, connue pour son architecture en pierre et ses systèmes agricoles avancés."
+      },
+      {
+        "text1": "La révolution industrielle en Belgique au XIXe siècle a stimulé le développement du pays en tant que centre industriel et commercial en Europe."
+      }
+    ]
+  },
+  "1-26": {
+    "curiosity": [
+      {
+        "text": "Le royaume d'Axoum, dans l'Éthiopie actuelle, était un centre commercial important et l'une des premières civilisations chrétiennes d'Afrique."
+      },
+      {
+        "text1": "La Révolution française, qui a eu lieu entre 1789 et 1799, a été une période d'intenses troubles politiques et sociaux en France, entraînant la chute de la monarchie et l'établissement de la République française."
+      }
+    ]
+  },
+  "1-27": {
+    "curiosity": [
+      {
+        "text": "L'Empire austro-hongrois, créé en 1867, était une grande puissance d'Europe centrale, comprenant de nombreuses nationalités et cultures différentes."
+      },
+      {
+        "text1": "La révolution industrielle au Canada au XIXe siècle a stimulé la croissance économique du pays, en particulier dans les secteurs de la fabrication et des transports."
+      }
+    ]
+  },
+  "1-28": {
+    "curiosity": [
+      {
+        "text": "Le royaume de Kouch, situé dans la région du Soudan moderne, était un royaume puissant qui contrôlait les routes commerciales entre l'Afrique centrale et la Méditerranée."
+      },
+      {
+        "text1": "La révolution industrielle en Italie au XIXe siècle a transformé le pays d’une économie essentiellement agricole en une puissance industrielle et commerciale."
+      }
+    ]
+  },
+  "1-29": {
+    "curiosity": [
+      {
+        "text": "L’Empire chinois, sous la dynastie Tang, fut l’une des périodes les plus prospères de l’histoire chinoise, connue pour ses échanges commerciaux et culturels."
+      },
+      {
+        "text1": "La révolution industrielle en Espagne au XIXe siècle a eu un impact significatif sur le développement économique et social du pays."
+      }
+    ]
+  },
+  "1-30": {
+    "curiosity": [
+      {
+        "text": "L’Empire britannique était le plus grand empire de l’histoire, s’étendant sur des territoires à travers le monde et exerçant une influence politique et culturelle durable."
+      },
+      {
+        "text1": "La révolution industrielle en Australie, au XIXe siècle, a stimulé l'économie du pays, principalement grâce à l'exploitation des ressources naturelles et au développement des industries manufacturières."
+      }
+    ]
+  },
+  "1-31": {
+    "curiosity": [
+      {
+        "text": "Le royaume d'Imericia, dans l'actuelle Géorgie, a joué un rôle important dans l'histoire du Caucase et était un centre commercial et culturel de la région."
+      },
+      {
+        "text1": "La révolution industrielle en Inde, au XIXe siècle, a apporté des changements importants à l'économie et à la société du pays, favorisant la croissance de l'industrie textile et du secteur des transports."
+      }
+    ]
+  },
+  "2-1": {
+    "curiosity": [
+      {
+        "text": "L’Empire ottoman, créé au XIIIe siècle, était l’un des plus grands empires de l’histoire, englobant des territoires d’Europe, d’Asie et d’Afrique."
+      },
+      {
+        "text1": "La révolution industrielle en Suède, au XIXe siècle, a transformé le pays en une puissance industrielle importante, notamment dans le secteur minier et métallurgique."
+      }
+    ]
+  },
+  "2-2": {
+    "curiosity": [
+      {
+        "text": "Le Royaume du Maroc, situé en Afrique du Nord, possède une riche histoire remontant à l’Antiquité et a joué un rôle crucial dans les routes commerciales transsahariennes."
+      },
+      {
+        "text1": "La révolution industrielle au Brésil, au XIXe siècle, a stimulé la croissance de l'industrie et la modernisation du pays, notamment avec l'expansion du secteur du café."
+      }
+    ]
+  },
+  "2-3": {
+    "curiosity": [
+      {
+        "text": "L'Empire mongol, dirigé par Gengis Khan, était le plus grand empire contigu de l'histoire, s'étendant de l'Asie de l'Est à l'Europe de l'Est."
+      },
+      {
+        "text1": "La révolution industrielle en Argentine, au XIXe siècle, a stimulé le développement économique du pays, notamment dans le secteur agricole et l'industrie alimentaire."
+      }
+    ]
+  },
+  "2-4": {
+    "curiosity": [
+      {
+        "text": "Le royaume de Succotra, situé dans l'archipel du même nom dans l'océan Indien, est connu pour sa flore unique et ses paysages luxuriants."
+      },
+      {
+        "text1": "La révolution industrielle au Chili, au XIXe siècle, a stimulé le développement économique du pays, notamment dans les secteurs minier et de l'industrie du cuivre."
+      }
+    ]
+  },
+  "2-5": {
+    "curiosity": [
+      {
+        "text": "L’Empire espagnol était l’un des plus grands empires de l’histoire, s’étendant sur de vastes régions d’Europe, d’Amérique, d’Afrique et d’Asie."
+      },
+      {
+        "text1": "La révolution industrielle en Grèce, au XIXe siècle, a apporté des changements importants à l'économie du pays, notamment dans le secteur maritime et l'industrie textile."
+      }
+    ]
+  },
+  "2-6": {
+    "curiosity": [
+      {
+        "text": "Le royaume des Tonga, dans le Pacifique Sud, est le seul pays du continent océanique à n’avoir jamais été colonisé par une puissance étrangère."
+      },
+      {
+        "text1": "La révolution industrielle au Mexique, au XIXe siècle, a apporté de profonds changements économiques et sociaux dans le pays, favorisant le développement de l'industrie textile, du secteur minier et des infrastructures de transport."
+      }
+    ]
+  },
+  "2-7": {
+    "curiosity": [
+      {
+        "text": "L'Empire byzantin, avec sa capitale Constantinople, fut l'un des empires les plus anciens de l'histoire, préservant la culture et le patrimoine de l'Empire romain d'Orient."
+      },
+      {
+        "text1": "La révolution industrielle en Autriche au XIXe siècle a stimulé la croissance économique du pays, notamment dans l'industrie sidérurgique et la production de machines."
+      }
+    ]
+  },
+  "2-8": {
+    "curiosity": [
+      {
+        "text": "Le royaume de Grenade, situé sur la péninsule ibérique, fut le dernier bastion musulman de la région avant d'être conquis par les royaumes chrétiens lors de la Reconquista."
+      },
+      {
+        "text1": "La révolution industrielle en Norvège au XIXe siècle a apporté des changements importants à l'économie du pays, en particulier dans les industries du bois, de la pêche et de l'énergie hydroélectrique."
+      }
+    ]
+  },
+  "2-9": {
+    "curiosity": [
+      {
+        "text": "L'empire Mauryan dans l'Inde ancienne était l'un des plus grands empires de l'époque, unifiant une grande partie du sous-continent indien sous un seul gouvernement."
+      },
+      {
+        "text1": "La révolution industrielle en Finlande au XIXe siècle a transformé le pays d'une économie agraire en une économie industrialisée, en particulier dans l'industrie des pâtes et papiers."
+      }
+    ]
+  },
+  "2-10": {
+    "curiosity": [
+      {
+        "text": "Le royaume d'Axoum, situé dans les actuelles Éthiopie et Érythrée, était un important centre commercial et culturel dans l'Antiquité, contrôlant les routes commerciales entre l'Afrique, l'Asie et l'Europe."
+      },
+      {
+        "text1": "La révolution industrielle en Corée du Sud, qui a débuté dans les années 1960, a entraîné un développement économique et industriel rapide du pays, connu sous le nom de « miracle sur le fleuve Han »."
+      }
+    ]
+  },
+  "2-11": {
+    "curiosity": [
+      {
+        "text": "L'Empire carolingien, fondé par Charlemagne, était un empire européen qui englobait une grande partie de l'Europe occidentale au Moyen Âge."
+      },
+      {
+        "text1": "La révolution industrielle en Pologne au XIXe siècle a transformé le pays d'une économie agricole en une économie industrialisée, en particulier dans les industries textile et sidérurgique."
+      }
+    ]
+  },
+  "2-12": {
+    "curiosity": [
+      {
+        "text": "La Révolution française, qui a eu lieu entre 1789 et 1799, est un événement qui a marqué le passage de la monarchie absolue à la république en France, avec d'importantes répercussions politiques et sociales."
+      },
+      {
+        "text1": "La Première Guerre mondiale, qui a eu lieu de 1914 à 1918, était un conflit mondial impliquant les principales puissances mondiales de l’époque et qui a eu un impact significatif sur la géopolitique et la société du XXe siècle."
+      }
+    ]
+  },
+  "2-13": {
+    "curiosity": [
+      {
+        "text": "Le Traité de Tordesillas, signé en 1494, partageait les terres découvertes et à découvrir entre le Portugal et l'Espagne, établissant ainsi les bases de la colonisation des Amériques par les deux pays."
+      },
+      {
+        "text1": "La guerre froide, qui a duré de 1947 à 1991, a été une période de tensions politiques, militaires et idéologiques entre les États-Unis et l'Union soviétique, caractérisée par la rivalité entre les deux blocs dirigés par ces puissances."
+      }
+    ]
+  },
+  "2-14": {
+    "curiosity": [
+      {
+        "text": "La Saint-Valentin, célébrée le 14 février, tire son origine des hommages rendus à Saint Valentin, un prêtre romain martyrisé pour avoir épousé secrètement des soldats, défiant les ordres de l'empereur Claude II."
+      },
+      {
+        "text1": "Le Traité de Versailles, signé en 1919, marque la fin de la Première Guerre mondiale et impose de lourdes sanctions à l'Allemagne, jetant les bases de l'entre-deux-guerres et de l'émergence de la Seconde Guerre mondiale."
+      }
+    ]
+  },
+  "2-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 février 1898, le cuirassé USS Maine explose dans le port de La Havane, à Cuba, un événement qui joue un rôle important dans le déclenchement de la guerre hispano-américaine."
+      },
+      {
+        "text1": "Le 15 février 1954, le Canada adopte officiellement le drapeau à feuille d'érable rouge et blanche, ce qui en fait le symbole national du pays."
+      }
+    ]
+  },
+  "2-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 février 1923, l’Égypte fut proclamée royaume indépendant, mettant ainsi fin à la période de domination britannique et établissant une monarchie constitutionnelle."
+      },
+      {
+        "text1": "Le 16 février 1968 a lieu la célèbre bataille de Huế, l'un des principaux affrontements de la guerre du Vietnam, entre les forces nord-américaines et vietcong."
+      }
+    ]
+  },
+  "2-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 février 1867, le Royaume-Uni a signé le Traité de Rome avec le Royaume d'Italie, reconnaissant l'unification de l'Italie et mettant fin au règne des États pontificaux."
+      },
+      {
+        "text1": "Le 17 février 1979 éclate la Révolution islamique en Iran, qui entraîne la chute du Shah Mohammad Reza Pahlavi et l'arrivée au pouvoir de l'ayatollah Khomeini."
+      }
+    ]
+  },
+  "2-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 février 1930, le célèbre incident connu sous le nom de « Marche du sel » s'est produit en Inde, dirigé par le Mahatma Gandhi, dans le cadre d'une protestation non violente contre les taxes britanniques sur le sel."
+      },
+      {
+        "text1": "Le 18 février 1954, les scientifiques James Watson et Francis Crick découvrent la structure de l'ADN, étape importante dans la compréhension de la génétique et de l'hérédité."
+      }
+    ]
+  },
+  "2-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 février 1878, Thomas Edison obtient un brevet pour le phonographe, l'un des premiers appareils capables d'enregistrer et de reproduire des sons."
+      },
+      {
+        "text1": "Le 19 février 1942, pendant la Seconde Guerre mondiale, le président des États-Unis, Franklin D. Roosevelt, signait le décret 9066 autorisant l'internement des citoyens japonais et des Américains d'origine japonaise dans des camps de concentration."
+      }
+    ]
+  },
+  "2-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 février 1962, l’astronaute américain John Glenn devient le premier Américain à orbiter autour de la Terre, à bord de la sonde Friendship 7."
+      },
+      {
+        "text1": "Le 20 février 1986, la station spatiale Mir est lancée, devenant ainsi la première station spatiale modulaire en orbite terrestre."
+      }
+    ]
+  },
+  "2-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 février 1848 est publié le Manifeste du Parti communiste, rédigé par Karl Marx et Friedrich Engels, document fondamental pour l'idéologie communiste."
+      },
+      {
+        "text1": "Le 21 février 1965, le militant afro-américain Malcolm X est assassiné à New York, un événement qui a un impact considérable sur le mouvement des droits civiques aux États-Unis."
+      }
+    ]
+  },
+  "2-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 février 1632, le philosophe René Descartes publie son ouvrage philosophique le plus célèbre, le « Discours de la méthode », qui pose les bases du rationalisme moderne."
+      },
+      {
+        "text1": "Le 22 février 1980, l'équipe de hockey sur glace des États-Unis a battu l'équipe de l'Union soviétique lors d'un match historique connu sous le nom de « Miracle sur glace » lors des Jeux olympiques d'hiver de 1980."
+      }
+    ]
+  },
+  "2-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 février 1945, pendant la Seconde Guerre mondiale, les troupes américaines et philippines reprennent la ville de Manille, aux Philippines, après d'intenses combats contre les forces japonaises."
+      },
+      {
+        "text1": "Le 23 février 1981, le coup d'État militaire connu sous le nom de « 23-F » a eu lieu en Espagne, lorsqu'un groupe de gardes civils a envahi le parlement espagnol lors d'une tentative de coup d'État avortée."
+      }
+    ]
+  },
+  "2-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 février 1868 a lieu en Espagne le début de la Glorieuse Révolution, un mouvement qui conduit au renversement de la reine Isabelle II et à l'établissement d'un gouvernement provisoire."
+      },
+      {
+        "text1": "Le 24 février 1989, le scientifique britannique Tim Berners-Lee a présenté la proposition de création du World Wide Web, l'une des étapes les plus importantes de l'histoire d'Internet."
+      }
+    ]
+  },
+  "2-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 février 1836 eut lieu la bataille d'Alamo, un affrontement entre les forces mexicaines et les défenseurs texiens qui devint un symbole de courage et de résistance dans l'histoire du Texas."
+      },
+      {
+        "text1": "Le 25 février 1956, le dirigeant soviétique Nikita Khrouchtchev prononça un discours secret lors du 20e congrès du Parti communiste de l'Union soviétique, dénonçant les crimes et les excès commis sous le régime de Joseph Staline."
+      }
+    ]
+  },
+  "2-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 février 1815 a lieu en Belgique la bataille de Waterloo, où les forces de l'empereur Napoléon Bonaparte sont vaincues par les troupes de la coalition dirigée par le duc de Wellington, marquant la fin définitive de l'empire napoléonien."
+      },
+      {
+        "text1": "Le 26 février 1993, l'attentat contre le World Trade Center a eu lieu à New York, lorsqu'un camion piégé a explosé dans le garage du complexe, faisant six morts et des centaines de blessés."
+      }
+    ]
+  },
+  "2-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 février 1900, la société cinématographique américaine Universal Pictures est fondée, devenant ainsi l'un des producteurs de films les plus anciens et les plus influents au monde."
+      },
+      {
+        "text1": "Le 27 février 1933, l'incendie du Reichstag, le parlement allemand à Berlin, sert de prétexte aux nazis pour restreindre les libertés civiles et consolider leur pouvoir."
+      }
+    ]
+  },
+  "2-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 février 1953, le scientifique James Watson et le biologiste Francis Crick découvrent la structure de la molécule d'ADN, l'une des découvertes les plus importantes de l'histoire de la biologie."
+      },
+      {
+        "text1": "Le 28 février 1986, le vaisseau spatial Challenger a explosé peu après son lancement, entraînant la mort des sept astronautes à bord."
+      }
+    ]
+  },
+  "2-29": {
+    "curiosity": [
+      {
+        "text": "Le 28 février 1986, le vaisseau spatial Challenger a explosé peu après son lancement, entraînant la mort des sept astronautes à bord."
+      },
+      {
+        "text1": "Le 28 février 1953, le scientifique James Watson et le biologiste Francis Crick découvrent la structure de la molécule d'ADN, l'une des découvertes les plus importantes de l'histoire de la biologie."
+      }
+    ]
+  },
+  "3-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er mars 1872, le parc national de Yellowstone a été créé aux États-Unis, devenant ainsi le premier parc national au monde."
+      },
+      {
+        "text1": "Le 1er mars 1994, le groupe musical brésilien Mamonas Assassinas décède dans un tragique accident d'avion, interrompant prématurément l'ascension fulgurante du groupe."
+      }
+    ]
+  },
+  "3-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 mars 1956, le Maroc accède à son indépendance, mettant fin à la période de colonisation française du pays."
+      },
+      {
+        "text1": "Le 2 mars 1962, l'auteur-compositeur-interprète américain Bob Dylan sort son premier album studio, intitulé « Bob Dylan », qui devient une référence dans la musique folk."
+      }
+    ]
+  },
+  "3-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 mars 1845, la Floride fut admise comme 27e État des États-Unis, élargissant ainsi le territoire du pays dans la région du golfe du Mexique."
+      },
+      {
+        "text1": "Le 3 mars 1913, le défilé des suffragettes a eu lieu à Washington DC, où des milliers de femmes ont défilé pour obtenir le droit de vote aux États-Unis."
+      }
+    ]
+  },
+  "3-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 mars 1789 a eu lieu l'investiture du premier président des États-Unis, George Washington, marquant le début de l'histoire présidentielle du pays."
+      },
+      {
+        "text1": "Le 4 mars 1933, le président Franklin D. Roosevelt prenait ses fonctions pendant la Grande Dépression, prononçant le célèbre discours d'investiture avec la phrase « La seule chose que nous devons craindre, c'est la peur elle-même »."
+      }
+    ]
+  },
+  "3-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 mars 1953, le dirigeant soviétique Joseph Staline décède après avoir dirigé l’Union soviétique d’une main de fer pendant plus de deux décennies."
+      },
+      {
+        "text1": "Le 5 mars 1984, le programme informatique Lotus 1-2-3, l'un des premiers tableurs, est sorti, jouant un rôle important dans la vulgarisation des ordinateurs personnels."
+      }
+    ]
+  },
+  "3-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 mars 1475 naissait le célèbre peintre de la Renaissance Michel-Ange, connu pour ses chefs-d'œuvre tels que la sculpture « David » et la peinture de la Chapelle Sixtine."
+      },
+      {
+        "text1": "Le 6 mars 1957, le Ghana est devenu le premier pays africain à obtenir son indépendance du colonialisme, menant ainsi le mouvement de décolonisation sur le continent."
+      }
+    ]
+  },
+  "3-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 mars 1876, Alexander Graham Bell a reçu un brevet pour le téléphone, révolutionnant les communications et ouvrant la voie à l'ère des télécommunications."
+      },
+      {
+        "text1": "Le 7 mars 1965, se produit le célèbre épisode connu sous le nom de « Dimanche sanglant », lorsque des manifestants pour les droits civiques sont brutalement réprimés par la police sur le pont reliant Selma à Montgomery, aux États-Unis."
+      }
+    ]
+  },
+  "3-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 mars 1917, dans le contexte de la Première Guerre mondiale, commence la Révolution russe, avec des manifestations de femmes à Petrograd, qui conduisent plus tard à la chute du régime tsariste."
+      },
+      {
+        "text1": "Le 8 mars 1971, le boxeur Muhammad Ali et Joe Frazier se sont battus dans ce qui est devenu connu sous le nom de « Combat du siècle », Frazier l'ayant emporté par décision unanime."
+      }
+    ]
+  },
+  "3-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 mars 1959, le chanteur et acteur Elvis Presley a été libéré du service militaire après avoir accompli son devoir en Allemagne et a repris sa brillante carrière."
+      },
+      {
+        "text1": "Le 9 mars 1997, le rappeur The Notorious BIG, également connu sous le nom de Biggie Smalls, était assassiné lors d'une fusillade à Los Angeles, laissant un héritage remarquable dans le monde du hip-hop."
+      }
+    ]
+  },
+  "3-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 mars 1876, le gramophone, précurseur du tourne-disque, inventé par Thomas Edison, est breveté, révolutionnant la manière d'enregistrer et de reproduire la musique."
+      },
+      {
+        "text1": "Le 10 mars 1959, le Tibet fut envahi par la Chine, entraînant une longue période de répression culturelle et politique dans le pays."
+      }
+    ]
+  },
+  "3-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 mars 1818, le célèbre compositeur allemand Johann Sebastian Bach décède, laissant en héritage des œuvres musicales classiques qui influenceront les générations futures."
+      },
+      {
+        "text1": "Le 11 mars 2011, un séisme de magnitude 9,0 frappait le Japon, suivi d'un tsunami dévastateur, provoquant une grave crise nucléaire à la centrale de Fukushima."
+      }
+    ]
+  },
+  "3-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 mars 1930, le Mahatma Gandhi a lancé la Marche du sel en Inde, l'une des étapes marquantes du mouvement d'indépendance du pays contre la domination britannique."
+      },
+      {
+        "text1": "Le 12 mars 1994 a eu lieu le massacre d'Hébron, une attaque terroriste contre une mosquée de la ville d'Hébron, en Cisjordanie, entraînant la mort de 29 Palestiniens et blessant des dizaines de personnes."
+      }
+    ]
+  },
+  "3-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 mars 1781, l'astronome William Herschel découvrit la planète Uranus, élargissant ainsi les connaissances sur le système solaire."
+      },
+      {
+        "text1": "Le 13 mars 2013, le cardinal argentin Jorge Mario Bergoglio a été élu pape François, devenant ainsi le premier pape latino-américain de l'histoire de l'Église catholique."
+      }
+    ]
+  },
+  "3-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 mars 1879, Albert Einstein, l'un des scientifiques les plus renommés de l'histoire, naissait à Ulm, dans le royaume de Wurtemberg, dans l'Empire allemand."
+      },
+      {
+        "text1": "Le 14 mars 1950, les Nations Unies (ONU) ont institué la Journée internationale de la femme, célébrée chaque année pour promouvoir l'égalité des sexes et les droits des femmes."
+      }
+    ]
+  },
+  "3-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 mars 44 avant JC, l'assassinat de Jules César, dirigeant et empereur romain, par un groupe de sénateurs eut lieu, entraînant un changement important dans le cours de l'histoire romaine."
+      },
+      {
+        "text1": "Le 15 mars 1972, le Royaume-Uni a adopté le système monétaire décimal, remplaçant l'ancien système de livres, shillings et pence."
+      }
+    ]
+  },
+  "3-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 mars 1521, le navigateur portugais Ferdinand Magellan arrive aux Philippines lors de son expédition de circumnavigation, devenant ainsi le premier Européen à le faire."
+      },
+      {
+        "text1": "Le 16 mars 1968, le massacre de My Lai a eu lieu pendant la guerre du Vietnam, au cours duquel des soldats américains ont tué plus de 500 civils vietnamiens, dont des femmes, des enfants et des personnes âgées."
+      }
+    ]
+  },
+  "3-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 mars 461 après J.-C., est décédé Saint Patrick, saint patron de l'Irlande, célébré chaque année le jour de la Saint-Patrick, connu sous le nom de Saint-Patrick."
+      },
+      {
+        "text1": "Le 17 mars 1905, le dimanche sanglant a eu lieu à Saint-Pétersbourg, en Russie, lorsque des manifestants pacifiques ont été réprimés par l'armée tsariste, faisant des centaines de morts et marquant le début de la révolution russe de 1905."
+      }
+    ]
+  },
+  "3-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 mars 1314, Jacques de Molay, dernier Grand Maître des Templiers, est brûlé vif, marquant la fin de l'Ordre des Templiers."
+      },
+      {
+        "text1": "Le 18 mars 1965, la marche pour les droits civiques de Selma à Montgomery aux États-Unis a eu lieu dans le but de garantir le droit de vote des Afro-Américains."
+      }
+    ]
+  },
+  "3-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 mars 1687, Isaac Newton publie son chef-d'œuvre, « Principia Mathematica », qui établit les lois du mouvement et la loi de la gravité, révolutionnant ainsi la physique."
+      },
+      {
+        "text1": "Le 19 mars 2003 éclate la guerre en Irak, menée par les États-Unis et leurs alliés, entraînant une série d’événements qui façonnent la géopolitique de la région."
+      }
+    ]
+  },
+  "3-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 mars 1852, Harriet Beecher Stowe publie le roman « La Case de l'oncle Tom », un ouvrage important dans la lutte contre l'esclavage aux États-Unis."
+      },
+      {
+        "text1": "Le 20 mars 2016, l'ancien président des États-Unis, Barack Obama, a effectué une visite historique à Cuba, marquant une étape importante dans la normalisation des relations entre les deux pays."
+      }
+    ]
+  },
+  "3-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 mars 1960, le massacre de Sharpeville a eu lieu en Afrique du Sud, lorsque la police a ouvert le feu sur des manifestants pacifiques contre les lois de l'apartheid, faisant 69 morts."
+      },
+      {
+        "text1": "Le 21 mars 2014, la Russie annexait la péninsule de Crimée, à la suite d'un référendum controversé et condamné par la communauté internationale."
+      }
+    ]
+  },
+  "3-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 mars 1622, le massacre de Jamestown a eu lieu dans la colonie britannique de Virginie, lorsque les Amérindiens ont attaqué et tué des colons britanniques."
+      },
+      {
+        "text1": "Le 22 mars 1993, le musicien et chanteur rock canadien John Candy est décédé à l'âge de 43 ans, laissant un héritage de comédies et de performances mémorables."
+      }
+    ]
+  },
+  "3-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 mars 1806, Lewis et Clark commencèrent leur expédition légendaire pour explorer l'ouest des États-Unis, un voyage qui dura plus de deux ans et permit d'approfondir les connaissances sur la géographie et la nature des États-Unis. région."
+      },
+      {
+        "text1": "Le 23 mars 2001, la Russie a lancé dans l'espace la station spatiale Mir, qui est devenue une référence dans l'exploration spatiale et a fonctionné pendant plus de 15 ans avant d'être désactivée."
+      }
+    ]
+  },
+  "3-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 mars 1603, la reine Elizabeth I d'Angleterre décède, mettant fin à la dynastie Tudor et marquant le début du règne de la dynastie Stuart, avec l'accession de Jacques VI d'Écosse au trône anglais sous le nom de Jacques Ier."
+      },
+      {
+        "text1": "Le 24 mars 1999, l'OTAN a commencé des bombardements aériens en Serbie, dans le cadre de l'intervention militaire dans le conflit du Kosovo, pendant la guerre du Kosovo."
+      }
+    ]
+  },
+  "3-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 mars 1807, le Parlement britannique adopte le Slave Trade Abolition Act, interdisant la traite des esclaves dans l’Empire britannique."
+      },
+      {
+        "text1": "Le 25 mars 1957, le Traité de Rome est signé, créant la Communauté économique européenne (CEE), précurseur de l'Union européenne (UE)."
+      }
+    ]
+  },
+  "3-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 mars 1979, le traité de paix entre Israël et l’Égypte a été signé à Washington DC, mettant officiellement fin à l’état de guerre entre les deux pays."
+      },
+      {
+        "text1": "Le 26 mars 1997, le vaisseau spatial russe Soyouz TM-24 a été lancé, transportant un équipage composé d'un cosmonaute russe, d'un astronaute américain et d'un astronaute allemand vers la station spatiale Mir."
+      }
+    ]
+  },
+  "3-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 mars 1912, le Japon et la Chine signent le Traité de Xinchou, qui met fin à la guerre russo-japonaise et établit l'indépendance de la Mongolie extérieure."
+      },
+      {
+        "text1": "Le 27 mars 1977, deux Boeing 747 entrent en collision à Tenerife, dans les îles Canaries, provoquant la pire catastrophe aérienne de l'histoire, avec la mort de 583 personnes."
+      }
+    ]
+  },
+  "3-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 mars 1930, Constantinople, capitale de l'Empire byzantin, est rebaptisée Istanbul, marquant un changement important dans l'histoire de la ville."
+      },
+      {
+        "text1": "Le 28 mars 1979, l'accident survenu à la centrale nucléaire de Three Mile Island, aux États-Unis, a entraîné l'une des pires catastrophes nucléaires de l'histoire du pays."
+      }
+    ]
+  },
+  "3-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 mars 1974 a eu lieu au Portugal la Révolution des œillets, un soulèvement militaire qui a renversé la dictature de l'Estado Novo et a marqué le début d'une période de démocratisation dans le pays."
+      },
+      {
+        "text1": "Le 29 mars 2004, la Bulgarie, l'Estonie, la Lettonie, la Lituanie, la Roumanie, la Slovaquie et la Slovénie ont rejoint l'OTAN, renforçant ainsi l'alliance militaire."
+      }
+    ]
+  },
+  "3-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 mars 1856, le Traité de Paris est signé, mettant fin à la guerre de Crimée et établissant les conditions de paix entre les puissances impliquées."
+      },
+      {
+        "text1": "Le 30 mars 1981, le président des États-Unis, Ronald Reagan, a été abattu lors d'une tentative d'assassinat, mais a survécu après avoir subi une intervention chirurgicale."
+      }
+    ]
+  },
+  "3-31": {
+    "curiosity": [
+      {
+        "text": "Le 31 mars 1492, les rois catholiques, Ferdinand II d'Aragon et Isabelle I de Castille, publièrent l'édit de l'Alhambra, qui expulsa les Juifs d'Espagne, entraînant l'un des moments les plus sombres de l'histoire juive."
+      },
+      {
+        "text1": "Le 31 mars 1889, la Tour Eiffel, l'une des icônes les plus célèbres de Paris et du monde, est inaugurée lors de l'Exposition universelle de Paris."
+      }
+    ]
+  },
+  "4-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er avril 1867, le Royaume-Uni a promulgué l'Acte de l'Amérique du Nord britannique, qui a établi la Confédération du Canada et jeté les bases de la formation du Canada moderne."
+      },
+      {
+        "text1": "Le 1er avril 1976, Apple Inc. a été fondée par Steve Jobs, Steve Wozniak et Ronald Wayne, créant ainsi l'une des entreprises technologiques les plus influentes au monde."
+      }
+    ]
+  },
+  "4-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 avril 1917, les États-Unis entrent dans la Première Guerre mondiale, envoyant des troupes combattre aux côtés des forces alliées contre les puissances centrales."
+      },
+      {
+        "text1": "Le 2 avril 2005, le pape Jean-Paul II est décédé à l'âge de 84 ans, après un long pontificat de près de 27 ans, étant l'un des papes les plus populaires de l'histoire récente."
+      }
+    ]
+  },
+  "4-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 avril 1948, le Plan Marshall, un programme d’aide économique des États-Unis destiné à la reconstruction de l’Europe de l’après-Seconde Guerre mondiale, entre en vigueur."
+      },
+      {
+        "text1": "Le 3 avril 1973, le premier téléphone portable a été fabriqué par Motorola, marquant une étape importante dans le développement de la technologie mobile."
+      }
+    ]
+  },
+  "4-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 avril 1968, le leader américain des droits civiques Martin Luther King Jr. a été assassiné à Memphis, dans le Tennessee, provoquant des troubles et des protestations dans tout le pays."
+      },
+      {
+        "text1": "Le 4 avril 1949, l’Organisation du Traité de l’Atlantique Nord (OTAN) est fondée, établissant une alliance militaire entre plusieurs pays occidentaux pour une défense mutuelle."
+      }
+    ]
+  },
+  "4-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 avril 1614, Pocahontas, l'une des figures les plus connues de la rencontre entre les colons anglais et les peuples amérindiens, épousa John Rolfe en Virginie, aux États-Unis."
+      },
+      {
+        "text1": "Le 5 avril 1955, Winston Churchill démissionne de son poste de Premier ministre du Royaume-Uni, mettant ainsi fin à son deuxième mandat."
+      }
+    ]
+  },
+  "4-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 avril 1917, les États-Unis déclarent la guerre à l’Empire allemand, entrant officiellement dans la Première Guerre mondiale."
+      },
+      {
+        "text1": "Le 6 avril 1994, le génocide a commencé au Rwanda, au cours duquel environ 800 000 personnes, principalement issues du groupe ethnique tutsi, ont été sauvagement assassinées sur une période d'environ 100 jours."
+      }
+    ]
+  },
+  "4-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 avril 1948, la Déclaration universelle des droits de l'homme a été proclamée par l'Assemblée générale des Nations Unies, établissant les droits fondamentaux de tous les êtres humains."
+      },
+      {
+        "text1": "Le 7 avril 1964, le premier satellite de communications, Syncom 3, a été mis en orbite par la NASA, ouvrant ainsi une nouvelle ère dans les communications mondiales."
+      }
+    ]
+  },
+  "4-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 avril 1974, le dictateur portugais António de Oliveira Salazar décède, entraînant la chute du régime autoritaire de l’Estado Novo et la démocratisation du Portugal."
+      },
+      {
+        "text1": "Le 8 avril 1994, le chanteur de rock Kurt Cobain, leader du groupe Nirvana, est retrouvé mort à son domicile de Seattle, aux États-Unis."
+      }
+    ]
+  },
+  "4-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 avril 1865, la capitulation du général confédéré Robert E. Lee au général de l'Union Ulysses S. Grant eut lieu, marquant la fin de la guerre civile américaine."
+      },
+      {
+        "text1": "Le 9 avril 1940, l’Allemagne nazie envahit le Danemark et la Norvège, commençant ainsi l’occupation de ces pays pendant la Seconde Guerre mondiale."
+      }
+    ]
+  },
+  "4-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 avril 1912, le RMS Titanic effectuait son voyage inaugural de Southampton, en Angleterre, à New York, aux États-Unis, avant d'entrer en collision avec un iceberg et de couler dans l'océan Atlantique."
+      },
+      {
+        "text1": "Le 10 avril 1972, la visite du Premier ministre japonais Kakuei Tanaka en Chine marque un moment important dans la normalisation des relations entre les deux pays."
+      }
+    ]
+  },
+  "4-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 avril 1951, le général Douglas MacArthur fut relevé de son commandement pendant la guerre de Corée par le président américain Harry S. Truman à la suite de désaccords sur la stratégie militaire."
+      },
+      {
+        "text1": "Le 11 avril 1979, le président du Zimbabwe, Canaan Banana, a proclamé l'indépendance du pays, mettant fin à la domination coloniale britannique et établissant la République du Zimbabwe."
+      }
+    ]
+  },
+  "4-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 avril 1961, le cosmonaute soviétique Youri Gagarine est devenu le premier humain à orbiter autour de la Terre à bord de la sonde spatiale Vostok 1."
+      },
+      {
+        "text1": "Le 12 avril 1992, l'Eurotunnel, qui relie le Royaume-Uni à la France sous la Manche, est inauguré, offrant une connexion ferroviaire directe entre les deux pays."
+      }
+    ]
+  },
+  "4-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 avril 1743, Thomas Jefferson, troisième président des États-Unis et principal auteur de la Déclaration d'indépendance, est né dans la colonie de Virginie."
+      },
+      {
+        "text1": "Le 13 avril 1943 eut lieu le soulèvement du ghetto de Varsovie, un acte de résistance organisé par les Juifs contre les forces nazies pendant la Seconde Guerre mondiale."
+      }
+    ]
+  },
+  "4-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 avril 1865, le président des États-Unis, Abraham Lincoln, est assassiné par l'acteur John Wilkes Booth, dans un théâtre de Washington DC."
+      },
+      {
+        "text1": "Le 14 avril 1986, les États-Unis mènent une frappe aérienne contre la Libye, en représailles à l'implication présumée du pays dans un attentat terroriste dans une discothèque berlinoise."
+      }
+    ]
+  },
+  "4-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 avril 1912, le RMS Titanic coulait après être entré en collision avec un iceberg, entraînant la mort de plus de 1 500 personnes dans l'une des catastrophes maritimes les plus célèbres de l'histoire."
+      },
+      {
+        "text1": "Le 15 avril 1947, le joueur de baseball Jackie Robinson fait ses débuts dans la Major League Baseball, brisant la barrière raciale dans le sport professionnel aux États-Unis."
+      }
+    ]
+  },
+  "4-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 avril 1945, le dictateur allemand Adolf Hitler se suicida dans son bunker berlinois, marquant la fin du régime nazi pendant la Seconde Guerre mondiale."
+      },
+      {
+        "text1": "Le 16 avril 1972 a eu lieu le massacre de My Lai, au cours duquel des soldats américains ont tué des centaines de civils vietnamiens pendant la guerre du Vietnam."
+      }
+    ]
+  },
+  "4-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 avril 1961 eut lieu l’invasion de la Baie des Cochons, une tentative ratée de la CIA de renverser le régime de Fidel Castro à Cuba."
+      },
+      {
+        "text1": "Le 17 avril 1975, les Khmers rouges, dirigés par Pol Pot, prennent le contrôle de Phnom Penh, la capitale du Cambodge, marquant le début d'une période de génocide et de répression dans le pays."
+      }
+    ]
+  },
+  "4-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 avril 1775, la première confrontation armée entre les colons américains et les troupes britanniques eut lieu lors de la bataille de Lexington et de Concord, qui marqua le début de la guerre d'indépendance américaine."
+      },
+      {
+        "text1": "Le 18 avril 1980, une opération de sauvetage d'otages américains a eu lieu à l'ambassade des États-Unis à Téhéran, en Iran, connue sous le nom d'Opération Eagle Claw, qui s'est soldée par un échec et a entraîné la mort de plusieurs soldats américains."
+      },
+      {
+        "text1": "Le 18 avril 1996, l'armée ougandaise et le groupe rebelle de l'Armée de résistance du Seigneur (LRA) ont signé un cessez-le-feu temporaire après des années de conflit armé dans le nord de l'Ouganda."
+      }
+    ]
+  },
+  "4-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 avril 1775, a lieu la bataille de Concord, pendant la guerre d'indépendance américaine, au cours de laquelle les milices coloniales parviennent à repousser les troupes britanniques."
+      },
+      {
+        "text1": "Le 19 avril 1995, un attentat terroriste a eu lieu à Oklahoma City, aux États-Unis, lorsqu'un camion piégé a explosé devant le bâtiment fédéral Alfred P. Murrah, entraînant la mort de 168 personnes."
+      }
+    ]
+  },
+  "4-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 avril 1889, Adolf Hitler, futur dirigeant nazi, est né à Braunau am Inn, en Autriche."
+      },
+      {
+        "text1": "Le 20 avril 1999 a eu lieu le massacre de Columbine, au cours duquel deux étudiants armés ont attaqué le lycée de Columbine, aux États-Unis, tuant 12 étudiants et un enseignant, avant de se suicider."
+      }
+    ]
+  },
+  "4-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 avril 753 avant JC, selon la légende, Rome fut fondée par Romulus et Remus."
+      },
+      {
+        "text1": "Le 21 avril 1960, Brasilia, la capitale du Brésil, est officiellement inaugurée et est considérée comme une étape importante dans l'histoire de l'architecture et de l'urbanisme."
+      }
+    ]
+  },
+  "4-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 avril 1970 était célébrée la première Journée de la Terre, un événement international destiné à sensibiliser aux enjeux environnementaux et à la protection de la planète."
+      },
+      {
+        "text1": "Le 22 avril 1993, le leader de l'ANC et futur président de l'Afrique du Sud, Nelson Mandela, et le président Frederik Willem de Klerk ont ​​reçu le prix Nobel de la paix pour leurs efforts visant à mettre fin à l'apartheid."
+      }
+    ]
+  },
+  "4-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 avril 1564, William Shakespeare, l'un des plus grands dramaturges de l'histoire, est né à Stratford-upon-Avon, en Angleterre."
+      },
+      {
+        "text1": "Le 23 avril 1910, Théodore Roosevelt prononça son célèbre discours « À la parole douce et au grand sport » à la Sorbonne à Paris, soulignant l'importance de la diplomatie et de l'usage du pouvoir pour promouvoir la paix mondiale."
+      }
+    ]
+  },
+  "4-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 avril 1800, la Bibliothèque du Congrès des États-Unis fut créée à Washington D.C., avec l'achat de son premier livre."
+      },
+      {
+        "text1": "Le 24 avril 1916 eut lieu l'Insurrection de Pâques, un soulèvement armé en Irlande contre la domination britannique, considéré comme une étape importante sur la voie de l'indépendance irlandaise."
+      }
+    ]
+  },
+  "4-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 avril 1945, pendant la Seconde Guerre mondiale, les forces soviétiques et yougoslaves libérèrent la ville de Belgrade, en Yougoslavie, du joug nazi."
+      },
+      {
+        "text1": "Le 25 avril 1974 a eu lieu au Portugal la Révolution des œillets, un mouvement militaire qui a renversé le régime dictatorial de l'Estado Novo et rétabli la démocratie dans le pays."
+      }
+    ]
+  },
+  "4-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 avril 1986, la catastrophe nucléaire de Tchernobyl s'est produite en Ukraine, lorsqu'une explosion dans un réacteur nucléaire a libéré une grande quantité de matières radioactives dans l'atmosphère, provoquant l'une des plus grandes catastrophes nucléaires de l'histoire."
+      },
+      {
+        "text1": "Le 26 avril 2005, le prince héritier du Japon, Naruhito, épousa Masako Owada lors d'une cérémonie tenue au sanctuaire Meiji à Tokyo."
+      }
+    ]
+  },
+  "4-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 avril 497 avant JC, la ville de Rome est officiellement fondée, selon la tradition."
+      },
+      {
+        "text1": "Le 27 avril 1994, Nelson Mandela est élu premier président noir d’Afrique du Sud, marquant ainsi la fin de l’apartheid dans le pays."
+      }
+    ]
+  },
+  "4-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 avril 1789, la rébellion du HMS Bounty a eu lieu, lorsque l'équipage du navire britannique s'est rebellé contre le capitaine William Bligh."
+      },
+      {
+        "text1": "Le 28 avril 1945, pendant la Seconde Guerre mondiale, le dictateur italien Benito Mussolini est capturé et exécuté par des membres de la résistance italienne."
+      }
+    ]
+  },
+  "4-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 avril 1975, la guerre du Vietnam prend fin avec la chute de Saigon, la capitale du Sud-Vietnam, aux mains des forces communistes du Nord-Vietnam."
+      },
+      {
+        "text1": "Le 29 avril 2011, le prince William du Royaume-Uni épousait Catherine Middleton lors d'une cérémonie organisée à l'abbaye de Westminster à Londres."
+      }
+    ]
+  },
+  "4-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 avril 1789, George Washington est investi comme premier président des États-Unis d’Amérique."
+      },
+      {
+        "text1": "Le 30 avril 1945, Adolf Hitler et son épouse Eva Braun se suicident dans leur bunker à Berlin, marquant la fin du régime nazi en Allemagne."
+      }
+    ]
+  },
+  "5-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er mai 1886 a lieu à Chicago, aux États-Unis, la révolte de Haymarket, marquée par des protestations des ouvriers pour de meilleures conditions de travail et une journée de travail de huit heures."
+      },
+      {
+        "text1": "Le 1er mai 1994, l'Accord général sur les tarifs douaniers et le commerce (GATT) est entré en vigueur, une étape importante dans le commerce international qui a établi l'Organisation mondiale du commerce (OMC) pour succéder au GATT."
+      }
+    ]
+  },
+  "5-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 mai 1519, l'explorateur italien Léonard de Vinci décède à Amboise, en France."
+      },
+      {
+        "text1": "Le 2 mai 2011, le chef terroriste Oussama ben Laden, fondateur d'Al-Qaïda et responsable des attentats du 11 septembre 2001, a été tué lors d'une opération militaire américaine au Pakistan."
+      }
+    ]
+  },
+  "5-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 mai 1808 a lieu le soulèvement de Dos de Mayo, une révolte populaire contre l'occupation française à Madrid, pendant les guerres napoléoniennes."
+      },
+      {
+        "text1": "Le 3 mai 1979, Margaret Thatcher est devenue la première femme à être élue Premier ministre du Royaume-Uni, occupant ce poste pendant trois mandats consécutifs."
+      },
+      {
+        "text1": "Le 3 mai 2000 a eu lieu à Londres l'inauguration du Millennium Bridge, une structure emblématique qui traverse la Tamise et est devenue un symbole de la ville."
+      }
+    ]
+  },
+  "5-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 mai 1626, l'explorateur néerlandais Peter Minuit arrive sur l'île de Manhattan et y établit une colonie qui deviendra la ville de New York."
+      },
+      {
+        "text1": "Le 4 mai 1970, le massacre de l'État de Kent a eu lieu aux États-Unis, lorsque des soldats de la Garde nationale ont ouvert le feu sur des étudiants qui protestaient contre la guerre du Vietnam, faisant quatre morts."
+      }
+    ]
+  },
+  "5-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 mai 1821, le leader révolutionnaire sud-américain Simón Bolívar bat les forces espagnoles lors de la bataille de Carabobo, consolidant ainsi l'indépendance du Venezuela."
+      },
+      {
+        "text1": "Le 5 mai 1862 a eu lieu la bataille de Puebla au Mexique, au cours de laquelle l'armée mexicaine a remporté une victoire surprenante sur les forces françaises qui cherchaient à conquérir le pays."
+      }
+    ]
+  },
+  "5-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 mai 1527, le sac de Rome eut lieu lorsque les troupes de l'empereur Charles V envahirent et pillèrent la ville de Rome, marquant la fin de la Renaissance italienne."
+      },
+      {
+        "text1": "Le 6 mai 1954, la bataille de Dien Bien Phu, au Vietnam, se termine par la victoire du Viet Minh sur les forces coloniales françaises, qui entraîne le retrait français et la fin de l'Indochine française."
+      }
+    ]
+  },
+  "5-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 mai 1824, Beethoven créa sa Neuvième Symphonie à Vienne, en Autriche, avec sa composition la plus connue, l'Hymne à la joie."
+      },
+      {
+        "text1": "Le 7 mai 1945, l’Allemagne nazie se rendit sans condition aux forces alliées, marquant la fin de la Seconde Guerre mondiale en Europe."
+      }
+    ]
+  },
+  "5-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 mai 1886, la révolte des travailleurs de Haymarket a lieu à Chicago, aux États-Unis, pour protester contre la journée de travail de huit heures, ce qui entraîne de violents affrontements entre ouvriers et policiers."
+      },
+      {
+        "text1": "Le 8 mai 1945 fut proclamé Jour de la Victoire en Europe, célébrant la fin de la Seconde Guerre mondiale en Europe avec la capitulation inconditionnelle de l’Allemagne nazie."
+      }
+    ]
+  },
+  "5-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 mai 1502, l'explorateur Christophe Colomb entreprend son quatrième et dernier voyage vers le Nouveau Monde."
+      },
+      {
+        "text1": "Le 9 mai 1950, le ministre français des Affaires étrangères, Robert Schuman, présente la proposition de création de la Communauté européenne du charbon et de l'acier (CECA), une étape importante vers l'intégration européenne."
+      }
+    ]
+  },
+  "5-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 mai 1503, le peintre italien de la Renaissance Michel-Ange commença à travailler sur la sculpture de David, l'une de ses œuvres les plus célèbres."
+      },
+      {
+        "text1": "Le 10 mai 1994, Nelson Mandela prête serment en tant que premier président noir d'Afrique du Sud, marquant la fin de l'apartheid dans le pays et le début d'une nouvelle ère."
+      }
+    ]
+  },
+  "5-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 mai 330, l'empereur romain Constantin Ier fonde la ville de Constantinople, qui deviendra la capitale de l'Empire romain d'Orient et plus tard de l'Empire byzantin."
+      },
+      {
+        "text1": "Le 11 mai 1998, l’Inde a procédé avec succès à son premier essai d’armes nucléaires, augmentant les tensions dans la région et déclenchant une série d’essais nucléaires en Asie du Sud."
+      }
+    ]
+  },
+  "5-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 mai 1820, Florence Nightingale, pionnière des soins infirmiers modernes, est née à Florence, en Italie."
+      },
+      {
+        "text1": "Le 12 mai 1962, l'astronaute américain Scott Carpenter est devenu le deuxième Américain à orbiter autour de la Terre à bord de la sonde Aurora 7."
+      }
+    ]
+  },
+  "5-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 mai 1917, la première apparition de la Vierge Marie aux trois enfants bergers eut lieu à Fátima, au Portugal, marquant le début d'une série d'événements qui seraient connus sous le nom d'Apparitions de Fátima."
+      },
+      {
+        "text1": "Le 13 mai 1981, le pape Jean-Paul II a été grièvement blessé lors d'un attentat à Rome, mais il a survécu à l'attaque."
+      }
+    ]
+  },
+  "5-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 mai 1948, l’indépendance de l’État d’Israël est proclamée, marquant la création de l’État juif moderne."
+      },
+      {
+        "text1": "Le 14 mai 2011, la déclaration d'indépendance du Soudan du Sud a eu lieu, faisant de ce pays le plus jeune pays du monde."
+      }
+    ]
+  },
+  "5-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 mai 1252, le pape Innocent IV publia la bulle papale Ad Extirpanda, autorisant l'Inquisition à utiliser la torture comme moyen d'obtenir des aveux d'hérésie."
+      },
+      {
+        "text1": "Le 15 mai 1940, pendant la Seconde Guerre mondiale, les Pays-Bas se rendirent aux forces allemandes, mettant ainsi fin à la bataille des Pays-Bas."
+      }
+    ]
+  },
+  "5-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 mai 1929 est fondée l’Académie des arts et des sciences du cinéma, chargée de décerner les Oscars."
+      },
+      {
+        "text1": "Le 16 mai 1966 sort l’album emblématique des Beach Boys, intitulé « Pet Sounds », qui devient une référence de la musique pop et influence des générations d’artistes."
+      }
+    ]
+  },
+  "5-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 mai 1792, la reine Marie-Antoinette de France est jugée et condamnée à mort pendant la Révolution française."
+      },
+      {
+        "text1": "Le 17 mai 2004, le premier mariage homosexuel a été légalisé aux États-Unis, dans l’État du Massachusetts."
+      }
+    ]
+  },
+  "5-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 mai 1804, Napoléon Bonaparte est proclamé empereur des Français, établissant ainsi le Premier Empire français."
+      },
+      {
+        "text1": "Le 18 mai 1980, le mont Saint Helens, un volcan situé aux États-Unis, est entré en éruption, provoquant l'une des plus grandes éruptions volcaniques de l'histoire du pays."
+      }
+    ]
+  },
+  "5-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 mai 1536, Anne Boleyn, la seconde épouse d'Henri VIII d'Angleterre, fut exécutée pour adultère et trahison."
+      },
+      {
+        "text1": "Le 19 mai 1962, l'actrice Marilyn Monroe a chanté « Joyeux anniversaire » au président des États-Unis, John F. Kennedy, lors d'une fête célébrant son anniversaire."
+      }
+    ]
+  },
+  "5-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 mai 1498, l'explorateur portugais Vasco de Gama arrive en Inde, ouvrant la route maritime entre l'Europe et le sous-continent indien."
+      },
+      {
+        "text1": "Le 20 mai 1873, le célèbre compositeur russe Piotr Ilitch Tchaïkovski créait sa symphonie « Symphonie n° 3 en ré majeur, op. 29', également connue sous le nom de 'Symphonie polonaise'."
+      }
+    ]
+  },
+  "5-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 mai 1927, le pilote américain Charles Lindbergh effectuait le premier vol transatlantique en solo sans escale, reliant New York à Paris à bord de l'avion Spirit of St. Louis."
+      },
+      {
+        "text1": "Le 21 mai 1991, l’ancienne présidente des Philippines, Corazon Aquino, a annoncé le retrait des bases militaires américaines du pays, mettant ainsi fin à des décennies de présence militaire américaine aux Philippines."
+      }
+    ]
+  },
+  "5-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 mai 1455, débuta en Angleterre la guerre des Roses, un conflit civil entre les maisons d'York et de Lancaster pour le contrôle du trône."
+      },
+      {
+        "text1": "Le 22 mai 2010, un séisme de magnitude 6,3 s'est produit dans la ville de Christchurch, en Nouvelle-Zélande, causant de graves dégâts et entraînant la perte de vies humaines."
+      }
+    ]
+  },
+  "5-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 mai 1430, Jeanne d'Arc fut capturée par les forces bourguignonnes pendant la guerre de Cent Ans, puis livrée aux Anglais et jugée pour hérésie."
+      },
+      {
+        "text1": "Le 23 mai 1934, le couple criminel Bonnie Parker et Clyde Barrow, connu sous le nom de « Bonnie and Clyde », fut abattu par la police lors d'un affrontement."
+      }
+    ]
+  },
+  "5-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 mai 1543, Nicolas Copernic publie le livre « De Revolutionibus Orbium Celestium », présentant sa théorie héliocentrique du système solaire."
+      },
+      {
+        "text1": "Le 24 mai 1883, le pont de Brooklyn, l'un des plus anciens ponts suspendus des États-Unis, est ouvert à la circulation, reliant Manhattan à Brooklyn."
+      }
+    ]
+  },
+  "5-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 mai 1977, le premier film de la saga « Star Wars », intitulé « Star Wars : Épisode IV – Un nouvel espoir », sort en salles aux États-Unis."
+      },
+      {
+        "text1": "Le 25 mai 2005, l'Airbus A380, le plus gros avion commercial au monde, effectuait son premier vol d'essai à Toulouse, en France."
+      }
+    ]
+  },
+  "5-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 mai 1896, Charles Dow publie le premier indice boursier, connu sous le nom de Dow Jones Industrial Average, qui devient un indicateur important des marchés financiers."
+      },
+      {
+        "text1": "Le 26 mai 1967, l'album emblématique des Beatles, intitulé « Sgt. Pepper's Lonely Hearts Club Band', est sorti, ce qui est devenu un jalon dans l'histoire de la musique populaire."
+      }
+    ]
+  },
+  "5-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 mai 1937, le dirigeable allemand Hindenburg prend feu lors d'une tentative d'atterrissage dans le New Jersey, aux États-Unis, entraînant la mort de 36 personnes."
+      },
+      {
+        "text1": "Le 27 mai 1999, l'Organisation mondiale de la santé (OMS) a déclaré que la polio avait été éradiquée des Amériques, devenant ainsi la première région du monde exempte de cette maladie."
+      }
+    ]
+  },
+  "5-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 mai 1953, l'alpiniste néo-zélandais Edmund Hillary et le sherpa Tenzing Norgay sont devenus les premiers à atteindre le sommet de l'Everest, la plus haute montagne du monde."
+      },
+      {
+        "text1": "Le 28 mai 1995, l'équipe nationale sud-africaine de rugby a remporté la Coupe du monde de rugby, lors de sa première participation après la fin de l'apartheid."
+      }
+    ]
+  },
+  "5-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 mai 1453 eut lieu la chute de Constantinople, capitale de l’Empire byzantin, face aux forces de l’Empire ottoman, marquant la fin du Moyen Âge et le début de l’ère moderne."
+      },
+      {
+        "text1": "Le 29 mai 1953, Sir Edmund Hillary et Tenzing Norgay atteignirent le sommet du mont Everest pour la première fois de l'histoire, ouvrant la voie à de futures expéditions et défiant les limites de l'être humain."
+      }
+    ]
+  },
+  "5-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 mai 1431, Jeanne d'Arc est brûlée vive pour hérésie, pendant la guerre de Cent Ans."
+      },
+      {
+        "text1": "Le 30 mai 1922, le Lincoln Memorial a été inauguré à Washington, DC, aux États-Unis, en l'honneur du 16e président des États-Unis, Abraham Lincoln."
+      }
+    ]
+  },
+  "5-31": {
+    "curiosity": [
+      {
+        "text": "Le 31 mai 1911, la première course d'Indianapolis, l'une des courses automobiles les plus célèbres et traditionnelles au monde, s'achève."
+      },
+      {
+        "text1": "Le 31 mai 1962, se produit au Chili le tremblement de terre de Valdivia, considéré comme le plus fort jamais enregistré, avec une magnitude estimée entre 9,4 et 9,6."
+      }
+    ]
+  },
+  "6-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er juin 1495, l'explorateur italien Christophe Colomb découvre l'île de Trinidad lors de son troisième voyage vers le Nouveau Monde."
+      },
+      {
+        "text1": "Le 1er juin 1967, l'album emblématique des Beatles, intitulé « Sgt. Pepper's Lonely Hearts Club Band', est sorti, ce qui est devenu un jalon dans l'histoire de la musique populaire."
+      }
+    ]
+  },
+  "6-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 juin 1953, le couronnement de la reine Elizabeth II du Royaume-Uni a lieu à l'abbaye de Westminster à Londres, à la suite du décès de son père, le roi George VI."
+      },
+      {
+        "text1": "Le 2 juin 1979, l'ancienne première dame des Philippines, Imelda Marcos, est arrêtée pour corruption et enrichissement illicite, après la chute du régime du dictateur Ferdinand Marcos."
+      }
+    ]
+  },
+  "6-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 juin 1965, l'astronaute américain Edward White est devenu le premier astronaute américain à effectuer une sortie dans l'espace lors de la mission Gemini 4."
+      },
+      {
+        "text1": "Le 3 juin 1989, le massacre de la place Tiananmen a eu lieu à Pékin, en Chine, lorsque les autorités chinoises ont brutalement réprimé des manifestants pro-démocratie, entraînant des centaines, voire des milliers de morts."
+      }
+    ]
+  },
+  "6-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 juin 1942, pendant la Seconde Guerre mondiale, la bataille de Midway débute dans l’océan Pacifique, aboutissant à une victoire stratégique des États-Unis contre l’Empire japonais."
+      },
+      {
+        "text1": "Le 4 juin 1989, les manifestations en faveur de la démocratie sur la place Tiananmen, à Pékin, en Chine, ont été brutalement réprimées par le gouvernement chinois, à l'aide de forces militaires et de chars."
+      }
+    ]
+  },
+  "6-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 juin 1947, le secrétaire d'État américain George Marshall annonçait le plan Marshall, visant à fournir une aide économique aux pays européens touchés par la Seconde Guerre mondiale."
+      },
+      {
+        "text1": "Le 5 juin 1967 éclate la guerre des Six Jours, un conflit entre Israël et les pays arabes voisins, qui aboutit à une victoire décisive d'Israël et à des changements importants dans les frontières de la région."
+      }
+    ]
+  },
+  "6-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 juin 1944 a eu lieu le jour J, l'une des plus grandes opérations militaires de la Seconde Guerre mondiale, lorsque les forces alliées ont débarqué en Normandie, en France, pour commencer la libération de l'Europe occidentale du joug nazi."
+      },
+      {
+        "text1": "Le 6 juin 1968, le sénateur américain Robert F. Kennedy, frère du président John F. Kennedy, est assassiné à Los Angeles, en Californie, lors de sa campagne présidentielle."
+      }
+    ]
+  },
+  "6-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 juin 1494, le Traité de Tordesillas est signé entre le Portugal et l'Espagne, divisant les terres découvertes et à découvrir hors d'Europe, établissant une ligne imaginaire qui partageait le monde entre les deux pays."
+      },
+      {
+        "text1": "Le 7 juin 1981, la sonde spatiale Voyager 2 est arrivée sur Saturne, envoyant à la Terre des images et des informations détaillées sur la planète et ses lunes."
+      }
+    ]
+  },
+  "6-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 juin 1783, les frères Montgolfier effectuaient avec succès le premier vol public d'une montgolfière habitée à Annonay, en France, marquant le début de l'ère de l'aviation."
+      },
+      {
+        "text1": "Le 8 juin 1972, le film « Le Parrain », réalisé par Francis Ford Coppola avec Marlon Brando et Al Pacino, sort dans les salles américaines."
+      }
+    ]
+  },
+  "6-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 juin 1815, la bataille de Waterloo, en Belgique, eut lieu entre les forces dirigées par Napoléon Bonaparte et une coalition d'armées européennes, entraînant la défaite finale de Napoléon et la fin de son empire."
+      },
+      {
+        "text1": "Le 9 juin 1934, la commission des affaires antiaméricaines de la Chambre des représentants des États-Unis fut créée, lançant une enquête sur les activités communistes dans le pays, connue plus tard sous le nom de « chasse aux sorcières »."
+      }
+    ]
+  },
+  "6-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 juin 1940, pendant la Seconde Guerre mondiale, l'Italie déclare la guerre à la France et au Royaume-Uni, entrant dans le conflit aux côtés de l'Allemagne nazie."
+      },
+      {
+        "text1": "Le 10 juin 1967, la guerre des Six Jours prend fin avec une victoire décisive d'Israël sur les pays arabes voisins, entraînant des changements importants dans les frontières de la région."
+      }
+    ]
+  },
+  "6-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 juin 1509, le roi Henri VIII d'Angleterre épousa sa première épouse, Catherine d'Aragon, lors d'une cérémonie qui eut lieu dans la chapelle royale du palais de Greenwich."
+      },
+      {
+        "text1": "Le 11 juin 1963, le moine bouddhiste vietnamien Thích Quảng Đức s'est sacrifié dans une rue animée de Saigon, pour protester contre la persécution religieuse du gouvernement sud-vietnamien."
+      }
+    ]
+  },
+  "6-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 juin 1898, pendant la guerre hispano-américaine, la bataille de Las Guasimas opposa les forces américaines et espagnoles près de Santiago de Cuba."
+      },
+      {
+        "text1": "Le 12 juin 1987, le président américain Ronald Reagan a prononcé un discours à Berlin, en Allemagne, dans lequel il a appelé le dirigeant soviétique Mikhaïl Gorbatchev à « abattre ce mur », en référence au mur de Berlin."
+      }
+    ]
+  },
+  "6-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 juin 1920, le Traité de Trianon est signé, mettant officiellement fin à l'état de guerre entre les puissances alliées et la Hongrie après la Première Guerre mondiale."
+      },
+      {
+        "text1": "Le 13 juin 1971, le premier satellite spatial commercial, appelé Intelsat IV F-3, est lancé, permettant la transmission de télévision en direct et les appels téléphoniques internationaux."
+      }
+    ]
+  },
+  "6-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 juin 1777, le Congrès continental des États-Unis a adopté le « drapeau des États-Unis », composé de treize bandes rouges et blanches alternées et d'un champ bleu avec treize étoiles blanches dans un cercle, représentant les originaux des treize colonies."
+      },
+      {
+        "text1": "Le 14 juin 1940, les troupes allemandes entrent dans Paris et occupent la capitale française pendant la Seconde Guerre mondiale."
+      }
+    ]
+  },
+  "6-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 juin 1215, le roi Jean d'Angleterre signa la Magna Carta, un document qui limitait le pouvoir du monarque et établissait les droits et libertés des nobles anglais."
+      },
+      {
+        "text1": "Le 15 juin 1904, la première édition du livre « Ulysse », écrit par James Joyce, est publiée à Paris, marquant une étape importante dans la littérature moderne."
+      }
+    ]
+  },
+  "6-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 juin 1858 eut lieu le discours de Springfield, un célèbre discours prononcé par Abraham Lincoln lors de la convention républicaine de l'Illinois, dans lequel il déclara : « Une maison divisée contre elle-même ne peut pas tenir ». ."
+      },
+      {
+        "text1": "Le 16 juin 1963, la cosmonaute soviétique Valentina Terechkova est devenue la première femme à voyager dans l'espace, à bord du vaisseau spatial Vostok 6."
+      }
+    ]
+  },
+  "6-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 juin 1579, Sir Francis Drake, explorateur et corsaire anglais, débarqua à un endroit aujourd'hui connu sous le nom de Drake's Bay, en Californie, au cours de son tour du monde."
+      },
+      {
+        "text1": "Le 17 juin 1972 a eu lieu le célèbre cambriolage de l'hôtel Watergate à Washington, DC, qui a conduit au scandale politique connu sous le nom de « scandale du Watergate » et à la démission du président des États-Unis, Richard Nixon. en 1974."
+      }
+    ]
+  },
+  "6-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 juin 1815 eut lieu la bataille de Waterloo, au cours de laquelle les forces du duc de Wellington et du maréchal prussien Gebhard Leberecht von Blücher vainquirent définitivement Napoléon Bonaparte et mirent fin à son empire."
+      },
+      {
+        "text1": "Le 18 juin 1983, Sally Ride devient la première Américaine à voyager dans l’espace, à bord de la navette spatiale Challenger."
+      }
+    ]
+  },
+  "6-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 juin 1865, les dernières personnes réduites en esclavage au Texas, aux États-Unis, furent informées de leur émancipation, lors d'un événement connu sous le nom de « Juneteenth », qui est encore célébré aujourd'hui comme le Jour de l'Indépendance. Émancipation afro-américaine."
+      },
+      {
+        "text1": "Le 19 juin 1978, Garfield, le célèbre chat orange créé par Jim Davis, fait ses débuts sous forme de bande dessinée dans les journaux à travers les États-Unis."
+      }
+    ]
+  },
+  "6-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 juin 1782, le Congrès continental a adopté le dessin actuel du sceau des États-Unis, qui représente l'aigle américain avec un bouclier et treize étoiles, représentant les treize colonies d'origine."
+      },
+      {
+        "text1": "Le 20 juin 1963, l'Union soviétique lançait le vaisseau spatial Vostok 6, avec à son bord Valentina Tereshkova, faisant d'elle la première femme à effectuer un vol spatial en solo."
+      }
+    ]
+  },
+  "6-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 juin 1948, l’Allemagne de l’Ouest introduisit une nouvelle monnaie, le mark allemand, marquant le début de la séparation monétaire entre l’Allemagne de l’Est et l’Allemagne de l’Ouest."
+      },
+      {
+        "text1": "Le 21 juin 1982, l'armée de l'air britannique lance l'opération Black Buck pendant la guerre des Malouines, menant des frappes aériennes contre les pistes d'atterrissage des îles Falkland occupées par l'Argentine."
+      }
+    ]
+  },
+  "6-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 juin 1941, pendant la Seconde Guerre mondiale, l’Allemagne nazie envahit l’Union soviétique et lance l’opération Barbarossa."
+      },
+      {
+        "text1": "Le 22 juin 1990, l’Allemagne de l’Est et l’Allemagne de l’Ouest signent le Traité d’unification, marquant la fin de la division de l’Allemagne et la réunification du pays."
+      }
+    ]
+  },
+  "6-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 juin 1314 eut lieu la bataille de Bannockburn, au cours de laquelle l'armée écossaise, dirigée par Robert the Bruce, remporta une victoire décisive sur les forces anglaises lors de la première guerre d'indépendance écossaise."
+      },
+      {
+        "text1": "Le 23 juin 2016, les électeurs britanniques ont voté en faveur de la sortie du pays de l'Union européenne, lors d'un référendum connu sous le nom de Brexit."
+      }
+    ]
+  },
+  "6-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 juin 1497, l'explorateur italien Giovanni Caboto, connu sous le nom de Jean Cabot, arrive en Amérique du Nord et revendique ces terres au nom de l'Angleterre."
+      },
+      {
+        "text1": "Le 24 juin 1948, le blocus de Berlin a commencé, lorsque l'Union soviétique a fermé toutes les voies terrestres et navigables vers Berlin-Ouest, entraînant une crise internationale."
+      }
+    ]
+  },
+  "6-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 juin 1876 eut lieu la bataille de Little Bighorn, au cours de laquelle les forces Sioux et Cheyennes vainquirent le 7e régiment de cavalerie de l'armée américaine, dirigé par le lieutenant-colonel George Armstrong Custer."
+      },
+      {
+        "text1": "Le 25 juin 1950, la guerre de Corée débute lorsque les forces nord-coréennes envahissent la Corée du Sud, entraînant un conflit qui dure jusqu'en 1953."
+      }
+    ]
+  },
+  "6-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 juin 1284 eut lieu la bataille de Meloria, au cours de laquelle la République de Gênes battit la République de Pise, consolidant ainsi sa domination sur la Méditerranée occidentale."
+      },
+      {
+        "text1": "Le 26 juin 1975, l'indépendance du Mozambique a eu lieu, marquant la fin de la domination coloniale portugaise dans le pays."
+      }
+    ]
+  },
+  "6-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 juin 1709, Pierre le Grand, chef de la Russie, remporte la bataille de Poltava contre la Suède, consolidant ainsi la puissance de la Russie dans la région et marquant le déclin de l'Empire suédois."
+      },
+      {
+        "text1": "Le 27 juin 1950, la bataille de Taejon débute pendant la guerre de Corée, au cours de laquelle les forces nord-coréennes attaquent la ville de Taejon, défendue par les troupes américaines."
+      }
+    ]
+  },
+  "6-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 juin 1914, l'archiduc François Ferdinand d'Autriche et son épouse sont assassinés à Sarajevo, en Bosnie, un événement qui déclenche le déclenchement de la Première Guerre mondiale."
+      },
+      {
+        "text1": "Le 28 juin 1969 ont eu lieu les émeutes de Stonewall, une série de manifestations en réponse à une descente de police au Stonewall Inn, un bar fréquenté par des personnes LGBTQ+ à New York, marquant une étape importante dans le mouvement pour les droits LGBTQ+."
+      }
+    ]
+  },
+  "6-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 juin 1613, le Globe Theatre, à Londres, fut détruit par un incendie lors d'une représentation d'une pièce de Shakespeare, puis reconstruit."
+      },
+      {
+        "text1": "Le 29 juin 2007, le premier iPhone d'Apple a été lancé aux États-Unis, révolutionnant le secteur des smartphones et des technologies mobiles."
+      }
+    ]
+  },
+  "6-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 juin 1859, le Français Charles Blondin fut le premier à traverser les chutes du Niagara sur un câble d'acier tendu."
+      },
+      {
+        "text1": "Le 30 juin 1997, la souveraineté de Hong Kong a été transférée du Royaume-Uni à la République populaire de Chine, marquant la fin de la domination britannique sur le territoire."
+      }
+    ]
+  },
+  "7-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er juillet 1867, la Confédération du Canada a eu lieu, unissant les provinces du Nouveau-Brunswick, de la Nouvelle-Écosse et de la province du Canada en une fédération autonome au sein de l'Empire britannique, marquant la création du Canada moderne."
+      },
+      {
+        "text1": "Le 1er juillet 1916, pendant la Première Guerre mondiale, débute la bataille de la Somme, l'une des batailles les plus sanglantes et les plus dévastatrices de l'histoire, avec plus d'un million de victimes, parmi lesquelles des morts, des blessés et des disparus."
+      }
+    ]
+  },
+  "7-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 juillet 1776, le Congrès continental des États-Unis vota l'indépendance des Treize Colonies de la Grande-Bretagne, un événement charnière dans l'histoire américaine qui conduisit à la Déclaration d'Indépendance le 4 juillet."
+      },
+      {
+        "text1": "Le 2 juillet 1881, le président des États-Unis, James A. Garfield, fut abattu par un assassin à Washington, DC, entraînant sa mort en septembre de la même année."
+      }
+    ]
+  },
+  "7-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 juillet 1863, pendant la guerre civile américaine, eut lieu la bataille de Gettysburg, l'un des principaux affrontements du conflit et considérée comme l'une des batailles les plus importantes de l'histoire des États-Unis."
+      },
+      {
+        "text1": "Le 3 juillet 1971, le New York Times commença à publier les Pentagon Papers, une série de documents secrets du gouvernement américain qui révélèrent des informations sur la guerre du Vietnam et eurent un impact majeur sur l'opinion publique."
+      }
+    ]
+  },
+  "7-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 juillet 1776, les États-Unis d'Amérique ont déclaré leur indépendance de la Grande-Bretagne, c'est le jour de l'indépendance des États-Unis, célébré chaque année comme fête nationale."
+      },
+      {
+        "text1": "Le 4 juillet 1863, le général Robert E. Lee et ses forces de l'armée de Virginie du Nord se rendirent au général Ulysses S. Grant, marquant la fin de la bataille de Vicksburg pendant la guerre civile américaine."
+      }
+    ]
+  },
+  "7-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 juillet 1948, le Royaume-Uni nationalisa les chemins de fer britanniques, créant ainsi British Railways, une entreprise publique responsable du système ferroviaire du pays."
+      },
+      {
+        "text1": "Le 5 juillet 1996, la brebis Dolly est devenue le premier mammifère cloné à partir d'une cellule adulte, une étape importante dans l'histoire du clonage."
+      }
+    ]
+  },
+  "7-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 juillet 1885, Louis Pasteur réussit pour la première fois à administrer le vaccin antirabique à un patient humain, marquant une avancée significative dans le domaine de l’immunisation."
+      },
+      {
+        "text1": "Le 6 juillet 1957, Althea Gibson est devenue la première joueuse de tennis afro-américaine à remporter le tournoi de Wimbledon, ouvrant ainsi la voie à la diversité dans ce sport."
+      }
+    ]
+  },
+  "7-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 juillet 1937, la bataille du pont de Lugou marque le début de la Seconde Guerre sino-japonaise, un conflit qui durera jusqu'en 1945 et aura un impact important sur la région Asie-Pacifique."
+      },
+      {
+        "text1": "Le 7 juillet 2005, les attentats du 7 juillet ont eu lieu à Londres, une série d'attaques terroristes coordonnées contre le système de transports publics de la ville, entraînant la mort de 52 personnes et des centaines de blessés."
+      }
+    ]
+  },
+  "7-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 juillet 1497, l'explorateur portugais Vasco de Gama quitta Lisbonne pour son premier voyage vers l'Inde, ouvrant ainsi une route maritime directe entre l'Europe et l'Asie."
+      },
+      {
+        "text1": "Le 8 juillet 1776, la Déclaration d'indépendance des États-Unis fut lue publiquement pour la première fois à Philadelphie, en Pennsylvanie, proclamant la séparation formelle des Treize Colonies de la Grande-Bretagne."
+      }
+    ]
+  },
+  "7-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 juillet 1877, le premier tournoi de tennis de Wimbledon a lieu à Londres, devenant ainsi l'un des événements les plus prestigieux de ce sport."
+      },
+      {
+        "text1": "Le 9 juillet 1962, la République algérienne est proclamée, marquant la fin de la guerre d'Algérie contre la domination coloniale française."
+      }
+    ]
+  },
+  "7-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 juillet 1962, Telstar 1, le premier satellite de communications actif, a été lancé dans l'espace, permettant la transmission de signaux de télévision, de téléphone et de données à l'échelle mondiale."
+      },
+      {
+        "text1": "Le 10 juillet 1940, pendant la Seconde Guerre mondiale, débute la bataille d’Angleterre, marquant une intense campagne aérienne entre la Royal Air Force et la Luftwaffe allemande."
+      }
+    ]
+  },
+  "7-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 juillet 1804, Aaron Burr, alors vice-président des États-Unis, blessa mortellement Alexander Hamilton, l'un des pères fondateurs du pays, lors d'un duel notoire."
+      },
+      {
+        "text1": "Le 11 juillet 1960, le Tchad obtient son indépendance de la France, marquant une étape importante vers la décolonisation en Afrique."
+      }
+    ]
+  },
+  "7-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 juillet 1906, fut publié le livre « L'origine des espèces » de Charles Darwin, présentant la théorie de l'évolution par sélection naturelle, une étape importante dans la biologie et dans la compréhension de la diversité de la vie sur Terre."
+      },
+      {
+        "text1": "Le 12 juillet 1979, le gouvernement nicaraguayen dirigé par le mouvement sandiniste a renversé la dictature d'Anastasio Somoza Debayle, mettant ainsi fin à une longue période de régime autoritaire au Nicaragua."
+      }
+    ]
+  },
+  "7-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 juillet 1793, lors de la Révolution française, Jean-Paul Marat, l'un des dirigeants politiques de l'époque, est assassiné par Charlotte Corday, sympathisante girondine."
+      },
+      {
+        "text1": "Le 13 juillet 1985, une catastrophe survient au stade du Heysel à Bruxelles avant la finale de l'UEFA Champions League, entraînant la mort de 39 personnes à cause d'une bousculade parmi les supporters de football."
+      }
+    ]
+  },
+  "7-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 juillet 1789 a lieu à Paris la prise de la Bastille, un événement qui symbolise le début de la Révolution française et la lutte pour la liberté et l'égalité."
+      },
+      {
+        "text1": "Le 14 juillet 1965, la sonde spatiale Mariner 4 effectuait le premier survol réussi de Mars, renvoyant les premières images rapprochées de la planète rouge."
+      }
+    ]
+  },
+  "7-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 juillet 1099 eut lieu la conquête de Jérusalem par les forces de la Première Croisade, établissant le Royaume de Jérusalem pendant les croisades du Moyen Âge."
+      },
+      {
+        "text1": "Le 15 juillet 1971, Apollo 15, une mission spatiale pilotée par la NASA, est lancée, étant la première à utiliser le rover lunaire pour explorer la surface de la Lune."
+      }
+    ]
+  },
+  "7-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 juillet 1945, la première explosion nucléaire réussie du projet Manhattan, connue sous le nom de test Trinity, a été réalisée, marquant le début de l'ère nucléaire."
+      },
+      {
+        "text1": "Le 16 juillet 1969, Apollo 11 est lancé depuis la base aérienne de Cape Kennedy, dans le but d'emmener les premiers astronautes sur la Lune."
+      }
+    ]
+  },
+  "7-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 juillet 1918, la famille impériale russe, dirigée par le tsar Nicolas II, est exécutée par les bolcheviks pendant la Révolution russe."
+      },
+      {
+        "text1": "Le 17 juillet 1996, le vol TWA 800 s'est produit, un avion de ligne Boeing 747 qui a explosé en plein vol et s'est écrasé dans l'océan Atlantique près de Long Island, New York, entraînant la mort des 230 occupants. conseil."
+      }
+    ]
+  },
+  "7-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 juillet 1925, le leader révolutionnaire mexicain Pancho Villa a été assassiné à Parral, au Mexique, dans des circonstances encore entourées de mystère."
+      },
+      {
+        "text1": "Le 18 juillet 1969, l'astronaute Neil Armstrong devenait le premier être humain à marcher sur la Lune lors de la mission Apollo 11, en prononçant la célèbre phrase : « C'est un petit pas pour l'homme, un pas de géant pour l'humanité »."
+      }
+    ]
+  },
+  "7-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 juillet 1799, la pierre de Rosette a été découverte lors de l'occupation française de l'Égypte, fournissant une clé pour le déchiffrement des hiéroglyphes égyptiens antiques."
+      },
+      {
+        "text1": "Le 19 juillet 1848, la première Convention de Seneca Falls a lieu aux États-Unis, marquant le début du mouvement pour les droits des femmes."
+      }
+    ]
+  },
+  "7-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 juillet 1969, Apollo 11 se posait sur la surface lunaire, devenant ainsi la première mission spatiale habitée à effectuer un alunissage et permettant aux astronautes Neil Armstrong et Buzz Aldrin de marcher sur la Lune."
+      },
+      {
+        "text1": "Le 20 juillet 1944, pendant la Seconde Guerre mondiale, eut lieu l'attaque hitlérienne, une tentative infructueuse d'assassinat d'Adolf Hitler dirigée par Claus von Stauffenberg."
+      }
+    ]
+  },
+  "7-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 juillet 1969, les astronautes d'Apollo 11 Neil Armstrong et Buzz Aldrin reviennent sains et saufs sur Terre après leur mission historique sur la Lune."
+      },
+      {
+        "text1": "Le 21 juillet 1944, la bataille de Guam a eu lieu pendant la Seconde Guerre mondiale, les forces américaines reprenant l'île du contrôle japonais."
+      }
+    ]
+  },
+  "7-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 juillet 1298, la bataille de Falkirk a eu lieu pendant la première guerre d'indépendance écossaise, l'armée anglaise dirigée par Édouard Ier battant les forces écossaises dirigées par William Wallace."
+      },
+      {
+        "text1": "Le 22 juillet 1933, Wiley Post est devenu le premier pilote à faire le tour du monde en avion en solo, complétant le parcours en 7 jours, 18 heures et 49 minutes."
+      }
+    ]
+  },
+  "7-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 juillet 1952, le général égyptien Muhammad Naguib destitue le roi Farouk Ier d'Égypte, marquant le début d'une nouvelle ère dans le pays."
+      },
+      {
+        "text1": "Le 23 juillet 1903, la Ford Motor Company fut officiellement constituée aux États-Unis, créant ainsi l’un des plus grands constructeurs automobiles au monde."
+      }
+    ]
+  },
+  "7-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 juillet 1911, Hiram Bingham III redécouvre la cité perdue de Machu Picchu au Pérou, révélant au monde l'une des merveilles archéologiques les plus importantes de l'histoire."
+      },
+      {
+        "text1": "Le 24 juillet 1969, le commandant d'Apollo 11 Neil Armstrong et le pilote du module lunaire Buzz Aldrin ont effectué la première sortie dans l'espace lunaire, connue sous le nom d'EVA (Extravehicular Activity)."
+      }
+    ]
+  },
+  "7-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 juillet 1797, le traité de paix de Campo Formio est signé, mettant fin à la première coalition et reconnaissant les réalisations de la France révolutionnaire dirigée par Napoléon Bonaparte."
+      },
+      {
+        "text1": "Le 25 juillet 1956, le paquebot italien Andrea Doria entre en collision avec le navire suédois Stockholm au large de Nantucket, aux États-Unis, provoquant l'une des catastrophes maritimes les plus connues de l'histoire."
+      }
+    ]
+  },
+  "7-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 juillet 1953 a eu lieu l'assaut de la caserne Moncada à Santiago de Cuba, dirigé par Fidel Castro et son groupe de rebelles, marquant le début de la Révolution cubaine."
+      },
+      {
+        "text1": "Le 26 juillet 1945 prend fin la Conférence de Potsdam, au cours de laquelle les dirigeants des puissances alliées se sont réunis pour discuter de l'avenir de l'Europe après la Seconde Guerre mondiale."
+      }
+    ]
+  },
+  "7-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 juillet 1953, l'armistice de Panmunjom est signé, mettant officiellement fin à la guerre de Corée et établissant la zone démilitarisée entre la Corée du Nord et la Corée du Sud."
+      },
+      {
+        "text1": "Le 27 juillet 1976 a eu lieu le détournement du vol 139 d'Air France, où des terroristes palestiniens ont détourné l'avion et ses passagers, entraînant un sauvetage spectaculaire à l'aéroport d'Entebbe en Ouganda."
+      }
+    ]
+  },
+  "7-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 juillet 1540, l'explorateur espagnol Francisco Vázquez de Coronado fonde la ville de Santa Fe, qui deviendra la capitale de l'État du Nouveau-Mexique aux États-Unis."
+      },
+      {
+        "text1": "Le 28 juillet 1914, l’Autriche-Hongrie déclare la guerre à la Serbie, déclenchant une série d’événements qui mèneront au déclenchement de la Première Guerre mondiale."
+      }
+    ]
+  },
+  "7-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 juillet 1958, la NASA est créée aux États-Unis, consolidant le programme spatial américain et conduisant à une exploration spatiale sans précédent."
+      },
+      {
+        "text1": "Le 29 juillet 1981, le mariage du prince Charles et de Lady Diana Spencer a eu lieu à la cathédrale Saint-Paul de Londres, un événement d'une grande importance mondiale."
+      }
+    ]
+  },
+  "7-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 juillet 1619, la première assemblée législative d'Amérique du Nord, connue sous le nom d'Assemblée des bourgeois de Virginie, a tenu sa première réunion à Jamestown, établissant ainsi une étape importante pour la démocratie dans la colonie anglaise."
+      },
+      {
+        "text1": "Le 30 juillet 1971, le Traité d’amitié soviéto-chinois est signé à Moscou, mettant fin à des années de tensions entre les deux puissances communistes."
+      }
+    ]
+  },
+  "7-31": {
+    "curiosity": [
+      {
+        "text": "Le 31 juillet 1498, l'explorateur portugais Vasco de Gama arrive à Calicut, en Inde, ouvrant une route maritime directe entre l'Europe et l'Est."
+      },
+      {
+        "text1": "Le 31 juillet 1972, l’Opération Chainsaw, dirigée par le Brésil, est lancée pour lutter contre la déforestation illégale en Amazonie, devenant ainsi une étape importante dans la lutte pour la préservation de la forêt tropicale."
+      }
+    ]
+  },
+  "8-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er août 1291 a eu lieu la formation de la Confédération suisse, lorsque trois cantons se sont réunis dans un pacte de défense mutuelle, marquant le début de la nation suisse."
+      },
+      {
+        "text1": "Le 1er août 1944 eut lieu l’Insurrection de Varsovie, un soulèvement contre l’occupation nazie de la capitale polonaise pendant la Seconde Guerre mondiale."
+      }
+    ]
+  },
+  "8-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 août 1934, le président allemand Paul von Hindenburg décède, permettant à Adolf Hitler de consolider son pouvoir et de devenir le chef suprême de l'Allemagne."
+      },
+      {
+        "text1": "Le 2 août 1990, l’Irak envahit le Koweït, déclenchant la guerre du Golfe et entraînant une intervention internationale menée par les États-Unis."
+      }
+    ]
+  },
+  "8-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 août 1492, Christophe Colomb quitta Palos de la Frontera, en Espagne, pour son expédition qui aboutirait à la découverte de l'Amérique."
+      },
+      {
+        "text1": "Le 3 août 1914, l’Allemagne déclare la guerre à la France, déclenchant la Première Guerre mondiale."
+      }
+    ]
+  },
+  "8-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 août 1944, la famille d'Anne Frank et d'autres prisonniers cachés dans l'annexe secrète d'Amsterdam, aux Pays-Bas, furent découverts et arrêtés par les nazis."
+      },
+      {
+        "text1": "Le 4 août 1964, survient l'incident du golfe du Tonkin, lorsque deux navires américains déclarent avoir été attaqués par des navires nord-vietnamiens, ce qui conduit les États-Unis à intensifier leur participation à la guerre du Vietnam."
+      }
+    ]
+  },
+  "8-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 août 1962, l'actrice et icône du cinéma Marilyn Monroe a été retrouvée morte à son domicile de Los Angeles, en Californie, dans des circonstances qui restent l'objet de controverses et de théories du complot."
+      },
+      {
+        "text1": "Le 5 août 1914, le Brésil déclare sa neutralité dans la Première Guerre mondiale, restant à l'écart du conflit qui ravage l'Europe."
+      }
+    ]
+  },
+  "8-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 août 1945, la bombe atomique Little Boy était larguée par les États-Unis sur la ville japonaise d’Hiroshima, entraînant d’énormes destructions et des milliers de morts instantanées."
+      },
+      {
+        "text1": "Le 6 août 1965, le président des États-Unis, Lyndon B. Johnson, signait le Voting Rights Act, qui interdisait la discrimination raciale dans le processus électoral, garantissant l'égalité du suffrage à tous les citoyens américains."
+      }
+    ]
+  },
+  "8-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 août 1947, l'incident de Roswell a commencé lorsqu'un objet non identifié s'est écrasé près de Roswell, au Nouveau-Mexique, suscitant des spéculations sur la possibilité qu'il s'agisse d'un vaisseau spatial extraterrestre."
+      },
+      {
+        "text1": "Le 7 août 1998, des attaques terroristes contre les ambassades américaines à Nairobi, au Kenya, et à Dar es Salaam, en Tanzanie, ont fait des centaines de morts et des milliers de blessés."
+      }
+    ]
+  },
+  "8-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 août 1974, le président américain Richard Nixon démissionne de ses fonctions en raison du scandale du Watergate, devenant ainsi le premier président américain à démissionner."
+      },
+      {
+        "text1": "Le 8 août 1945, l’Union soviétique déclare la guerre au Japon et envahit la Mandchourie, contribuant ainsi à la capitulation du Japon et à la fin de la Seconde Guerre mondiale en Asie."
+      }
+    ]
+  },
+  "8-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 août 1945, la bombe atomique Fat Man est larguée sur la ville japonaise de Nagasaki par les États-Unis, provoquant des destructions massives et plus de 70 000 morts."
+      },
+      {
+        "text1": "Le 9 août 1965, l'astronaute américain Neil Armstrong effectuait la première sortie dans l'espace de l'histoire lors de la mission Gemini 8."
+      }
+    ]
+  },
+  "8-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 août 1519, l'expédition dirigée par Ferdinand Magellan quitta Séville, en Espagne, à la recherche d'une route maritime vers les îles Moluques, aboutissant au premier tour du monde."
+      },
+      {
+        "text1": "Le 10 août 1792, le massacre des Tuileries a eu lieu à Paris, pendant la Révolution française, au cours duquel les forces révolutionnaires ont attaqué le palais des Tuileries, où se réfugiait la famille royale."
+      }
+    ]
+  },
+  "8-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 août 3114 avant JC, selon le calendrier maya, marquait le début du long cycle actuel de comptage du temps maya, connu sous le nom de 13.0.0.0.0, marquant une date importante dans la culture maya."
+      },
+      {
+        "text1": "Le 11 août 1999, une éclipse solaire totale s'est produite, visible dans certaines parties de l'Europe, de l'Asie et de l'Afrique, constituant un événement astronomique d'une grande importance et d'un grand intérêt public."
+      }
+    ]
+  },
+  "8-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 août 30 avant JC, la reine Cléopâtre VII d'Égypte se serait suicidée, suite à la défaite de Marc Antoine et à l'annexion de l'Égypte à l'Empire romain."
+      },
+      {
+        "text1": "Le 12 août 1944, pendant la Seconde Guerre mondiale, débute la bataille de Narva, au cours de laquelle les troupes allemandes et leurs alliés affrontent l'Armée rouge en Estonie."
+      }
+    ]
+  },
+  "8-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 août 1961 commençait la construction du mur de Berlin, qui divisait la ville de Berlin en deux parties, séparant ainsi l'Allemagne de l'Est de l'Allemagne de l'Ouest."
+      },
+      {
+        "text1": "Le 13 août 1521, la capitale aztèque Tenochtitlán fut capturée par les forces espagnoles dirigées par Hernán Cortés, marquant la fin de l'empire aztèque au Mexique."
+      }
+    ]
+  },
+  "8-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 août 1945, le Japon accepta les termes de sa capitulation inconditionnelle, mettant fin à la Seconde Guerre mondiale et marquant le Jour de la Victoire au Japon."
+      },
+      {
+        "text1": "Le 14 août 1947, le Pakistan devient un pays indépendant après s'être séparé de l'Inde, une étape importante dans l'histoire de la région qui a conduit à la formation de deux États distincts."
+      }
+    ]
+  },
+  "8-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 août 1947, l’Inde a obtenu son indépendance de la domination coloniale britannique, devenant une nation souveraine et célébrant le Jour de l’Indépendance de l’Inde."
+      },
+      {
+        "text1": "Le 15 août 1969, le festival de musique de Woodstock a débuté à Bethel, dans l'État de New York, devenant ainsi l'un des événements les plus emblématiques et les plus influents de l'histoire de la musique."
+      }
+    ]
+  },
+  "8-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 août 1977, le roi du rock'n'roll, Elvis Presley, est décédé à son domicile de Graceland à Memphis, Tennessee, laissant un héritage durable dans la musique et la culture populaire."
+      },
+      {
+        "text1": "Le 16 août 1819, la ville de Manchester, en Angleterre, a été le théâtre du massacre de Peterloo, lorsque la cavalerie et l'infanterie britanniques ont attaqué une foule manifestant en faveur de réformes politiques et sociales, entraînant des morts et des blessés graves."
+      }
+    ]
+  },
+  "8-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 août 1945, l'Indonésie déclare son indépendance de l'occupation coloniale néerlandaise, marquant le début d'une longue lutte pour la souveraineté du pays."
+      },
+      {
+        "text1": "Le 17 août 2017, un attentat terroriste s'est produit à Barcelone, en Espagne, lorsqu'une camionnette a été délibérément conduite dans une zone très fréquentée, faisant plusieurs morts et blessés."
+      }
+    ]
+  },
+  "8-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 août 1920, le 19e amendement à la Constitution des États-Unis est ratifié, accordant aux femmes le droit de vote."
+      },
+      {
+        "text1": "Le 18 août 1966, la sonde spatiale Lunar Orbiter 1 est lancée par la NASA, lançant une série de missions visant à cartographier la surface de la Lune."
+      }
+    ]
+  },
+  "8-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 août 1934 eut lieu la signature du Pacte de paix entre l'Italie et l'Éthiopie, mettant fin à la Seconde Guerre italo-éthiopienne."
+      },
+      {
+        "text1": "Le 19 août 1991, le coup d'État d'août a eu lieu en Union soviétique, lorsqu'une faction conservatrice du Parti communiste a tenté de renverser le président Mikhaïl Gorbatchev et de prendre le pouvoir."
+      }
+    ]
+  },
+  "8-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 août 1975, la NASA a lancé la sonde spatiale Viking 1 vers Mars, première mission à atterrir avec succès sur la surface de la planète rouge."
+      },
+      {
+        "text1": "Le 20 août 1968, les troupes du Pacte de Varsovie, dirigées par l’Union soviétique, envahissent la Tchécoslovaquie, mettant fin au Printemps de Prague et renforçant le contrôle communiste sur le pays."
+      }
+    ]
+  },
+  "8-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 août 1959, Hawaï devient le 50e État des États-Unis, après des décennies de lutte pour annexer le territoire au pays."
+      },
+      {
+        "text1": "Le 21 août 1911, la célèbre Joconde de Léonard de Vinci est volée au musée du Louvre à Paris, provoquant une grande émotion et devenant l'un des vols d'art les plus connus de l'histoire. histoire."
+      }
+    ]
+  },
+  "8-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 août 1485 eut lieu la bataille de Bosworth, au cours de laquelle Henry Tudor battit le roi Richard III d'Angleterre, marquant la fin des guerres des Deux-Roses et le début de la dynastie Tudor."
+      },
+      {
+        "text1": "Le 22 août 1962, l’Allemagne de l’Est commença à ériger le mur de Berlin, divisant la ville de Berlin et symbolisant la division de la guerre froide."
+      }
+    ]
+  },
+  "8-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 août 1305, le leader écossais William Wallace fut capturé par les forces anglaises puis exécuté pour trahison."
+      },
+      {
+        "text1": "Le 23 août 1944 a eu lieu la bataille de Narva pendant la Seconde Guerre mondiale, au cours de laquelle les troupes allemandes ont réussi à repousser une attaque massive de l'Armée rouge en Estonie."
+      }
+    ]
+  },
+  "8-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 août 79 après JC, le Vésuve est entré en éruption, détruisant les villes romaines de Pompéi et d'Herculanum et les ensevelissant sous les cendres volcaniques."
+      },
+      {
+        "text1": "Le 24 août 1814, l'incendie de Washington, DC, s'est produit pendant la guerre de 1812, lorsque les forces britanniques ont incendié plusieurs bâtiments gouvernementaux, dont la Maison Blanche et le Capitole des États-Unis."
+      }
+    ]
+  },
+  "8-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 août 1944, Paris est libérée de la domination allemande par les forces alliées pendant la Seconde Guerre mondiale, marquant un moment de célébration pour la ville et pour la France."
+      },
+      {
+        "text1": "Le 25 août 1835 a eu lieu la révolte de Malês, un soulèvement d'esclaves islamiques dans la ville de Salvador, au Brésil, qui cherchaient leur liberté et l'établissement d'un État islamique."
+      }
+    ]
+  },
+  "8-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 août 1789, la Déclaration des droits de l'homme et du citoyen a été adoptée par l'Assemblée nationale constituante de France pendant la Révolution française, établissant les droits fondamentaux et les principes politiques de la nation."
+      },
+      {
+        "text1": "Le 26 août 1914, la bataille de Tannenberg a eu lieu pendant la Première Guerre mondiale, aboutissant à une victoire décisive des forces allemandes sur l'armée russe."
+      }
+    ]
+  },
+  "8-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 août 1859, la sonde spatiale Jupiter a été lancée par la NASA, étant la première mission à explorer la planète Jupiter et ses lunes."
+      },
+      {
+        "text1": "Le 27 août 1928, le Pacte Briand-Kellogg, également connu sous le nom de Pacte Kellogg-Briand, est signé, un traité multilatéral qui renonce à la guerre comme moyen de résoudre les différends internationaux."
+      }
+    ]
+  },
+  "8-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 août 1963 a eu lieu la Marche sur Washington pour l'emploi et la liberté, un événement emblématique du mouvement des droits civiques aux États-Unis, où Martin Luther King Jr. a prononcé son célèbre discours « J'ai un rêve »."
+      },
+      {
+        "text1": "Le 28 août 1996, l'attentat terroriste contre la Tour Eiffel à Paris, en France, a eu lieu lorsqu'une voiture piégée a explosé, faisant plusieurs blessés."
+      }
+    ]
+  },
+  "8-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 août 2005, l'ouragan Katrina frappait la côte du golfe des États-Unis, provoquant l'une des pires catastrophes naturelles de l'histoire du pays, principalement dans la ville de la Nouvelle-Orléans."
+      },
+      {
+        "text1": "Le 29 août 1949, l’Union soviétique teste avec succès sa première bombe atomique, marquant le début de la course aux armements nucléaires pendant la guerre froide."
+      }
+    ]
+  },
+  "8-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 août 1797, Mary Shelley, auteur de Frankenstein, est née à Londres, en Angleterre, devenant l'un des écrivains les plus influents de la littérature gothique et de science-fiction."
+      },
+      {
+        "text1": "Le 30 août 2003, l'astronaute brésilien Marcos Pontes a été lancé dans l'espace à bord du vaisseau spatial Soyouz, devenant ainsi le premier astronaute brésilien à se rendre à la Station spatiale internationale."
+      }
+    ]
+  },
+  "8-31": {
+    "curiosity": [
+      {
+        "text": "Le 31 août 1997, la mort tragique de la princesse Diana s'est produite dans un accident de voiture à Paris, en France, provoquant une émotion mondiale et laissant un héritage durable en tant que figure humanitaire."
+      },
+      {
+        "text1": "Le 31 août 1939, la Seconde Guerre mondiale éclate avec l’invasion de la Pologne par l’Allemagne nazie, déclenchant un conflit mondial qui durera six ans et fera des millions de morts."
+      }
+    ]
+  },
+  "9-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er septembre 1939, l’Allemagne nazie envahit la Pologne, marquant le début de la Seconde Guerre mondiale en Europe."
+      },
+      {
+        "text1": "Le 1er septembre 1985, l'épave du Titanic est découverte au fond de l'océan Atlantique par une équipe de recherche dirigée par Robert Ballard."
+      }
+    ]
+  },
+  "9-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 septembre 1945, la capitulation officielle du Japon a lieu, marquant la fin de la Seconde Guerre mondiale après l'explosion des bombes atomiques à Hiroshima et Nagasaki."
+      },
+      {
+        "text1": "Le 2 septembre 1666, le grand incendie de Londres éclate, détruisant une grande partie de la ville, dont la célèbre cathédrale Saint-Paul."
+      }
+    ]
+  },
+  "9-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 septembre 1783, le Traité de Paris est signé, mettant fin à la guerre d'indépendance américaine et reconnaissant l'indépendance des États-Unis d'Amérique."
+      },
+      {
+        "text1": "Le 3 septembre 1939, la France et le Royaume-Uni déclarent la guerre à l'Allemagne nazie en réponse à l'invasion de la Pologne, marquant le début de la Seconde Guerre mondiale en Europe."
+      }
+    ]
+  },
+  "9-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 septembre 1957, l’Union soviétique a lancé avec succès le vaisseau spatial Spoutnik 2, transportant dans l’espace la première créature vivante, le chien Laïka."
+      },
+      {
+        "text1": "Le 4 septembre 1781, les forces coloniales américaines dirigées par George Washington battent l’armée britannique lors de la bataille de Yorktown, un événement décisif dans la guerre d’indépendance américaine."
+      }
+    ]
+  },
+  "9-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 septembre 1972, l'équipe israélienne d'athlétisme est la cible d'un attentat terroriste lors des Jeux Olympiques de Munich, entraînant la mort de 11 athlètes."
+      },
+      {
+        "text1": "Le 5 septembre 1793 a eu lieu le massacre de Lyon, dans le contexte de la Révolution française, au cours duquel des centaines de personnes ont été exécutées en représailles à leur résistance à la Convention nationale."
+      }
+    ]
+  },
+  "9-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 septembre 1901, le président des États-Unis, William McKinley, est assassiné à Buffalo, dans l'État de New York, par un anarchiste nommé Leon Czolgosz."
+      },
+      {
+        "text1": "Le 6 septembre 1966, la série télévisée Star Trek a été créée aux États-Unis, devenant un phénomène culturel et influençant les générations futures de fans et de productions de science-fiction."
+      }
+    ]
+  },
+  "9-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 septembre 1822, le Brésil proclame son indépendance du Portugal, marquant le début d'un nouveau pays et la fin de la domination coloniale portugaise."
+      },
+      {
+        "text1": "Le 7 septembre 1940, pendant la Seconde Guerre mondiale, les bombardements allemands sur Londres atteignirent leur apogée lors du Blitz, causant d'importants dégâts à la ville."
+      }
+    ]
+  },
+  "9-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 septembre 1565 eut lieu la bataille de Malte, au cours de laquelle les chevaliers de Saint-Jean vainquirent une armée ottomane, empêchant la conquête de l'île par l'Empire ottoman."
+      },
+      {
+        "text1": "Le 8 septembre 1900, l'ouragan Galveston frappait la ville de Galveston, au Texas, aux États-Unis, provoquant l'une des pires catastrophes naturelles de l'histoire des États-Unis, avec plus de 8 000 morts."
+      }
+    ]
+  },
+  "9-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 septembre 1971, l’État du Qatar déclare son indépendance du Royaume-Uni et devient une nation souveraine du golfe Persique."
+      },
+      {
+        "text1": "Le 9 septembre 1948, la Corée du Nord proclame la République populaire démocratique de Corée, s'établissant ainsi comme un État communiste distinct de la Corée du Sud."
+      }
+    ]
+  },
+  "9-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 septembre 1939, le Canada déclare la guerre à l’Allemagne nazie et entre dans la Seconde Guerre mondiale aux côtés du Royaume-Uni et d’autres pays alliés."
+      },
+      {
+        "text1": "Le 10 septembre 2008, le Grand collisionneur de hadrons (LHC), le plus grand accélérateur de particules au monde, a été mis en service pour la première fois, ouvrant la voie à de nouvelles découvertes scientifiques."
+      }
+    ]
+  },
+  "9-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 septembre 2001, les États-Unis ont été la cible d'attentats terroristes coordonnés par l'organisation Al-Qaïda, entraînant la destruction des tours jumelles du World Trade Center, l'attentat contre le Pentagone et le vol United 93, qui s'est écrasé en Pennsylvanie."
+      },
+      {
+        "text1": "Le 11 septembre 1973, un coup d'État a lieu au Chili, dirigé par le général Augusto Pinochet, qui entraîne la chute du gouvernement démocratique de Salvador Allende et l'instauration d'une dictature militaire."
+      }
+    ]
+  },
+  "9-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 septembre 1940, pendant la Seconde Guerre mondiale, la France est contrainte de signer un armistice avec l'Allemagne nazie, mettant ainsi fin à sa participation active au conflit."
+      },
+      {
+        "text1": "Le 12 septembre 1959, la sonde spatiale Luna 2, lancée par l'Union soviétique, est devenue le premier objet fabriqué par l'homme à atteindre la Lune, marquant une étape importante dans l'exploration spatiale."
+      }
+    ]
+  },
+  "9-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 septembre 1993, les dirigeants d'Israël et de l'Organisation de libération de la Palestine (OLP) ont signé les accords d'Oslo, jetant ainsi les bases de la paix au Moyen-Orient."
+      },
+      {
+        "text1": "Le 13 septembre 1948, la France, le Royaume-Uni et les États-Unis ont publié la Déclaration tripartite, réaffirmant leur soutien à une solution pacifique au conflit israélo-arabe."
+      }
+    ]
+  },
+  "9-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 septembre 1901, le président des États-Unis, William McKinley, décède des suites de blessures subies lors d'une fusillade, ce qui conduit Theodore Roosevelt à assumer la présidence."
+      },
+      {
+        "text1": "Le 14 septembre 1982, le massacre de Sabra et Chatila a eu lieu dans les camps de réfugiés palestiniens à Beyrouth, au Liban, entraînant la mort de milliers de personnes."
+      }
+    ]
+  },
+  "9-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 septembre 1821, l’Amérique centrale déclara son indépendance de l’Espagne, formant les Provinces-Unies d’Amérique centrale, qui furent ensuite divisées en plusieurs pays."
+      },
+      {
+        "text1": "Le 15 septembre 1944, les forces alliées ont lancé l'opération Market Garden pendant la Seconde Guerre mondiale, une tentative infructueuse de capturer des ponts clés dans la Hollande occupée par les nazis."
+      }
+    ]
+  },
+  "9-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 septembre 1810, le Mexique commença sa lutte pour l’indépendance de l’Espagne, un mouvement connu sous le nom de Cri de Douleur."
+      },
+      {
+        "text1": "Le 16 septembre 1978, le Traité de paix de Camp David est signé entre Israël et l’Égypte, mettant officiellement fin à des décennies d’hostilité entre les deux pays."
+      }
+    ]
+  },
+  "9-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 septembre 1787, la Constitution des États-Unis d'Amérique fut signée à Philadelphie, en Pennsylvanie, établissant les bases du système politique et juridique du pays."
+      },
+      {
+        "text1": "Le 17 septembre 1948, la République de Corée (Corée du Sud) est proclamée, suite à la division de la péninsule coréenne à la fin de la Seconde Guerre mondiale."
+      }
+    ]
+  },
+  "9-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 septembre 1931, le Japon envahit la Mandchourie, déclenchant un conflit connu sous le nom d'incident de Mukden, qui conduisit finalement à la Seconde Guerre sino-japonaise."
+      },
+      {
+        "text1": "Le 18 septembre 2001, le Congrès américain a adopté la résolution autorisant le recours à la force militaire, ouvrant ainsi la voie à la guerre contre le terrorisme après les attentats du 11 septembre."
+      }
+    ]
+  },
+  "9-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 septembre 1870, pendant la guerre franco-prussienne, eut lieu la bataille de Sedan, aboutissant à la capture de l'empereur français Napoléon III par les forces prussiennes."
+      },
+      {
+        "text1": "Le 19 septembre 1985, un tremblement de terre dévastateur s'est produit à Mexico, d'une magnitude de 8,1 sur l'échelle de Richter, entraînant des milliers de morts et des destructions généralisées."
+      }
+    ]
+  },
+  "9-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 septembre 1519, l'explorateur portugais Ferdinand Magellan entreprend son expédition pour faire le tour du monde, un voyage qui durera près de trois ans."
+      },
+      {
+        "text1": "Le 20 septembre 2001, le président des États-Unis, George W. Bush, a prononcé un discours devant le Congrès, déclarant la « guerre contre le terrorisme » en réponse aux attentats du 11 septembre."
+      }
+    ]
+  },
+  "9-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 septembre 1937, le massacre de Nankin a eu lieu pendant la Seconde Guerre sino-japonaise, au cours de laquelle les forces japonaises ont commis des atrocités contre la population civile et les prisonniers de guerre."
+      },
+      {
+        "text1": "Le 21 septembre 1989, l'ouragan Hugo frappait la côte de la Caroline du Sud, aux États-Unis, provoquant d'importants dégâts et entraînant la mort de plus de 80 personnes."
+      }
+    ]
+  },
+  "9-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 septembre 1980, l’Irak, dirigé par Saddam Hussein, envahit l’Iran, déclenchant une guerre qui durera huit ans et fera des millions de morts."
+      },
+      {
+        "text1": "Le 22 septembre 1862, pendant la guerre civile américaine, eut lieu la bataille d'Antietam, l'affrontement le plus sanglant de l'histoire des États-Unis, avec plus de 22 000 victimes en une seule journée."
+      }
+    ]
+  },
+  "9-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 septembre 1949, la République populaire de Chine est proclamée par Mao Zedong, instaurant un régime communiste dans le pays."
+      },
+      {
+        "text1": "Le 23 septembre 2008, la société financière Lehman Brothers a déclaré faillite, déclenchant une crise financière mondiale et aggravant la récession mondiale."
+      }
+    ]
+  },
+  "9-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 septembre 622 eut lieu l'Hégire, la migration du prophète Mahomet de La Mecque à Médine, marquant le début du calendrier islamique."
+      },
+      {
+        "text1": "Le 24 septembre 1946, un tribunal militaire international de Nuremberg, en Allemagne, a condamné à mort 12 dirigeants nazis pour crimes de guerre et crimes contre l'humanité."
+      }
+    ]
+  },
+  "9-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 septembre 1513, l'explorateur espagnol Vasco Núñez de Balboa devient le premier Européen à apercevoir l'océan Pacifique, après avoir traversé l'isthme de Panama."
+      },
+      {
+        "text1": "Le 25 septembre 1957, neuf étudiants noirs sont entrés au Little Rock Central High School à Little Rock, Arkansas, sous protection fédérale, marquant une étape importante dans le mouvement des droits civiques aux États-Unis."
+      }
+    ]
+  },
+  "9-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 septembre 1580, l'Union ibérique est créée, unissant les couronnes du Portugal et d'Espagne sous le règne du roi d'Espagne Philippe II."
+      },
+      {
+        "text1": "Le 26 septembre 1983, le dirigeant soviétique Iouri Andropov a annoncé que l'Union soviétique ne participerait pas aux Jeux olympiques d'été de 1984 à Los Angeles, en représailles à la décision des États-Unis de boycotter les Jeux olympiques de Moscou, en 1980."
+      }
+    ]
+  },
+  "9-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 septembre 1822, le Brésil déclare son indépendance du Portugal et proclame Pierre Ier comme son empereur."
+      },
+      {
+        "text1": "Le 27 septembre 1905, la bataille de Moukden eut lieu pendant la guerre russo-japonaise, aboutissant à une victoire décisive du Japon sur les forces russes."
+      }
+    ]
+  },
+  "9-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 septembre 1066, la bataille de Stamford Bridge a eu lieu en Angleterre, où le roi Harold II d'Angleterre a vaincu les forces d'invasion dirigées par Harold III de Norvège."
+      },
+      {
+        "text1": "Le 28 septembre 1928, Alexander Fleming découvre accidentellement la pénicilline, l'un des antibiotiques les plus importants de l'histoire de la médecine."
+      }
+    ]
+  },
+  "9-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 septembre 1941, pendant la Seconde Guerre mondiale, Babi Yar, une gorge située à la périphérie de Kiev, en Ukraine, fut le théâtre de l'un des plus grands massacres de l'histoire, où les troupes nazies assassinèrent plus de 33 000 Juifs en seulement deux jours."
+      },
+      {
+        "text1": "Le 29 septembre 2008, la crise financière atteint un nouveau niveau avec l'effondrement de la banque d'investissement Lehman Brothers, déclenchant une série d'événements qui affectent le système financier mondial."
+      }
+    ]
+  },
+  "9-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 septembre 1938 eut lieu la signature des accords de Munich, au cours desquels les dirigeants européens cédèrent aux exigences d'Adolf Hitler, autorisant l'annexion de la région des Sudètes par l'Allemagne nazie."
+      },
+      {
+        "text1": "Le 30 septembre 2005, le procès controversé de Michael Jackson, accusé d'abus sexuels sur des enfants, s'est terminé avec son acquittement de toutes les charges retenues."
+      }
+    ]
+  },
+  "10-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er octobre 1949, la République populaire de Chine est proclamée par Mao Zedong, instaurant un régime communiste dans le pays."
+      },
+      {
+        "text1": "Le 1er octobre 1961, l'Organisation des pays exportateurs de pétrole (OPEP) a été fondée, une alliance de pays producteurs de pétrole dans le but de coordonner les politiques liées au commerce pétrolier et de protéger les intérêts des pays membres."
+      }
+    ]
+  },
+  "10-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 octobre 1187 eut lieu la bataille de Hattin, au cours de laquelle le chef musulman Saladin vainquit les forces chrétiennes du royaume de Jérusalem, ouvrant la voie à la conquête musulmane de Jérusalem."
+      },
+      {
+        "text1": "Le 2 octobre 1968, le massacre de Tlatelolco a eu lieu à Mexico, lors de manifestations étudiantes contre le gouvernement mexicain, entraînant la mort de centaines de manifestants."
+      }
+    ]
+  },
+  "10-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 octobre 1990, l’Allemagne est réunifiée, mettant officiellement fin à la division entre l’Allemagne de l’Est et l’Allemagne de l’Ouest."
+      },
+      {
+        "text1": "Le 3 octobre 1952, le Royaume-Uni effectuait son premier essai nucléaire, devenant ainsi la troisième puissance nucléaire au monde."
+      }
+    ]
+  },
+  "10-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 octobre 1957, l’Union soviétique lançait avec succès Spoutnik 1, le premier satellite artificiel de l’histoire, ouvrant ainsi la voie à l’ère spatiale."
+      },
+      {
+        "text1": "Le 4 octobre 2004, la sonde spatiale Cassini-Huygens a terminé sa mission de 7 ans sur Saturne, renvoyant des données et des images précieuses sur la planète et ses lunes."
+      }
+    ]
+  },
+  "10-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 octobre 1789, la Marche des femmes à Versailles a eu lieu pendant la Révolution française, lorsque des milliers de Parisiennes ont marché vers le château de Versailles pour réclamer du pain et la chute du roi."
+      },
+      {
+        "text1": "Le 5 octobre 2000, l'ancien président serbe, Slobodan Milošević, a été destitué et remis au Tribunal pénal international pour l'ex-Yougoslavie, où il sera jugé pour crimes de guerre et crimes contre l'humanité."
+      }
+    ]
+  },
+  "10-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 octobre 1973 éclate la guerre du Kippour, un conflit entre Israël et une coalition dirigée par l’Égypte et la Syrie, qui entraîne de lourdes pertes humaines et territoriales."
+      },
+      {
+        "text1": "Le 6 octobre 1927, sort le film muet « The Jazz Singer », premier long métrage à présenter des séquences avec des dialogues sonores synchronisés."
+      }
+    ]
+  },
+  "10-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 octobre 1571 eut lieu la bataille de Lépante, au cours de laquelle une alliance chrétienne dirigée par la République de Venise et l'Empire espagnol vainquit la flotte ottomane, stoppant ainsi l'avancée ottomane vers la Méditerranée occidentale."
+      },
+      {
+        "text1": "Le 7 octobre 1989, la Révolution pacifique a commencé dans ce qui était alors la Tchécoslovaquie, marquant le début de la fin du régime communiste dans le pays."
+      }
+    ]
+  },
+  "10-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 octobre 1871 survient le grand incendie de Chicago, l’une des plus grandes catastrophes urbaines de l’histoire des États-Unis, qui détruit une grande partie de la ville."
+      },
+      {
+        "text1": "Le 8 octobre 2001, les États-Unis ont lancé l’invasion militaire de l’Afghanistan, en réponse aux attentats terroristes du 11 septembre 2001."
+      }
+    ]
+  },
+  "10-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 octobre 1967, le leader révolutionnaire argentin Che Guevara est capturé en Bolivie, marquant la fin de sa guérilla en Amérique du Sud."
+      },
+      {
+        "text1": "Le 9 octobre 1989 survient la chute du mur de Berlin, l’un des événements les plus marquants de la fin de la guerre froide et de la réunification de l’Allemagne."
+      }
+    ]
+  },
+  "10-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 octobre 732, la bataille de Tours a eu lieu en France, où les forces franques dirigées par Charles Martel ont vaincu une armée musulmane, empêchant l'expansion du califat omeyyade en Europe occidentale."
+      },
+      {
+        "text1": "Le 10 octobre 1845, le philosophe Friedrich Nietzsche naissait à Röcken, en Allemagne, devenant ainsi l'une des figures les plus influentes de la philosophie moderne."
+      }
+    ]
+  },
+  "10-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 octobre 1899 éclate la Seconde Guerre des Boers, un conflit entre le Royaume-Uni et les républiques boers d’Afrique du Sud, qui aboutit à une guerre prolongée et dévastatrice."
+      },
+      {
+        "text1": "Le 11 octobre 1984, l'astronaute américaine Kathryn D. Sullivan est devenue la première femme à effectuer une sortie dans l'espace."
+      }
+    ]
+  },
+  "10-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 octobre 1492, le navigateur Christophe Colomb arrive en Amérique, marquant le début de la colonisation européenne du continent."
+      },
+      {
+        "text1": "Le 12 octobre 1984, la première astronaute britannique, Helen Sharman, est lancée dans l'espace à bord de la mission Soyouz TM-12."
+      }
+    ]
+  },
+  "10-13": {
+    "curiosity": [
+      {
+        "text": "Le vendredi 13 octobre 1307, les Templiers furent arrêtés en masse en France, marquant la fin de l'influence et du pouvoir de cet ordre militaro-religieux."
+      },
+      {
+        "text1": "Le 13 octobre 1972, le vol 571 de l'armée de l'air uruguayenne a subi un accident dans les Andes, obligeant les survivants à affronter un combat pour la survie connu sous le nom de « miracle des Andes »."
+      }
+    ]
+  },
+  "10-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 octobre 1066 a eu lieu la bataille d'Hastings, au cours de laquelle l'armée normande dirigée par Guillaume le Conquérant a vaincu le roi Harold II d'Angleterre, changeant ainsi l'histoire de l'Angleterre."
+      },
+      {
+        "text1": "Le 14 octobre 1947, le pilote américain Chuck Yeager devient le premier être humain à franchir le mur du son en vol."
+      }
+    ]
+  },
+  "10-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 octobre 1815, Napoléon Bonaparte est vaincu à la bataille de Waterloo, mettant définitivement fin à son règne et à la période dite des guerres napoléoniennes."
+      },
+      {
+        "text1": "Le 15 octobre 1987, l'événement connu sous le nom de « Lundi noir » a eu lieu à la Bourse de New York, la bourse subissant une baisse significative."
+      }
+    ]
+  },
+  "10-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 octobre 1793, la reine Marie-Antoinette de France est guillotinée pendant la Révolution française."
+      },
+      {
+        "text1": "Le 16 octobre 1962, la crise des missiles cubains a commencé lorsque des missiles nucléaires soviétiques ont été découverts sur l'île, mettant le monde au bord d'une guerre nucléaire."
+      }
+    ]
+  },
+  "10-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 octobre 1905, le dimanche sanglant a eu lieu à Saint-Pétersbourg, en Russie, lorsque des soldats de l'armée tsariste ont ouvert le feu sur des manifestants pacifiques, déclenchant une série d'événements qui ont culminé avec la Révolution russe de 1917."
+      },
+      {
+        "text1": "Le 17 octobre 1989, un séisme de magnitude 6,9 ​​frappait la région de la baie de San Francisco, en Californie, causant d'importants dégâts et laissant des milliers de personnes sans abri."
+      }
+    ]
+  },
+  "10-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 octobre 1867, l’Alaska est officiellement transférée de la Russie aux États-Unis, suite à l’achat du territoire par les Américains."
+      },
+      {
+        "text1": "Le 18 octobre 1968 se tiennent les Jeux olympiques d’été à Mexico, marqués par la célèbre manifestation d’athlètes noirs venus des États-Unis sur le podium."
+      }
+    ]
+  },
+  "10-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 octobre 1987, l'indice Dow Jones de la Bourse de New York a subi sa plus forte baisse en une seule journée, connue sous le nom de « lundi noir »."
+      },
+      {
+        "text1": "Le 19 octobre 2003, la sonde spatiale européenne Beagle 2 a été lancée dans le but d'atterrir sur Mars, mais le contact avec la sonde a été perdu et sa localisation exacte reste inconnue."
+      }
+    ]
+  },
+  "10-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 octobre 1944, pendant la Seconde Guerre mondiale, la ville de Belgrade, capitale de la Yougoslavie, est libérée des forces nazies par l'Armée rouge et l'Armée populaire de libération de la Yougoslavie."
+      },
+      {
+        "text1": "Le 20 octobre 1973, la crise pétrolière a commencé lorsque les pays arabes membres de l’OPEP ont annoncé un embargo pétrolier en représailles au soutien occidental à Israël dans la guerre du Kippour."
+      }
+    ]
+  },
+  "10-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 octobre 1520, la bataille d'Otumba eut lieu au Mexique, où les forces aztèques affrontèrent les troupes espagnoles dirigées par Hernán Cortés."
+      },
+      {
+        "text1": "Le 21 octobre 1966, un glissement de terrain dans le comté d'Aberfan, au Pays de Galles, a entraîné la mort de 144 personnes, pour la plupart des enfants, à cause de l'effondrement d'un tas de charbon."
+      }
+    ]
+  },
+  "10-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 octobre 1797, la marine britannique bat la flotte espagnole à la bataille du cap Saint-Vincent, pendant les guerres napoléoniennes."
+      },
+      {
+        "text1": "Le 22 octobre 1962, le président des États-Unis, John F. Kennedy, annonça publiquement la découverte de missiles nucléaires soviétiques à Cuba, déclenchant la crise des missiles cubains."
+      }
+    ]
+  },
+  "10-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 octobre 1956 commença la Révolution hongroise, un soulèvement populaire contre le gouvernement communiste hongrois, qui fut réprimé par les forces soviétiques."
+      },
+      {
+        "text1": "Le 23 octobre 2001, Apple a lancé l'iPod, l'un des appareils musicaux portables les plus populaires et les plus influents de l'histoire."
+      }
+    ]
+  },
+  "10-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 octobre 1945, les Nations Unies (ONU) ont été fondées dans le but de promouvoir la paix et la coopération internationale après la Seconde Guerre mondiale."
+      },
+      {
+        "text1": "Le 24 octobre 2003, la sonde spatiale européenne Mars Express a été lancée, dans le but d'étudier Mars et de rechercher des signes d'eau sur la planète."
+      }
+    ]
+  },
+  "10-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 octobre 1415, la bataille d'Azincourt a eu lieu en France, où les forces anglaises dirigées par Henri V ont remporté une victoire significative pendant la guerre de Cent Ans."
+      },
+      {
+        "text1": "Le 25 octobre 2001, le système d'exploitation Windows XP a été lancé par Microsoft, devenant ainsi l'un des systèmes d'exploitation les plus populaires et les plus durables de l'histoire."
+      }
+    ]
+  },
+  "10-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 octobre 1947, le célèbre livre pour enfants « Le Petit Prince », écrit par Antoine de Saint-Exupéry, est publié pour la première fois."
+      },
+      {
+        "text1": "Le 26 octobre 1979, le dirigeant soviétique Léonid Brejnev décédait, mettant fin à une période de 18 ans de leadership et marquant le début d'une nouvelle ère en Union soviétique."
+      }
+    ]
+  },
+  "10-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 octobre 1904, la première édition du métro new-yorkais est ouverte au public, révolutionnant ainsi les transports dans la ville."
+      },
+      {
+        "text1": "Le 27 octobre 1962, lors de la crise des missiles de Cuba, un avion espion U-2 est abattu au-dessus de Cuba, augmentant encore les tensions entre les États-Unis et l'Union soviétique."
+      }
+    ]
+  },
+  "10-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 octobre 1886, la Statue de la Liberté, symbole emblématique des États-Unis, est officiellement inaugurée dans le port de New York."
+      },
+      {
+        "text1": "Le 28 octobre 1962, lors de la crise des missiles de Cuba, le président des États-Unis, John F. Kennedy, annonça que les missiles soviétiques seraient retirés de Cuba, mettant ainsi fin à la crise."
+      }
+    ]
+  },
+  "10-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 octobre 1929 survient le fameux « krach boursier de New York », marquant le début de la Grande Dépression qui touche l’économie mondiale."
+      },
+      {
+        "text1": "Le 29 octobre 1956, Israël, la France et le Royaume-Uni envahissent l'Égypte dans le cadre de la crise de Suez, dans le but de contrôler le canal de Suez et de renverser le président égyptien Gamal Abdel Nasser."
+      }
+    ]
+  },
+  "10-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 octobre 1938 a eu lieu la célèbre émission de radio connue sous le nom de « La Guerre des mondes », dans laquelle le réalisateur Orson Welles a adapté le livre de HG Wells, provoquant la panique parmi les auditeurs qui pensaient qu'il s'agissait d'une invasion extraterrestre."
+      },
+      {
+        "text1": "Le 30 octobre 1961, l'Union soviétique faisait exploser la « Tsar Bomba », la plus grosse bombe nucléaire jamais explosée dans l'histoire, d'une puissance estimée à 50 mégatonnes."
+      }
+    ]
+  },
+  "10-31": {
+    "curiosity": [
+      {
+        "text": "Le 31 octobre 1517, le moine Martin Luther affiche ses 95 thèses sur la porte de l'église du château de Wittenberg, en Allemagne, déclenchant la Réforme protestante."
+      },
+      {
+        "text1": "Le 31 octobre 1956 a eu lieu la Révolution hongroise, un soulèvement contre le gouvernement communiste hongrois, qui a été violemment réprimé par les forces soviétiques."
+      }
+    ]
+  },
+  "11-1": {
+    "curiosity": [
+      {
+        "text": "Le 1er novembre 1512, la peinture murale « Fresque au plafond de la chapelle Sixtine », de Michel-Ange, a été inaugurée au Vatican, à Rome, et est considérée comme l'une des œuvres d'art les plus célèbres et les plus importantes de l'histoire."
+      },
+      {
+        "text1": "Le 1er novembre 1952, les États-Unis ont fait exploser pour la première fois une bombe à hydrogène, marquant une avancée significative dans la technologie des armes nucléaires."
+      }
+    ]
+  },
+  "11-2": {
+    "curiosity": [
+      {
+        "text": "Le 2 novembre 1917, pendant la Première Guerre mondiale, le général britannique Edmund Allenby s'empare de la ville de Beer Sheva en Palestine après une audacieuse charge de cavalerie."
+      },
+      {
+        "text1": "Le 2 novembre 1983, les États-Unis envahissent militairement l'île caribéenne de Grenade, dans le cadre d'une opération connue sous le nom d'« Opération Urgent Fury », visant à renverser le gouvernement marxiste-léniniste qui avait pris le pouvoir."
+      }
+    ]
+  },
+  "11-3": {
+    "curiosity": [
+      {
+        "text": "Le 3 novembre 1948, le président des États-Unis Harry S. Truman est réélu grâce à une victoire surprenante sur le candidat républicain Thomas E. Dewey."
+      },
+      {
+        "text1": "Le 3 novembre 1957, l'Union soviétique a lancé avec succès le premier satellite artificiel de la Terre, Spoutnik 2, qui a transporté la première créature vivante dans l'espace, le chien Laïka."
+      }
+    ]
+  },
+  "11-4": {
+    "curiosity": [
+      {
+        "text": "Le 4 novembre 1979, la crise des otages en Iran a eu lieu lorsque des étudiants iraniens ont pris d'assaut l'ambassade des États-Unis à Téhéran, retenant 52 Américains en otages pendant plus d'un an."
+      },
+      {
+        "text1": "Le 4 novembre 2008, Barack Obama est élu 44e président des États-Unis, devenant ainsi le premier président afro-américain de l'histoire du pays."
+      }
+    ]
+  },
+  "11-5": {
+    "curiosity": [
+      {
+        "text": "Le 5 novembre 1605, le célèbre « Conspiration des poudres » a eu lieu au Royaume-Uni, au cours duquel Guy Fawkes et d'autres conspirateurs catholiques ont comploté pour faire sauter le Parlement britannique lors de l'ouverture officielle des sessions."
+      },
+      {
+        "text1": "Le 5 novembre 1911, le roi d'Italie Vittorio Emanuele III proclame l'annexion de la Libye au territoire italien, suite à la conquête militaire de ce pays d'Afrique du Nord."
+      }
+    ]
+  },
+  "11-6": {
+    "curiosity": [
+      {
+        "text": "Le 6 novembre 1860, Abraham Lincoln est élu 16e président des États-Unis, déclenchant des tensions qui culmineront avec la guerre civile américaine."
+      },
+      {
+        "text1": "Le 6 novembre 1985, le volcan Nevado del Ruiz, en Colombie, entre en éruption, provoquant une avalanche de boue et de cendres qui dévaste la ville d'Armero et provoque la mort de plus de 23 000 personnes."
+      }
+    ]
+  },
+  "11-7": {
+    "curiosity": [
+      {
+        "text": "Le 7 novembre 1917 a eu lieu la Révolution russe, au cours de laquelle les bolcheviks, dirigés par Vladimir Lénine, ont pris le pouvoir et ont établi le régime communiste en Russie."
+      },
+      {
+        "text1": "Le 7 novembre 2000, le démocrate Al Gore a remporté la majorité du vote populaire, mais le républicain George W. Bush a remporté l'élection présidentielle aux États-Unis après une décision controversée de la Cour suprême."
+      }
+    ]
+  },
+  "11-8": {
+    "curiosity": [
+      {
+        "text": "Le 8 novembre 1895, Wilhelm Conrad Roentgen découvre les rayons X, une découverte importante qui révolutionne la médecine et la radiologie."
+      },
+      {
+        "text1": "Le 8 novembre 2016, Donald Trump est élu 45e président des États-Unis, battant la candidate démocrate Hillary Clinton."
+      }
+    ]
+  },
+  "11-9": {
+    "curiosity": [
+      {
+        "text": "Le 9 novembre 1989 tombe le mur de Berlin qui divise la ville de Berlin pendant près de 30 ans, symbolisant la fin de la guerre froide et l'effondrement du bloc socialiste."
+      },
+      {
+        "text1": "Le 9 novembre 1938 a eu lieu dans l'Allemagne nazie la soi-disant « Nuit du verre brisé », une série d'attaques violentes contre la population juive, ses propriétés et ses synagogues."
+      }
+    ]
+  },
+  "11-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 novembre 1483 naissait Martin Luther, chef de la Réforme protestante et figure importante de l'histoire religieuse et politique de l'Europe."
+      },
+      {
+        "text1": "Le 10 novembre 1975, la reine Elizabeth II du Royaume-Uni a effectué une visite historique en Australie, la première visite d'un monarque britannique dans le pays depuis la Fédération australienne en 1901."
+      }
+    ]
+  },
+  "11-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 novembre 1918 est signé l'Armistice de Compiègne qui met fin à la Première Guerre mondiale, entrant en vigueur à 11 heures du matin et étant célébré comme le jour de l'Armistice dans de nombreux pays."
+      },
+      {
+        "text1": "Le 11 novembre 1889, l'État de Rio de Janeiro, au Brésil, abolit l'esclavage, devenant ainsi la première unité fédérative brésilienne à le faire."
+      }
+    ]
+  },
+  "11-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 novembre 1955, l'incident connu sous le nom de « Miracle de Lourdes » s'est produit lorsqu'une statue de la Vierge Marie a commencé à pleurer dans la ville de Syracuse, New York, entraînant une augmentation du nombre de pèlerins et une enquête sur le phénomène par l’Église catholique."
+      },
+      {
+        "text1": "Le 12 novembre 1990, la sonde spatiale Galileo de la NASA a survolé Vénus sur sa trajectoire vers Jupiter, effectuant des observations et collectant des données scientifiques."
+      }
+    ]
+  },
+  "11-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 novembre 354 naissait saint Augustin, l'un des théologiens et philosophes les plus influents de l'Église catholique, connu pour ses œuvres telles que « Confessions » et « La Cité de Dieu »."
+      },
+      {
+        "text1": "Le 13 novembre 2015, une série d'attentats terroristes coordonnés ont eu lieu à Paris, en France, perpétrés par le groupe extrémiste État islamique, entraînant la mort de 130 personnes et des centaines de blessés."
+      }
+    ]
+  },
+  "11-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 novembre 1851, le journal britannique « The New York Times » fut publié pour la première fois, devenant ainsi l'un des journaux les plus influents et les plus renommés au monde."
+      },
+      {
+        "text1": "Le 14 novembre 1969, Apollo 12, la deuxième mission habitée du programme Apollo de la NASA, est lancée dans le but d'alunir."
+      }
+    ]
+  },
+  "11-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 novembre 1889 a lieu au Brésil la Proclamation de la République, marquant la fin de l'Empire et l'instauration d'un régime républicain dans le pays."
+      },
+      {
+        "text1": "Le 15 novembre 1988, la Palestine a proclamé son indépendance dans la ville d'Alger, en Algérie, étant reconnue par plusieurs pays comme État souverain."
+      }
+    ]
+  },
+  "11-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 novembre 1532, la bataille de Cajamarca eut lieu au Pérou, où le conquérant espagnol Francisco Pizarro captura l'empereur inca Atahualpa, marquant le début de la conquête espagnole de la région."
+      },
+      {
+        "text1": "Le 16 novembre 1995, l’Accord général de paix est signé, mettant officiellement fin à la guerre de Bosnie, un conflit ethno-religieux qui a dévasté la région des Balkans dans les années 1990."
+      }
+    ]
+  },
+  "11-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 novembre 1558, la reine Elizabeth I d'Angleterre monta sur le trône, marquant le début de l'un des règnes les plus importants et les plus longs de l'histoire du pays."
+      },
+      {
+        "text1": "Le 17 novembre 1989 débutait en Tchécoslovaquie la Révolution de velours, un mouvement pacifique qui aboutit à la chute du régime communiste du pays."
+      }
+    ]
+  },
+  "11-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 novembre 1307 a lieu en France l'arrestation des Templiers, un événement marquant dans l'histoire de l'Ordre des Templiers."
+      },
+      {
+        "text1": "Le 18 novembre 1928, la première émission télévisée couleur a été réalisée aux États-Unis par l'inventeur et ingénieur en électronique John Logie Baird."
+      }
+    ]
+  },
+  "11-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 novembre 1863, le président des États-Unis, Abraham Lincoln, prononçait le célèbre discours de Gettysburg pendant la guerre civile américaine, réaffirmant les idéaux d'égalité et de liberté."
+      },
+      {
+        "text1": "Le 19 novembre 1997, la sonde spatiale Cassini-Huygens est lancée par la NASA dans le but d'étudier la planète Saturne et ses lunes."
+      }
+    ]
+  },
+  "11-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 novembre 1945 commença le procès de Nuremberg, au cours duquel les dirigeants nazis furent jugés pour crimes de guerre et crimes contre l'humanité commis pendant la Seconde Guerre mondiale."
+      },
+      {
+        "text1": "Le 20 novembre 1989, la Convention relative aux droits de l'enfant a été adoptée par l'Assemblée générale des Nations Unies, établissant les droits fondamentaux des enfants dans le monde."
+      }
+    ]
+  },
+  "11-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 novembre 1877, Thomas Edison annonce l'invention du phonographe, l'un des premiers appareils capables de reproduire des sons enregistrés."
+      },
+      {
+        "text1": "Le 21 novembre 1974, l’Éthiopie devient un État socialiste après la chute de l’empereur Haïlé Sélassié."
+      }
+    ]
+  },
+  "11-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 novembre 1963, le président des États-Unis, John F. Kennedy, était assassiné à Dallas, au Texas, lors d'un événement qui a choqué le pays et le monde."
+      },
+      {
+        "text1": "Le 22 novembre 2005, Microsoft a lancé la console de jeux vidéo Xbox 360, inaugurant une nouvelle génération de consoles de jeux."
+      }
+    ]
+  },
+  "11-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 novembre 1889, la journaliste et écrivaine irlandaise Nellie Bly entame son voyage autour du monde en 72 jours, établissant un record du monde."
+      },
+      {
+        "text1": "Le 23 novembre 1981, la station spatiale Skylab, lancée par la NASA en 1973, rentrait dans l'atmosphère terrestre et se désintégrait, mettant ainsi fin à sa mission."
+      }
+    ]
+  },
+  "11-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 novembre 1859, le livre de Charles Darwin « L'origine des espèces » est publié, présentant la théorie de l'évolution par sélection naturelle."
+      },
+      {
+        "text1": "Le 24 novembre 1963, l'assassinat du président des États-Unis, John F. Kennedy, est suivi de l'assassinat de Lee Harvey Oswald, principal suspect du crime, par Jack Ruby."
+      }
+    ]
+  },
+  "11-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 novembre 1975, la dirigeante politique et militante des droits des femmes Aung San Suu Kyi est arrêtée au Myanmar (alors Birmanie) et reste assignée à résidence pendant plusieurs années."
+      },
+      {
+        "text1": "Le 25 novembre 2001, l'Organisation mondiale du commerce (OMC) est créée dans le but de promouvoir le libre-échange et de réguler le commerce international."
+      }
+    ]
+  },
+  "11-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 novembre 1922, des archéologues britanniques découvrent l'entrée du tombeau du pharaon Toutankhamon dans la Vallée des Rois en Égypte."
+      },
+      {
+        "text1": "Le 26 novembre 2008, une attaque terroriste a eu lieu à Mumbai, en Inde, menée par un groupe islamique, entraînant plusieurs attaques coordonnées dans toute la ville."
+      }
+    ]
+  },
+  "11-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 novembre 1095, le pape Urbain II prononce le discours de Clermont, appelant à la première croisade dans le but de reprendre Jérusalem aux mains des musulmans."
+      },
+      {
+        "text1": "Le 27 novembre 1978, le maire de Jonestown, en Guyane, Jim Jones, a conduit au suicide collectif de plus de 900 adeptes de sa secte, lors d'un événement connu sous le nom de massacre de Jonestown."
+      }
+    ]
+  },
+  "11-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 novembre 1520 a lieu au Mexique la bataille d'Otumba, où le conquérant espagnol Hernán Cortés et ses alliés indigènes battent l'armée aztèque dirigée par Cuauhtémoc."
+      },
+      {
+        "text1": "Le 28 novembre 1942, pendant la Seconde Guerre mondiale, eut lieu l'opération Torch, avec le débarquement des forces alliées sur les côtes de l'Afrique du Nord, commençant ainsi la campagne sur le théâtre d'opérations méditerranéen."
+      }
+    ]
+  },
+  "11-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 novembre 1947, l'Assemblée générale des Nations Unies a approuvé le plan de partage de la Palestine, qui proposait la création d'un État juif et d'un État arabe dans la région."
+      },
+      {
+        "text1": "Le 29 novembre 1961, la NASA a lancé la capsule spatiale Mercury-Atlas 5 avec à son bord le singe Enos, effectuant ainsi le deuxième vol orbital habité du programme Mercury."
+      }
+    ]
+  },
+  "11-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 novembre 1803, les États-Unis acquièrent officiellement le territoire de la Louisiane à la France dans le cadre d'un accord connu sous le nom d'achat de la Louisiane."
+      },
+      {
+        "text1": "Le 30 novembre 1966, la Barbade devient indépendante du Royaume-Uni, mettant ainsi fin à son statut de colonie britannique."
+      }
+    ]
+  },
+  "12-01": {
+    "curiosity": [
+      {
+        "text": "Le 1er décembre 1955, Rosa Parks, militante des droits civiques, refuse de céder sa place à un homme blanc dans un bus à Montgomery, en Alabama, déclenchant ainsi le mouvement des droits civiques aux États-Unis."
+      },
+      {
+        "text1": "Le 1er décembre 1990 a eu lieu la réunification de l’Allemagne, avec l’union de l’Allemagne de l’Ouest et de l’Allemagne de l’Est après la chute du mur de Berlin."
+      }
+    ]
+  },
+  "12-02": {
+    "curiosity": [
+      {
+        "text": "Le 2 décembre 1804, Napoléon Bonaparte est sacré empereur des France dans la cathédrale Notre-Dame de Paris."
+      },
+      {
+        "text1": "Le 2 décembre 1942, pendant la Seconde Guerre mondiale, le premier essai réussi de la bombe atomique a eu lieu au laboratoire de Los Alamos, au Nouveau-Mexique, aux États-Unis."
+      }
+    ]
+  },
+  "12-03": {
+    "curiosity": [
+      {
+        "text": "Le 3 décembre 1967, le chirurgien sud-africain Christiaan Barnard a réalisé avec succès la première transplantation cardiaque humaine au Cap, en Afrique du Sud."
+      },
+      {
+        "text1": "Le 3 décembre 1984, une importante fuite de gaz toxique s'est produite dans la ville de Bhopal, en Inde, considérée comme l'une des pires catastrophes industrielles de l'histoire, causant des milliers de morts et de blessés."
+      }
+    ]
+  },
+  "12-04": {
+    "curiosity": [
+      {
+        "text": "Le 4 décembre 1945, l'Organisation des Nations Unies pour l'éducation, la science et la culture (UNESCO) a été fondée dans le but de promouvoir la paix et la coopération internationale par l'éducation, la science et la culture."
+      },
+      {
+        "text1": "Le 4 décembre 1971, l'Inde a vaincu le Pakistan lors de la guerre d'indépendance du Bangladesh, entraînant l'indépendance du Bangladesh et la fin de la guerre."
+      }
+    ]
+  },
+  "12-05": {
+    "curiosity": [
+      {
+        "text": "Le 5 décembre 1933, la prohibition aux États-Unis est abrogée, autorisant à nouveau la production et la vente de boissons alcoolisées."
+      },
+      {
+        "text1": "Le 5 décembre 2013, Nelson Mandela, leader anti-apartheid et ancien président de l'Afrique du Sud, est décédé à l'âge de 95 ans, laissant un héritage de lutte pour les droits humains et la réconciliation."
+      }
+    ]
+  },
+  "12-06": {
+    "curiosity": [
+      {
+        "text": "Le 6 décembre 1877, Thomas Edison fait la première démonstration publique de son phonographe, un appareil capable d'enregistrer et de reproduire les sons."
+      },
+      {
+        "text1": "Le 6 décembre 1989, le massacre de la place Tiananmen a eu lieu à Pékin, en Chine, lorsque les troupes gouvernementales ont violemment réprimé des manifestants pro-démocratie."
+      }
+    ]
+  },
+  "12-07": {
+    "curiosity": [
+      {
+        "text": "Le 7 décembre 1941 eut lieu l’attaque japonaise contre la base navale de Pearl Harbor à Hawaï, marquant l’entrée des États-Unis dans la Seconde Guerre mondiale."
+      },
+      {
+        "text1": "Le 7 décembre 1972, Apollo 17, la dernière mission habitée du programme Apollo de la NASA, a été lancée, ce qui était également la dernière fois que des humains étaient sur la Lune."
+      }
+    ]
+  },
+  "12-08": {
+    "curiosity": [
+      {
+        "text": "Le 8 décembre 1980, l'ancien Beatle John Lennon était assassiné à New York, aux États-Unis, par un fan dérangé."
+      },
+      {
+        "text1": "Le 8 décembre 1991, les dirigeants de la Russie, de l’Ukraine et de la Biélorussie ont signé l’accord de Belaveja, qui a dissous l’Union soviétique et créé la Communauté des États indépendants (CEI)."
+      }
+    ]
+  },
+  "12-09": {
+    "curiosity": [
+      {
+        "text": "Le 9 décembre 1987 est signé l'accord international connu sous le nom de Protocole de Montréal, visant à protéger la couche d'ozone en réduisant progressivement l'utilisation de substances qui l'appauvrissent."
+      },
+      {
+        "text1": "Le 9 décembre 2013, l'ancien président sud-africain Nelson Mandela a été honoré par un mémorial à Johannesburg, réunissant des dirigeants et des célébrités du monde entier."
+      }
+    ]
+  },
+  "12-10": {
+    "curiosity": [
+      {
+        "text": "Le 10 décembre 1948, l'Assemblée générale des Nations Unies adoptait la Déclaration universelle des droits de l'homme, établissant les droits fondamentaux de tous les êtres humains."
+      },
+      {
+        "text1": "Le 10 décembre 1989, le dirigeant tchèque Václav Havel est élu président de la Tchécoslovaquie, marquant ainsi la fin du régime communiste dans le pays."
+      }
+    ]
+  },
+  "12-11": {
+    "curiosity": [
+      {
+        "text": "Le 11 décembre 1936, le roi Édouard VIII du Royaume-Uni abdique pour épouser Wallis Simpson, une Américaine divorcée, déclenchant une crise constitutionnelle."
+      },
+      {
+        "text1": "Le 11 décembre 2001, la Chine a rejoint l’Organisation mondiale du commerce (OMC), ouvrant ainsi son économie au marché mondial."
+      }
+    ]
+  },
+  "12-12": {
+    "curiosity": [
+      {
+        "text": "Le 12 décembre 1915, la première émission de radio de divertissement a eu lieu aux États-Unis, marquant le début de l'ère de la radio en tant que moyen de communication populaire."
+      },
+      {
+        "text1": "Le 12 décembre 2000, la Cour suprême des États-Unis a mis fin à la controverse électorale de l'élection présidentielle de 2000, déclarant George W. Bush vainqueur."
+      }
+    ]
+  },
+  "12-13": {
+    "curiosity": [
+      {
+        "text": "Le 13 décembre 1937, la ville de Nankin, en Chine, est prise par les forces japonaises, marquant le début du massacre de Nankin, l'un des événements les plus brutaux de la Seconde Guerre sino-japonaise."
+      },
+      {
+        "text1": "Le 13 décembre 2003, Saddam Hussein, ancien président de l'Irak, a été capturé par les forces américaines, mettant fin à ses jours en tant que fugitif."
+      }
+    ]
+  },
+  "12-14": {
+    "curiosity": [
+      {
+        "text": "Le 14 décembre 1900, Max Planck présentait pour la première fois sa théorie quantique, étape fondamentale pour la physique moderne."
+      },
+      {
+        "text1": "Le 14 décembre 2012, un homme armé a ouvert le feu dans l'école primaire de Sandy Hook, aux États-Unis, tuant 26 personnes, dont 20 enfants, lors de l'une des pires fusillades dans une école de l'histoire du pays."
+      }
+    ]
+  },
+  "12-15": {
+    "curiosity": [
+      {
+        "text": "Le 15 décembre 1791, la Déclaration des droits des États-Unis, composée de dix amendements à la Constitution, est ratifiée, garantissant les libertés civiles et individuelles aux citoyens."
+      },
+      {
+        "text1": "Le 15 décembre 2001, la ville de Kandahar, en Afghanistan, a été prise par les forces de la coalition dirigée par les États-Unis, marquant un tournant dans la guerre en Afghanistan."
+      }
+    ]
+  },
+  "12-16": {
+    "curiosity": [
+      {
+        "text": "Le 16 décembre 1773 eut lieu la Boston Tea Party, une manifestation au cours de laquelle des colons américains jetèrent des cargaisons de thé britannique dans le port de Boston en guise d'acte de résistance aux impôts britanniques."
+      },
+      {
+        "text1": "Le 16 décembre 1971, l’Inde a officiellement reconnu le Bangladesh comme pays indépendant, mettant ainsi fin à la guerre de libération du Bangladesh contre le Pakistan."
+      }
+    ]
+  },
+  "12-17": {
+    "curiosity": [
+      {
+        "text": "Le 17 décembre 1903, les frères Wright effectuaient le premier vol contrôlé d'un avion motorisé, à Kitty Hawk, en Caroline du Nord, aux États-Unis."
+      },
+      {
+        "text1": "Le 17 décembre 2010, un vendeur ambulant tunisien du nom de Mohamed Bouazizi s'est immolé par le feu, déclenchant des manifestations de masse en Tunisie, connues sous le nom de Révolution du jasmin, qui se sont propagées à travers le monde arabe."
+      }
+    ]
+  },
+  "12-18": {
+    "curiosity": [
+      {
+        "text": "Le 18 décembre 1865, le treizième amendement à la Constitution des États-Unis est ratifié, abolissant l'esclavage dans le pays."
+      },
+      {
+        "text1": "Le 18 décembre 1892, l'écrivain anglais Arthur Conan Doyle publie le roman « Le Chien des Baskerville », l'une des histoires les plus célèbres de Sherlock Holmes."
+      }
+    ]
+  },
+  "12-19": {
+    "curiosity": [
+      {
+        "text": "Le 19 décembre 1843, fut publié le livre « A Christmas Carol », écrit par Charles Dickens, l'une des histoires de Noël les plus populaires de tous les temps."
+      },
+      {
+        "text1": "Le 19 décembre 1998, la Chambre des représentants des États-Unis a approuvé la destitution du président Bill Clinton, accusé de parjure et d'entrave à la justice."
+      }
+    ]
+  },
+  "12-20": {
+    "curiosity": [
+      {
+        "text": "Le 20 décembre 1803, les États-Unis acquièrent officiellement le territoire de la Louisiane à la France dans le cadre d'un accord connu sous le nom d'achat de la Louisiane."
+      },
+      {
+        "text1": "Le 20 décembre 1989, les forces militaires américaines envahissent le Panama dans le cadre d'une opération visant à capturer le dictateur Manuel Noriega, accusé de trafic de drogue et de crimes contre les droits de l'homme."
+      }
+    ]
+  },
+  "12-21": {
+    "curiosity": [
+      {
+        "text": "Le 21 décembre 1620, les colons anglais débarquèrent à Plymouth Rock, dans le Massachusetts, établissant la colonie de Plymouth et marquant le début de la colonisation britannique de l'Amérique du Nord."
+      },
+      {
+        "text1": "Le 21 décembre 1968, Apollo 8, la mission spatiale habitée de la NASA, a été lancée dans l'espace, devenant ainsi le premier vaisseau spatial à orbiter autour de la Lune et à revenir en toute sécurité sur Terre."
+      }
+    ]
+  },
+  "12-22": {
+    "curiosity": [
+      {
+        "text": "Le 22 décembre 1807, le traité de Tilsit est signé, mettant fin à la guerre entre la France de Napoléon Bonaparte et la Russie du tsar Alexandre Ier."
+      },
+      {
+        "text1": "Le 22 décembre 1989, la Roumanie a tenu un procès et exécuté le dictateur communiste Nicolae Ceaușescu et son épouse Elena, à la suite de la Révolution roumaine."
+      }
+    ]
+  },
+  "12-23": {
+    "curiosity": [
+      {
+        "text": "Le 23 décembre 1888, le peintre néerlandais Vincent van Gogh se coupe une partie de l'oreille gauche lors d'une crise psychotique."
+      },
+      {
+        "text1": "Le 23 décembre 1947, le Congrès national indien adopte une résolution exigeant l'indépendance de l'Inde et la fin de la domination coloniale britannique."
+      }
+    ]
+  },
+  "12-24": {
+    "curiosity": [
+      {
+        "text": "Le 24 décembre 1814, lors de la guerre de 1812 entre les États-Unis et le Royaume-Uni, eut lieu le traité de Gand, qui mit officiellement fin au conflit et rétablit les relations diplomatiques entre les deux pays."
+      },
+      {
+        "text1": "Le 24 décembre 1914, pendant la Première Guerre mondiale, eut lieu la « Trêve de Noël », au cours de laquelle les soldats ennemis présents dans les tranchées du front occidental arrêtèrent les hostilités et fraternisèrent pendant la veille de Noël."
+      }
+    ]
+  },
+  "12-25": {
+    "curiosity": [
+      {
+        "text": "Le 25 décembre 336, l'empereur romain Constantin Ier le Grand a célébré la première célébration officielle de Noël comme fête chrétienne."
+      },
+      {
+        "text1": "Le 25 décembre 1941, pendant la Seconde Guerre mondiale, les troupes allemandes commandées par Adolf Hitler s'effondrent lors de la bataille de Moscou, marquant une défaite majeure pour les forces nazies."
+      }
+    ]
+  },
+  "12-26": {
+    "curiosity": [
+      {
+        "text": "Le 26 décembre 1776, pendant la guerre d'indépendance américaine, George Washington mena l'attaque surprise contre les troupes hessoises à Trenton, dans le New Jersey, remportant une victoire cruciale pour les rebelles américains."
+      },
+      {
+        "text1": "Le 26 décembre 2004, un tsunami dévastateur s'est produit dans l'océan Indien, déclenché par un tremblement de terre sous-marin, provoquant l'une des pires catastrophes naturelles de l'histoire, entraînant la perte de centaines de milliers de vies dans plusieurs pays côtiers."
+      }
+    ]
+  },
+  "12-27": {
+    "curiosity": [
+      {
+        "text": "Le 27 décembre 1831, Charles Darwin embarque pour l'expédition à bord du HMS Beagle, voyage qui l'amènera à développer sa théorie de l'évolution des espèces."
+      },
+      {
+        "text1": "Le 27 décembre 2007, l'ancien Premier ministre du Pakistan, Benazir Bhutto, a été assassiné dans un attentat suicide lors d'un rassemblement politique à Rawalpindi."
+      }
+    ]
+  },
+  "12-28": {
+    "curiosity": [
+      {
+        "text": "Le 28 décembre 1895, les frères Lumière organisent la première projection publique de films en mouvement au Grand Café de Paris, marquant la naissance du cinéma."
+      },
+      {
+        "text1": "Le 28 décembre 1973, le président des États-Unis, Richard Nixon, a signé l'Energy Transition Act, qui fixe des objectifs en matière d'économie d'énergie et encourage l'utilisation de sources d'énergie renouvelables."
+      }
+    ]
+  },
+  "12-29": {
+    "curiosity": [
+      {
+        "text": "Le 29 décembre 1890 a eu lieu le massacre de Wounded Knee, un affrontement tragique entre des soldats américains et des membres de la tribu Lakota Sioux, entraînant la mort d'environ 300 Amérindiens, dont des femmes et des enfants."
+      },
+      {
+        "text1": "Le 29 décembre 1972, la NASA lançait le vaisseau spatial Apollo 17, la dernière mission habitée sur la Lune en date, avec à son bord Eugene Cernan, Ronald Evans et Harrison Schmitt."
+      }
+    ]
+  },
+  "12-30": {
+    "curiosity": [
+      {
+        "text": "Le 30 décembre 1922, l’Union des Républiques socialistes soviétiques (URSS) est proclamée, formant un nouvel État englobant plusieurs républiques soviétiques."
+      },
+      {
+        "text1": "Le 30 décembre 2006, l'ancien président irakien Saddam Hussein a été exécuté par pendaison après avoir été reconnu coupable de crimes contre l'humanité."
+      }
+    ]
+  },
+  "12-31": {
+    "curiosity": [
+      {
+        "text": "Le 31 décembre 1759, le célèbre compositeur autrichien Wolfgang Amadeus Mozart naissait à Salzbourg, laissant un héritage durable dans la musique classique."
+      },
+      {
+        "text1": "Le 31 décembre 1999, le tournant du millénaire a marqué le début du 21e siècle et le redoutable « bug du millénaire » n'a pas provoqué les problèmes catastrophiques prévus dans les systèmes informatiques du monde entier."
+      }
+    ]
+  }
+}
