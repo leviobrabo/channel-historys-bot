@@ -1,5 +1,5 @@
 from pymongo import ASCENDING, MongoClient
-import logger
+from logger import *
 from bot import MONGO_CON
 
 try:
