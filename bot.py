@@ -22,5 +22,6 @@ CHANNEL_ID = int(config['HISTORY']['channel_indonesian'])
 CHANNEL_VI = int(config['HISTORY']['channel_vietnamese'])
 CHANNEL_ZH = int(config['HISTORY']['channel_chinese'])
 LOGGER = config['LOG']['LOG_PATH']
+MONGO_CON = config['DB']['MONGO_CON']
 
 bot = telebot.TeleBot(TOKEN, parse_mode='HTML')

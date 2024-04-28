@@ -1,15 +1,6 @@
 from pymongo import ASCENDING, MongoClient
-import configparser
-import os
-script_directory = os.path.dirname(os.path.abspath(__file__))
-bot_conf_path = os.path.join(script_directory, '..', 'bot.conf')
-
-config = configparser.ConfigParser()
-config.read(bot_conf_path)
-from logger import logger
-
-MONGO_CON = config['DB']['MONGO_CON']
-
+import logger
+from bot import *
 try:
 
     logger.info('ℹ️ INITIATING CONNECTION WITH MONGODB')
