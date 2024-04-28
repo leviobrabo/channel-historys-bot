@@ -244,7 +244,7 @@ def hist_CHANNEL_ES_events():
 
 def message_CHANNEL_ES_alert():
     try:
-        mensaje = "🌟 📺 **¡Únete a nuestro increíble canal de Historia!** 📺 🌟\n\n"\
+        mensaje = "🌟 📺 <b>¡Únete a nuestro increíble canal de Historia</b> 📺 🌟\n\n"\
             "Amigos, descubre la magia de la historia a través de nuestros canales entretenidos y emocionantes. "\
             "Únete ahora para disfrutar de una amplia gama de programas y documentales que te llevarán en un emocionante "\
             "viaje a las profundidades de la historia.\n\n"\
@@ -260,7 +260,7 @@ def message_CHANNEL_ES_alert():
     except Exception as e:
         logger.error('Error al enviar hechos históricos al canal:', str(e))
 
-def get_curiosity(CHANNEL_ES):
+def get_curiosity_ES(CHANNEL_ES):
     try:
         today = datetime.now()
         day = today.day
@@ -277,6 +277,9 @@ def get_curiosity(CHANNEL_ES):
 
                 # For 2025 (uncomment this line and comment the line above)
                 # info = curiosidade[1].get("texto1", "")
+
+                message = f'<b>Curiosidades Históricas 📜</b>\n\n{info}\n\n<blockquote>💬 ¿Sabías? Seguir @hoy_en_la_historia.</blockquote>'
+                bot.send_message(CHANNEL_ES, message)
             else:
 
                 logger.info('No hay información para el día de hoy.')
@@ -286,9 +289,9 @@ def get_curiosity(CHANNEL_ES):
         logger.error('Error al obtener información:', str(e))
 
 
-def hist_channel_curiosity():
+def hist_channel_curiosity_ES():
     try:
-        get_curiosity(CHANNEL_ES)
+        get_curiosity_ES(CHANNEL_ES)
 
         logger.success(f'Curiosidad enviada al canal {CHANNEL_ES}')
 
@@ -302,7 +305,7 @@ with open(
     presidents = json.load(file)
 
 
-def send_president_photo():
+def send_president_photo_ES():
     try:
         if db.presidents_es.count_documents({}) == 0:
             president = presidents.get('1')
@@ -311,10 +314,10 @@ def send_president_photo():
                 pytz.timezone('America/Sao_Paulo')
             ).strftime('%Y-%m-%d')
             add_presidents_es_db(new_id, new_date)
-            send_info_through_channel(president)
+            send_info_through_channel_ES(president)
         else:
             last_president = (
-                db.presidents.find().sort([('_id', -1)]).limit(1)[0]
+                db.presidents_es.find().sort([('_id', -1)]).limit(1)[0]
             )
             last_id = last_president['id']
             sending_date = datetime.strptime(
@@ -333,12 +336,12 @@ def send_president_photo():
                 next_id = last_id + 1
                 next_president = presidents.get(str(next_id))
                 if next_president:
-                    db.presidentes.update_one(
+                    db.presidents_es.update_one(
                         {'date': last_president['date']},
                         {'$set': {'date': today_str}, '$inc': {'id': 1}},
                     )
 
-                    send_info_through_channel(next_president)
+                    send_info_through_channel_ES(next_president)
                 else:
 
                     logger.error('No more presidents to send.')
@@ -356,7 +359,7 @@ def send_president_photo():
         )
 
 
-def send_info_through_channel(president_info):
+def send_info_through_channel_ES(president_info):
     try:
         title = president_info.get('title', '')
         name = president_info.get('name', '')

@@ -6,6 +6,7 @@ import pytz
 import requests
 from telebot import types
 import json
+from db import db, add_presidents_zh_db
 
 
 def send_historical_events_CHANNEL_AR_image(CHANNEL_ZH):
@@ -243,7 +244,7 @@ def hist_CHANNEL_ZH_events():
 
 def message_CHANNEL_ZH_alert():
     try:
-        消息 = "🌟 📺 **加入我们精彩的历史频道！** 📺 🌟\n\n"\
+        消息 = "🌟 📺 <b>加入我们精彩的历史频道！</b> 📺 🌟\n\n"\
             "朋友们，通过我们有趣且激动人心的频道，发现历史的魔力！"\
             "立即加入我们，享受各种节目和纪录片，带您踏上一个引人入胜的历史之旅。\n\n"\
             "体验古老的冒险，引人入胜的事实以及塑造我们世界的关键事件。"\
@@ -257,3 +258,133 @@ def message_CHANNEL_ZH_alert():
         )
     except Exception as e:
         logger.error('发送历史事件至频道时出错：', str(e))
+
+def get_curiosity_ZH(CHANNEL_ZH):
+    try:
+        today = datetime.now()
+        day = today.day
+        month = today.month
+        with open(
+            './channel-historys/data/curiosity/curiosity-zh.json', 'r', encoding='utf-8'
+        ) as file:
+            json_events = json.load(file)
+            curiosity = json_events.get(f'{month}-{day}', {}).get(
+                'curiosity', []
+            )
+            if curiosity:
+                info = curiosity[0].get('text', '')
+
+                # For 2025 (uncomment this line and comment the line above)
+                # info = curiosidade[1].get("texto1", "")
+                message = f'<b>历史奇闻 📜</b>\n\n{info}\n\n<blockquote>💬 你知道吗？关注 @history_zh。</blockquote>'
+                bot.send_message(CHANNEL_ZH, message)
+            else:
+
+                logger.info('今天没有信息。')
+
+    except Exception as e:
+
+        logger.error('获取信息时出错:', str(e))
+
+
+def hist_channel_curiosity_ZH():
+    try:
+        get_curiosity_ZH(CHANNEL_ZH)
+
+        logger.success(f'奇闻发送到频道 {CHANNEL_ZH}')
+
+    except Exception as e:
+
+        logger.error('发送奇闻到频道时出错:', str(e))
+
+with open(
+    './data/presidents/presidents-zh.json', 'r', encoding='utf-8'
+) as file:
+    presidents = json.load(file)
+
+
+def send_president_photo_ZH():
+    try:
+        if db.presidents_zh.count_documents({}) == 0:
+            president = presidents.get('1')
+            new_id = 1
+            new_date = datetime.now(
+                pytz.timezone('America/Sao_Paulo')
+            ).strftime('%Y-%m-%d')
+            add_presidents_zh_db(new_id, new_date)
+            send_info_through_channel_ZH(president)
+        else:
+            last_president = (
+                db.presidents_zh.find().sort([('_id', -1)]).limit(1)[0]
+            )
+            last_id = last_president['id']
+            sending_date = datetime.strptime(
+                last_president['date'], '%Y-%m-%d'
+            )
+
+            today = datetime.now(pytz.timezone('America/Sao_Paulo'))
+            today_str = today.strftime('%Y-%m-%d')
+
+            if last_president['date'] != today_str:
+
+                logger.info(
+                    '更新最后一位总统的信息到当前日期。'
+                )
+
+                next_id = last_id + 1
+                next_president = presidents.get(str(next_id))
+                if next_president:
+                    db.presidents_zh.update_one(
+                        {'date': last_president['date']},
+                        {'$set': {'date': today_str}, '$inc': {'id': 1}},
+                    )
+
+                    send_info_through_channel_ZH(next_president)
+                else:
+
+                    logger.error('没有更多总统可发送。')
+
+            else:
+
+                logger.info(
+                    "现在还不是发送下一位总统信息的时候。"
+                )
+
+    except Exception as e:
+
+        logger.error(
+            f'发送总统信息时出错: {str(e)}'
+        )
+
+
+def send_info_through_channel_ZH(president_info):
+    try:
+        title = president_info.get('title', '')
+        name = president_info.get('name', '')
+        position = president_info.get('position', '')
+        party = president_info.get('broken', '')
+        term_year = president_info.get('year_of_office', '')
+        vice_president = president_info.get('vice_president', '')
+        photo = president_info.get('photo', '')
+        where = president_info.get('local', '')
+
+        caption = (
+            f'<b>{title}</b>\n\n'
+            f'<b>姓名:</b> {name}\n'
+            f'<b>信息:</b> {position}° {title}\n'
+            f'<b>政党:</b> {party}\n'
+            f'<b>任期年份:</b> {term_year}\n'
+            f'<b>副总统:</b> {vice_president}\n'
+            f'<b>地点:</b> {where}\n\n'
+            f'<blockquote>💬 你知道吗？关注 @history_zh。</blockquote>'
+        )
+
+        logger.success('总统照片发送成功！')
+
+        bot.send_photo(
+            CHANNEL_ZH, photo=photo, caption=caption, parse_mode='HTML'
+        )
+    except Exception as e:
+
+        logger.error(f'发送总统照片时出错: {str(e)}')
+

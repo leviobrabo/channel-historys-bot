@@ -6,6 +6,7 @@ import pytz
 import requests
 from telebot import types
 import json
+from db import db, add_presidents_de_db
 
 
 def send_historical_events_CHANNEL_DE_image(CHANNEL_DE):
@@ -241,7 +242,7 @@ def hist_CHANNEL_DE_events():
 
 def message_CHANNEL_DE_alert():
     try:
-        nachricht = "🌟 📺 **Treten Sie unserem erstaunlichen Geschichtskanal bei!** 📺 🌟\n\n"\
+        nachricht = "🌟 📺 <b>Treten Sie unserem erstaunlichen Geschichtskanal bei!</b> 📺 🌟\n\n"\
             "Freunde, entdecken Sie den Zauber der Geschichte durch unsere unterhaltsamen und aufregenden Kanäle! "\
             "Treten Sie jetzt bei und genießen Sie eine breite Palette von Programmen und Dokumentationen, die Sie auf "\
             "eine spannende Reise in die Tiefen der Geschichte mitnehmen.\n\n"\
@@ -257,3 +258,134 @@ def message_CHANNEL_DE_alert():
     except Exception as e:
         logger.error(
             'Fehler beim Senden von historischen Fakten in den Kanal:', str(e))
+
+
+def get_curiosity_DE(CHANNEL_DE):
+    try:
+        today = datetime.now()
+        day = today.day
+        month = today.month
+        with open(
+            './channel-historys/data/curiosity/curiosity-de.json', 'r', encoding='utf-8'
+        ) as file:
+            json_events = json.load(file)
+            curiosity = json_events.get(f'{month}-{day}', {}).get(
+                'curiosity', []
+            )
+            if curiosity:
+                info = curiosity[0].get('text', '')
+
+                # For 2025 (uncomment this line and comment the line above)
+                # info = curiosidade[1].get("texto1", "")
+
+                message = f'<b>Historische Kuriositäten 📜</b>\n\n{info}\n\n<blockquote>💬 Wussten Sie? Folgen @die_huetie_geschichte.</blockquote>'
+                bot.send_message(CHANNEL_DE, message)
+            else:
+
+                logger.info('Es gibt keine Informationen für heute.')
+
+    except Exception as e:
+
+        logger.error('Fehler beim Abrufen von Informationen:', str(e))
+
+
+def hist_channel_curiosity_DE():
+    try:
+        get_curiosity_DE(CHANNEL_DE)
+
+        logger.success(f'Neugierde an den Kanal {CHANNEL_DE} gesendet')
+
+    except Exception as e:
+
+        logger.error('Fehler beim Senden der Neugier an den Kanal:', str(e))
+
+with open(
+    './data/presidents/presidents-de.json', 'r', encoding='utf-8'
+) as file:
+    presidents = json.load(file)
+
+
+def send_president_photo_DE():
+    try:
+        if db.presidents_de.count_documents({}) == 0:
+            president = presidents.get('1')
+            new_id = 1
+            new_date = datetime.now(
+                pytz.timezone('America/Sao_Paulo')
+            ).strftime('%Y-%m-%d')
+            add_presidents_de_db(new_id, new_date)
+            send_info_through_CHANNEL_DE(president)
+        else:
+            last_president = (
+                db.presidents_de.find().sort([('_id', -1)]).limit(1)[0]
+            )
+            last_id = last_president['id']
+            sending_date = datetime.strptime(
+                last_president['date'], '%Y-%m-%d'
+            )
+
+            today = datetime.now(pytz.timezone('America/Sao_Paulo'))
+            today_str = today.strftime('%Y-%m-%d')
+
+            if last_president['date'] != today_str:
+
+                logger.info(
+                    'Aktualisieren der Informationen zum letzten Präsidenten auf das aktuelle Datum.'
+                )
+
+                next_id = last_id + 1
+                next_president = presidents.get(str(next_id))
+                if next_president:
+                    db.presidents_de.update_one(
+                        {'date': last_president['date']},
+                        {'$set': {'date': today_str}, '$inc': {'id': 1}},
+                    )
+
+                    send_info_through_CHANNEL_DE(next_president)
+                else:
+
+                    logger.error('Keine weiteren Präsidenten zum Senden.')
+
+            else:
+
+                logger.info(
+                    "Es ist noch nicht an der Zeit, Informationen über den nächsten Präsidenten zu senden."
+                )
+
+    except Exception as e:
+
+        logger.error(
+            f'Ein Fehler ist aufgetreten beim Senden von Präsidenteninformationen: {str(e)}'
+        )
+
+
+def send_info_through_CHANNEL_DE(president_info):
+    try:
+        title = president_info.get('title', '')
+        name = president_info.get('name', '')
+        position = president_info.get('position', '')
+        party = president_info.get('broken', '')
+        term_year = president_info.get('year_of_office', '')
+        vice_president = president_info.get('vice_president', '')
+        photo = president_info.get('photo', '')
+        where = president_info.get('local', '')
+
+        caption = (
+            f'<b>{title}</b>\n\n'
+            f'<b>Name:</b> {name}\n'
+            f'<b>Information:</b> {position}° {title}\n'
+            f'<b>Partei:</b> {party}\n'
+            f'<b>Amtszeit:</b> {term_year}\n'
+            f'<b>Vizepräsident:</b> {vice_president}\n'
+            f'<b>Ort:</b> {where}\n\n'
+            f'<blockquote>💬 Wussten Sie schon? Folgen Sie @die_huetie_geschichte..</blockquote>'
+        )
+
+        logger.success('Präsidentenfoto erfolgreich gesendet!')
+
+        bot.send_photo(
+            CHANNEL_DE, photo=photo, caption=caption, parse_mode='HTML'
+        )
+    except Exception as e:
+
+        logger.error(f'Fehler beim Senden des Präsidentenfotos: {str(e)}')

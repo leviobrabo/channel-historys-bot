@@ -6,6 +6,7 @@ import pytz
 import requests
 from telebot import types
 import json
+from db import db, add_presidents_cs_db
 
 
 def get_historical_events():
@@ -65,7 +66,7 @@ def hist_CHANNEL_CS_events():
 
 def message_CHANNEL_CS_alert():
     try:
-        zprava = "🌟 📺 **Připojte se k našemu úžasnému kanálu historie!** 📺 🌟\n\n"\
+        zprava = "🌟 📺 <b>Připojte se k našemu úžasnému kanálu historie!</b> 📺 🌟\n\n"\
             "Přátelé, objevte kouzlo historie prostřednictvím našich zábavných a vzrušujících kanálů! "\
             "Přidejte se k nám nyní a užijte si širokou škálu programů a dokumentů, které vás zavedou na "\
             "vzrušující cestu do hlubin historie.\n\n"\
@@ -81,3 +82,135 @@ def message_CHANNEL_CS_alert():
     except Exception as e:
         logger.error(
             'Chyba při odesílání historických faktů do kanálu:', str(e))
+
+
+def get_curiosity_CS(CHANNEL_CS):
+    try:
+        today = datetime.now()
+        day = today.day
+        month = today.month
+        with open(
+            './channel-historys/data/curiosity/curiosity-cs.json', 'r', encoding='utf-8'
+        ) as file:
+            json_events = json.load(file)
+            curiosity = json_events.get(f'{month}-{day}', {}).get(
+                'curiosity', []
+            )
+            if curiosity:
+                info = curiosity[0].get('text', '')
+
+                # For 2025 (uncomment this line and comment the line above)
+                # info = curiosidade[1].get("texto1", "")
+
+                message = f'<b>Historické kuriozity 📜</b>\n\n{info}\n\n<blockquote>💬 Věděl jsi? Následovat @dnes_v_historii.</blockquote>'
+                bot.send_message(CHANNEL_CS, message)
+            else:
+
+                logger.info('Pro dnešní den nejsou k dispozici žádné informace.')
+
+    except Exception as e:
+
+        logger.error('Chyba při získávání informací:', str(e))
+
+
+def hist_channel_curiosity_CS():
+    try:
+        get_curiosity_CS(CHANNEL_CS)
+
+        logger.success(f'Zvědavost odeslána do kanálu {CHANNEL_CS}')
+
+    except Exception as e:
+
+        logger.error('Chyba při odesílání zvědavosti do kanálu:', str(e))
+
+with open(
+    './data/presidents/presidents-cs.json', 'r', encoding='utf-8'
+) as file:
+    presidents = json.load(file)
+
+
+def send_president_photo_CS():
+    try:
+        if db.presidents_cs.count_documents({}) == 0:
+            president = presidents.get('1')
+            new_id = 1
+            new_date = datetime.now(
+                pytz.timezone('America/Sao_Paulo')
+            ).strftime('%Y-%m-%d')
+            add_presidents_cs_db(new_id, new_date)
+            send_info_through_CHANNEL_CS(president)
+        else:
+            last_president = (
+                db.presidents_cs.find().sort([('_id', -1)]).limit(1)[0]
+            )
+            last_id = last_president['id']
+            sending_date = datetime.strptime(
+                last_president['date'], '%Y-%m-%d'
+            )
+
+            today = datetime.now(pytz.timezone('America/Sao_Paulo'))
+            today_str = today.strftime('%Y-%m-%d')
+
+            if last_president['date'] != today_str:
+
+                logger.info(
+                    'Aktualizace informací o posledním prezidentovi na aktuální datum.'
+                )
+
+                next_id = last_id + 1
+                next_president = presidents.get(str(next_id))
+                if next_president:
+                    db.presidents_cs.update_one(
+                        {'date': last_president['date']},
+                        {'$set': {'date': today_str}, '$inc': {'id': 1}},
+                    )
+
+                    send_info_through_CHANNEL_CS(next_president)
+                else:
+
+                    logger.error('Nejsou žádní další prezidenti k odeslání.')
+
+            else:
+
+                logger.info(
+                    "Ještě nenastal čas poslat informace o dalším prezidentovi."
+                )
+
+    except Exception as e:
+
+        logger.error(
+            f'Při odesílání informací o prezidentovi došlo k chybě: {str(e)}'
+        )
+
+
+def send_info_through_CHANNEL_CS(president_info):
+    try:
+        title = president_info.get('title', '')
+        name = president_info.get('name', '')
+        position = president_info.get('position', '')
+        party = president_info.get('broken', '')
+        term_year = president_info.get('year_of_office', '')
+        vice_president = president_info.get('vice_president', '')
+        photo = president_info.get('photo', '')
+        where = president_info.get('local', '')
+
+        caption = (
+            f'<b>{title}</b>\n\n'
+            f'<b>Jméno:</b> {name}\n'
+            f'<b>Informace:</b> {position}° {title}\n'
+            f'<b>Strana:</b> {party}\n'
+            f'<b>Rok v úřadu:</b> {term_year}\n'
+            f'<b>Místopředseda:</b> {vice_president}\n'
+            f'<b>Umístění:</b> {where}\n\n'
+            f'<blockquote>💬 Věděli jste? Sledujte @dnes_v_historii.</blockquote>'
+        )
+
+        logger.success('Odeslání fotky prezidenta bylo úspěšné!')
+
+        bot.send_photo(
+            CHANNEL_CS, photo=photo, caption=caption, parse_mode='HTML'
+        )
+    except Exception as e:
+
+        logger.error(f'Chyba při odesílání fotky prezidenta: {str(e)}')
+
